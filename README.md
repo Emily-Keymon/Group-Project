@@ -15,6 +15,8 @@
 * https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset?select=us-counties.csv
 * https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv
 * https://www.kaggle.com/headsortails/covid19-us-county-jhu-data-demographics/data?select=us_county.csv
+* https://www.washingtonpost.com/graphics/2020/national/states-reopening-coronavirus-map/
+
 
 
 
