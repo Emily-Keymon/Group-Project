@@ -8,7 +8,7 @@
 ## Questions for analysis:
 * How do the 3 datasets compare?  Are there any consistencies in data?  Is there any bias in the data sources?
 * What % of population is tested?  How much does testing vary from state to state?
-* Does the state shutdown and reopen time impact these three states?
+* Was there any impact from the state shutdown and reopen timing on these three states?
 
 ## References:
 * https://covidtracking.com/data/download
