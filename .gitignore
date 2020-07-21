@@ -128,7 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 #API keys
+=======
+>>>>>>> 156335bbb3a0a21b79d6cb83c0f090af2a05bfb6
 # OpenWeatherMap API Key
 weather_api_key = "95ca31f77a7c483e6a1fb576f0d99011"
 
@@ -137,4 +140,8 @@ g_key = "AIzaSyDndBQvxD0477QGyhjQx5kl5cVwdEu9PrQ"
 
 
 # Census API key
+<<<<<<< HEAD
 census_key = "c36a56e49922d3302a23247ab8ad562646a292e3"
+=======
+census_key = "c36a56e49922d3302a23247ab8ad562646a292e3"
+>>>>>>> 156335bbb3a0a21b79d6cb83c0f090af2a05bfb6
