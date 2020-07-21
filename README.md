@@ -10,6 +10,11 @@
 * What % of population is tested?  How much does testing vary from state to state?
 * Does the state shutdown and reopen time impact these three states?
 
+## References:
+* https://covidtracking.com/data/download
+* https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset?select=us-counties.csv
+* https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv
+* https://www.kaggle.com/headsortails/covid19-us-county-jhu-data-demographics/data?select=us_county.csv
 
 
 
