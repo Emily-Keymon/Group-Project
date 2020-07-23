@@ -65,23 +65,28 @@ Texas,2/29/2020,11
 Washington,2/29/2020,4
 Washington,2/29/2020,2
 Washington,2/29/2020,4
+New York,3/1/2020,1
 Texas,3/1/2020,11
 Washington,3/1/2020,11
 Washington,3/1/2020,2
 Washington,3/1/2020,4
 Georgia,3/2/2020,2
+New York,3/2/2020,1
 Texas,3/2/2020,11
 Washington,3/2/2020,15
 Washington,3/2/2020,3
 Washington,3/2/2020,4
 Washington,3/2/2020,1
 Georgia,3/3/2020,2
+New York,3/3/2020,2
 Texas,3/3/2020,11
 Washington,3/3/2020,22
 Washington,3/3/2020,5
 Washington,3/3/2020,4
 Washington,3/3/2020,1
 Georgia,3/4/2020,2
+New York,3/4/2020,2
+New York,3/4/2020,9
 Texas,3/4/2020,11
 Texas,3/4/2020,1
 Washington,3/4/2020,1
@@ -90,6 +95,9 @@ Washington,3/4/2020,8
 Washington,3/4/2020,4
 Washington,3/4/2020,1
 Georgia,3/5/2020,2
+New York,3/5/2020,1
+New York,3/5/2020,4
+New York,3/5/2020,17
 Texas,3/5/2020,11
 Texas,3/5/2020,1
 Texas,3/5/2020,4
@@ -100,6 +108,10 @@ Washington,3/5/2020,4
 Washington,3/5/2020,1
 Georgia,3/6/2020,2
 Georgia,3/6/2020,1
+New York,3/6/2020,4
+New York,3/6/2020,5
+New York,3/6/2020,2
+New York,3/6/2020,33
 Texas,3/6/2020,11
 Texas,3/6/2020,3
 Texas,3/6/2020,5
@@ -115,6 +127,11 @@ Georgia,3/7/2020,1
 Georgia,3/7/2020,4
 Georgia,3/7/2020,1
 Georgia,3/7/2020,1
+New York,3/7/2020,4
+New York,3/7/2020,12
+New York,3/7/2020,2
+New York,3/7/2020,2
+New York,3/7/2020,69
 Texas,3/7/2020,11
 Texas,3/7/2020,3
 Texas,3/7/2020,5
@@ -132,6 +149,13 @@ Georgia,3/8/2020,3
 Georgia,3/8/2020,5
 Georgia,3/8/2020,1
 Georgia,3/8/2020,1
+New York,3/8/2020,5
+New York,3/8/2020,14
+New York,3/8/2020,2
+New York,3/8/2020,2
+New York,3/8/2020,1
+New York,3/8/2020,1
+New York,3/8/2020,81
 Texas,3/8/2020,11
 Texas,3/8/2020,6
 Texas,3/8/2020,6
@@ -153,6 +177,13 @@ Georgia,3/9/2020,1
 Georgia,3/9/2020,5
 Georgia,3/9/2020,2
 Georgia,3/9/2020,1
+New York,3/9/2020,17
+New York,3/9/2020,20
+New York,3/9/2020,4
+New York,3/9/2020,2
+New York,3/9/2020,1
+New York,3/9/2020,1
+New York,3/9/2020,97
 Texas,3/9/2020,11
 Texas,3/9/2020,1
 Texas,3/9/2020,6
@@ -176,6 +207,13 @@ Georgia,3/10/2020,1
 Georgia,3/10/2020,6
 Georgia,3/10/2020,2
 Georgia,3/10/2020,1
+New York,3/10/2020,19
+New York,3/10/2020,37
+New York,3/10/2020,6
+New York,3/10/2020,2
+New York,3/10/2020,1
+New York,3/10/2020,1
+New York,3/10/2020,107
 Texas,3/10/2020,11
 Texas,3/10/2020,3
 Texas,3/10/2020,2
@@ -207,6 +245,14 @@ Georgia,3/11/2020,2
 Georgia,3/11/2020,1
 Georgia,3/11/2020,1
 Georgia,3/11/2020,1
+New York,3/11/2020,1
+New York,3/11/2020,28
+New York,3/11/2020,52
+New York,3/11/2020,6
+New York,3/11/2020,2
+New York,3/11/2020,6
+New York,3/11/2020,2
+New York,3/11/2020,120
 Texas,3/11/2020,11
 Texas,3/11/2020,3
 Texas,3/11/2020,3
@@ -241,6 +287,19 @@ Georgia,3/12/2020,2
 Georgia,3/12/2020,1
 Georgia,3/12/2020,1
 Georgia,3/12/2020,1
+New York,3/12/2020,2
+New York,3/12/2020,1
+New York,3/12/2020,1
+New York,3/12/2020,1
+New York,3/12/2020,1
+New York,3/12/2020,41
+New York,3/12/2020,96
+New York,3/12/2020,1
+New York,3/12/2020,7
+New York,3/12/2020,3
+New York,3/12/2020,21
+New York,3/12/2020,4
+New York,3/12/2020,147
 Texas,3/12/2020,11
 Texas,3/12/2020,4
 Texas,3/12/2020,8
@@ -280,6 +339,20 @@ Georgia,3/13/2020,1
 Georgia,3/13/2020,1
 Georgia,3/13/2020,1
 Georgia,3/13/2020,1
+New York,3/13/2020,2
+New York,3/13/2020,1
+New York,3/13/2020,3
+New York,3/13/2020,1
+New York,3/13/2020,1
+New York,3/13/2020,51
+New York,3/13/2020,155
+New York,3/13/2020,3
+New York,3/13/2020,9
+New York,3/13/2020,3
+New York,3/13/2020,1
+New York,3/13/2020,29
+New York,3/13/2020,5
+New York,3/13/2020,157
 Texas,3/13/2020,1
 Texas,3/13/2020,11
 Texas,3/13/2020,5
@@ -326,6 +399,23 @@ Georgia,3/14/2020,1
 Georgia,3/14/2020,1
 Georgia,3/14/2020,1
 Georgia,3/14/2020,1
+New York,3/14/2020,5
+New York,3/14/2020,1
+New York,3/14/2020,1
+New York,3/14/2020,4
+New York,3/14/2020,1
+New York,3/14/2020,2
+New York,3/14/2020,79
+New York,3/14/2020,269
+New York,3/14/2020,6
+New York,3/14/2020,12
+New York,3/14/2020,3
+New York,3/14/2020,1
+New York,3/14/2020,41
+New York,3/14/2020,1
+New York,3/14/2020,1
+New York,3/14/2020,5
+New York,3/14/2020,178
 Texas,3/14/2020,1
 Texas,3/14/2020,12
 Texas,3/14/2020,2
@@ -379,6 +469,27 @@ Georgia,3/15/2020,2
 Georgia,3/15/2020,2
 Georgia,3/15/2020,1
 Georgia,3/15/2020,1
+New York,3/15/2020,11
+New York,3/15/2020,1
+New York,3/15/2020,1
+New York,3/15/2020,7
+New York,3/15/2020,3
+New York,3/15/2020,2
+New York,3/15/2020,1
+New York,3/15/2020,2
+New York,3/15/2020,1
+New York,3/15/2020,98
+New York,3/15/2020,330
+New York,3/15/2020,6
+New York,3/15/2020,2
+New York,3/15/2020,13
+New York,3/15/2020,3
+New York,3/15/2020,2
+New York,3/15/2020,47
+New York,3/15/2020,1
+New York,3/15/2020,1
+New York,3/15/2020,5
+New York,3/15/2020,195
 Texas,3/15/2020,1
 Texas,3/15/2020,12
 Texas,3/15/2020,2
@@ -439,6 +550,30 @@ Georgia,3/16/2020,1
 Georgia,3/16/2020,1
 Georgia,3/16/2020,1
 Georgia,3/16/2020,1
+New York,3/16/2020,12
+New York,3/16/2020,2
+New York,3/16/2020,1
+New York,3/16/2020,1
+New York,3/16/2020,10
+New York,3/16/2020,6
+New York,3/16/2020,2
+New York,3/16/2020,1
+New York,3/16/2020,10
+New York,3/16/2020,1
+New York,3/16/2020,109
+New York,3/16/2020,464
+New York,3/16/2020,1
+New York,3/16/2020,1
+New York,3/16/2020,11
+New York,3/16/2020,2
+New York,3/16/2020,16
+New York,3/16/2020,5
+New York,3/16/2020,4
+New York,3/16/2020,63
+New York,3/16/2020,1
+New York,3/16/2020,1
+New York,3/16/2020,7
+New York,3/16/2020,219
 Texas,3/16/2020,1
 Texas,3/16/2020,13
 Texas,3/16/2020,1
@@ -503,6 +638,34 @@ Georgia,3/17/2020,1
 Georgia,3/17/2020,1
 Georgia,3/17/2020,2
 Georgia,3/17/2020,1
+New York,3/17/2020,23
+New York,3/17/2020,2
+New York,3/17/2020,1
+New York,3/17/2020,1
+New York,3/17/2020,1
+New York,3/17/2020,16
+New York,3/17/2020,7
+New York,3/17/2020,2
+New York,3/17/2020,1
+New York,3/17/2020,11
+New York,3/17/2020,1
+New York,3/17/2020,131
+New York,3/17/2020,646
+New York,3/17/2020,2
+New York,3/17/2020,1
+New York,3/17/2020,15
+New York,3/17/2020,2
+New York,3/17/2020,1
+New York,3/17/2020,22
+New York,3/17/2020,9
+New York,3/17/2020,5
+New York,3/17/2020,84
+New York,3/17/2020,1
+New York,3/17/2020,1
+New York,3/17/2020,1
+New York,3/17/2020,8
+New York,3/17/2020,379
+New York,3/17/2020,1
 Texas,3/17/2020,1
 Texas,3/17/2020,13
 Texas,3/17/2020,1
@@ -574,6 +737,41 @@ Georgia,3/18/2020,1
 Georgia,3/18/2020,2
 Georgia,3/18/2020,2
 Georgia,3/18/2020,1
+New York,3/18/2020,36
+New York,3/18/2020,2
+New York,3/18/2020,2
+New York,3/18/2020,1
+New York,3/18/2020,1
+New York,3/18/2020,1
+New York,3/18/2020,20
+New York,3/18/2020,7
+New York,3/18/2020,1
+New York,3/18/2020,2
+New York,3/18/2020,1
+New York,3/18/2020,1
+New York,3/18/2020,1
+New York,3/18/2020,1
+New York,3/18/2020,14
+New York,3/18/2020,1
+New York,3/18/2020,183
+New York,3/18/2020,1344
+New York,3/18/2020,2
+New York,3/18/2020,1
+New York,3/18/2020,32
+New York,3/18/2020,2
+New York,3/18/2020,4
+New York,3/18/2020,30
+New York,3/18/2020,14
+New York,3/18/2020,14
+New York,3/18/2020,116
+New York,3/18/2020,1
+New York,3/18/2020,1
+New York,3/18/2020,2
+New York,3/18/2020,9
+New York,3/18/2020,1
+New York,3/18/2020,1
+New York,3/18/2020,537
+New York,3/18/2020,1
 Texas,3/18/2020,1
 Texas,3/18/2020,13
 Texas,3/18/2020,1
@@ -660,6 +858,43 @@ Georgia,3/19/2020,3
 Georgia,3/19/2020,1
 Georgia,3/19/2020,2
 Georgia,3/19/2020,1
+New York,3/19/2020,43
+New York,3/19/2020,2
+New York,3/19/2020,2
+New York,3/19/2020,1
+New York,3/19/2020,1
+New York,3/19/2020,1
+New York,3/19/2020,31
+New York,3/19/2020,28
+New York,3/19/2020,1
+New York,3/19/2020,2
+New York,3/19/2020,1
+New York,3/19/2020,1
+New York,3/19/2020,1
+New York,3/19/2020,1
+New York,3/19/2020,28
+New York,3/19/2020,1
+New York,3/19/2020,382
+New York,3/19/2020,2477
+New York,3/19/2020,2
+New York,3/19/2020,1
+New York,3/19/2020,51
+New York,3/19/2020,2
+New York,3/19/2020,4
+New York,3/19/2020,53
+New York,3/19/2020,14
+New York,3/19/2020,21
+New York,3/19/2020,1
+New York,3/19/2020,178
+New York,3/19/2020,8
+New York,3/19/2020,1
+New York,3/19/2020,7
+New York,3/19/2020,12
+New York,3/19/2020,1
+New York,3/19/2020,1
+New York,3/19/2020,1
+New York,3/19/2020,797
+New York,3/19/2020,2
 Texas,3/19/2020,1
 Texas,3/19/2020,17
 Texas,3/19/2020,1
@@ -772,6 +1007,48 @@ Georgia,3/20/2020,1
 Georgia,3/20/2020,6
 Georgia,3/20/2020,1
 Georgia,3/20/2020,2
+New York,3/20/2020,61
+New York,3/20/2020,2
+New York,3/20/2020,2
+New York,3/20/2020,2
+New York,3/20/2020,2
+New York,3/20/2020,1
+New York,3/20/2020,1
+New York,3/20/2020,36
+New York,3/20/2020,31
+New York,3/20/2020,1
+New York,3/20/2020,1
+New York,3/20/2020,1
+New York,3/20/2020,2
+New York,3/20/2020,2
+New York,3/20/2020,2
+New York,3/20/2020,1
+New York,3/20/2020,1
+New York,3/20/2020,32
+New York,3/20/2020,2
+New York,3/20/2020,754
+New York,3/20/2020,4419
+New York,3/20/2020,3
+New York,3/20/2020,2
+New York,3/20/2020,8
+New York,3/20/2020,3
+New York,3/20/2020,84
+New York,3/20/2020,7
+New York,3/20/2020,8
+New York,3/20/2020,101
+New York,3/20/2020,24
+New York,3/20/2020,21
+New York,3/20/2020,1
+New York,3/20/2020,371
+New York,3/20/2020,8
+New York,3/20/2020,1
+New York,3/20/2020,7
+New York,3/20/2020,12
+New York,3/20/2020,1
+New York,3/20/2020,1
+New York,3/20/2020,1
+New York,3/20/2020,1091
+New York,3/20/2020,2
 Texas,3/20/2020,2
 Texas,3/20/2020,40
 Texas,3/20/2020,1
@@ -894,6 +1171,49 @@ Georgia,3/21/2020,1
 Georgia,3/21/2020,27
 Georgia,3/21/2020,1
 Georgia,3/21/2020,2
+New York,3/21/2020,88
+New York,3/21/2020,2
+New York,3/21/2020,2
+New York,3/21/2020,2
+New York,3/21/2020,4
+New York,3/21/2020,2
+New York,3/21/2020,1
+New York,3/21/2020,49
+New York,3/21/2020,38
+New York,3/21/2020,2
+New York,3/21/2020,1
+New York,3/21/2020,1
+New York,3/21/2020,2
+New York,3/21/2020,2
+New York,3/21/2020,3
+New York,3/21/2020,1
+New York,3/21/2020,2
+New York,3/21/2020,42
+New York,3/21/2020,3
+New York,3/21/2020,1234
+New York,3/21/2020,6226
+New York,3/21/2020,4
+New York,3/21/2020,4
+New York,3/21/2020,17
+New York,3/21/2020,4
+New York,3/21/2020,163
+New York,3/21/2020,22
+New York,3/21/2020,20
+New York,3/21/2020,262
+New York,3/21/2020,35
+New York,3/21/2020,32
+New York,3/21/2020,1
+New York,3/21/2020,2
+New York,3/21/2020,662
+New York,3/21/2020,12
+New York,3/21/2020,1
+New York,3/21/2020,11
+New York,3/21/2020,18
+New York,3/21/2020,1
+New York,3/21/2020,1
+New York,3/21/2020,3
+New York,3/21/2020,1387
+New York,3/21/2020,2
 Texas,3/21/2020,1
 Texas,3/21/2020,8
 Texas,3/21/2020,50
@@ -1029,6 +1349,52 @@ Georgia,3/22/2020,1
 Georgia,3/22/2020,27
 Georgia,3/22/2020,2
 Georgia,3/22/2020,2
+New York,3/22/2020,123
+New York,3/22/2020,2
+New York,3/22/2020,3
+New York,3/22/2020,3
+New York,3/22/2020,4
+New York,3/22/2020,5
+New York,3/22/2020,1
+New York,3/22/2020,3
+New York,3/22/2020,82
+New York,3/22/2020,54
+New York,3/22/2020,3
+New York,3/22/2020,1
+New York,3/22/2020,1
+New York,3/22/2020,2
+New York,3/22/2020,2
+New York,3/22/2020,4
+New York,3/22/2020,1
+New York,3/22/2020,2
+New York,3/22/2020,1
+New York,3/22/2020,57
+New York,3/22/2020,3
+New York,3/22/2020,1900
+New York,3/22/2020,9065
+New York,3/22/2020,6
+New York,3/22/2020,5
+New York,3/22/2020,29
+New York,3/22/2020,6
+New York,3/22/2020,247
+New York,3/22/2020,37
+New York,3/22/2020,26
+New York,3/22/2020,455
+New York,3/22/2020,41
+New York,3/22/2020,39
+New York,3/22/2020,1
+New York,3/22/2020,1
+New York,3/22/2020,3
+New York,3/22/2020,1034
+New York,3/22/2020,16
+New York,3/22/2020,1
+New York,3/22/2020,13
+New York,3/22/2020,26
+New York,3/22/2020,1
+New York,3/22/2020,1
+New York,3/22/2020,3
+New York,3/22/2020,1873
+New York,3/22/2020,2
 Texas,3/22/2020,1
 Texas,3/22/2020,8
 Texas,3/22/2020,50
@@ -1173,6 +1539,55 @@ Georgia,3/23/2020,46
 Georgia,3/23/2020,1
 Georgia,3/23/2020,2
 Georgia,3/23/2020,3
+New York,3/23/2020,127
+New York,3/23/2020,2
+New York,3/23/2020,7
+New York,3/23/2020,2
+New York,3/23/2020,3
+New York,3/23/2020,6
+New York,3/23/2020,10
+New York,3/23/2020,2
+New York,3/23/2020,3
+New York,3/23/2020,100
+New York,3/23/2020,87
+New York,3/23/2020,3
+New York,3/23/2020,1
+New York,3/23/2020,1
+New York,3/23/2020,4
+New York,3/23/2020,2
+New York,3/23/2020,4
+New York,3/23/2020,2
+New York,3/23/2020,3
+New York,3/23/2020,4
+New York,3/23/2020,76
+New York,3/23/2020,3
+New York,3/23/2020,2442
+New York,3/23/2020,12329
+New York,3/23/2020,10
+New York,3/23/2020,7
+New York,3/23/2020,52
+New York,3/23/2020,6
+New York,3/23/2020,389
+New York,3/23/2020,1
+New York,3/23/2020,1
+New York,3/23/2020,45
+New York,3/23/2020,29
+New York,3/23/2020,592
+New York,3/23/2020,53
+New York,3/23/2020,44
+New York,3/23/2020,1
+New York,3/23/2020,1
+New York,3/23/2020,4
+New York,3/23/2020,1458
+New York,3/23/2020,23
+New York,3/23/2020,1
+New York,3/23/2020,15
+New York,3/23/2020,35
+New York,3/23/2020,2
+New York,3/23/2020,3
+New York,3/23/2020,6
+New York,3/23/2020,2894
+New York,3/23/2020,4
 Texas,3/23/2020,1
 Texas,3/23/2020,8
 Texas,3/23/2020,50
@@ -1336,6 +1751,57 @@ Georgia,3/24/2020,78
 Georgia,3/24/2020,1
 Georgia,3/24/2020,2
 Georgia,3/24/2020,4
+New York,3/24/2020,146
+New York,3/24/2020,2
+New York,3/24/2020,9
+New York,3/24/2020,2
+New York,3/24/2020,1
+New York,3/24/2020,3
+New York,3/24/2020,8
+New York,3/24/2020,11
+New York,3/24/2020,2
+New York,3/24/2020,3
+New York,3/24/2020,124
+New York,3/24/2020,107
+New York,3/24/2020,3
+New York,3/24/2020,1
+New York,3/24/2020,1
+New York,3/24/2020,4
+New York,3/24/2020,2
+New York,3/24/2020,4
+New York,3/24/2020,2
+New York,3/24/2020,3
+New York,3/24/2020,5
+New York,3/24/2020,96
+New York,3/24/2020,3
+New York,3/24/2020,2869
+New York,3/24/2020,14943
+New York,3/24/2020,11
+New York,3/24/2020,8
+New York,3/24/2020,60
+New York,3/24/2020,7
+New York,3/24/2020,498
+New York,3/24/2020,2
+New York,3/24/2020,2
+New York,3/24/2020,1
+New York,3/24/2020,67
+New York,3/24/2020,30
+New York,3/24/2020,671
+New York,3/24/2020,60
+New York,3/24/2020,46
+New York,3/24/2020,1
+New York,3/24/2020,1
+New York,3/24/2020,5
+New York,3/24/2020,1880
+New York,3/24/2020,30
+New York,3/24/2020,1
+New York,3/24/2020,16
+New York,3/24/2020,47
+New York,3/24/2020,2
+New York,3/24/2020,3
+New York,3/24/2020,6
+New York,3/24/2020,3891
+New York,3/24/2020,4
 Texas,3/24/2020,1
 Texas,3/24/2020,8
 Texas,3/24/2020,68
@@ -1520,6 +1986,59 @@ Georgia,3/25/2020,1
 Georgia,3/25/2020,4
 Georgia,3/25/2020,1
 Georgia,3/25/2020,4
+New York,3/25/2020,152
+New York,3/25/2020,2
+New York,3/25/2020,11
+New York,3/25/2020,2
+New York,3/25/2020,1
+New York,3/25/2020,1
+New York,3/25/2020,3
+New York,3/25/2020,10
+New York,3/25/2020,12
+New York,3/25/2020,2
+New York,3/25/2020,5
+New York,3/25/2020,153
+New York,3/25/2020,122
+New York,3/25/2020,4
+New York,3/25/2020,1
+New York,3/25/2020,1
+New York,3/25/2020,2
+New York,3/25/2020,4
+New York,3/25/2020,2
+New York,3/25/2020,5
+New York,3/25/2020,2
+New York,3/25/2020,3
+New York,3/25/2020,7
+New York,3/25/2020,118
+New York,3/25/2020,4
+New York,3/25/2020,3285
+New York,3/25/2020,20061
+New York,3/25/2020,12
+New York,3/25/2020,9
+New York,3/25/2020,65
+New York,3/25/2020,9
+New York,3/25/2020,638
+New York,3/25/2020,2
+New York,3/25/2020,2
+New York,3/25/2020,2
+New York,3/25/2020,84
+New York,3/25/2020,31
+New York,3/25/2020,1069
+New York,3/25/2020,64
+New York,3/25/2020,55
+New York,3/25/2020,2
+New York,3/25/2020,1
+New York,3/25/2020,8
+New York,3/25/2020,2260
+New York,3/25/2020,39
+New York,3/25/2020,1
+New York,3/25/2020,16
+New York,3/25/2020,65
+New York,3/25/2020,2
+New York,3/25/2020,4
+New York,3/25/2020,7
+New York,3/25/2020,4691
+New York,3/25/2020,4
 Texas,3/25/2020,2
 Texas,3/25/2020,1
 Texas,3/25/2020,1
@@ -1740,6 +2259,59 @@ Georgia,3/26/2020,1
 Georgia,3/26/2020,6
 Georgia,3/26/2020,1
 Georgia,3/26/2020,6
+New York,3/26/2020,171
+New York,3/26/2020,2
+New York,3/26/2020,16
+New York,3/26/2020,2
+New York,3/26/2020,1
+New York,3/26/2020,7
+New York,3/26/2020,3
+New York,3/26/2020,11
+New York,3/26/2020,13
+New York,3/26/2020,2
+New York,3/26/2020,7
+New York,3/26/2020,190
+New York,3/26/2020,134
+New York,3/26/2020,4
+New York,3/26/2020,1
+New York,3/26/2020,1
+New York,3/26/2020,4
+New York,3/26/2020,5
+New York,3/26/2020,2
+New York,3/26/2020,7
+New York,3/26/2020,3
+New York,3/26/2020,3
+New York,3/26/2020,9
+New York,3/26/2020,139
+New York,3/26/2020,5
+New York,3/26/2020,3914
+New York,3/26/2020,23182
+New York,3/26/2020,14
+New York,3/26/2020,13
+New York,3/26/2020,83
+New York,3/26/2020,11
+New York,3/26/2020,751
+New York,3/26/2020,2
+New York,3/26/2020,4
+New York,3/26/2020,3
+New York,3/26/2020,94
+New York,3/26/2020,32
+New York,3/26/2020,1197
+New York,3/26/2020,73
+New York,3/26/2020,62
+New York,3/26/2020,2
+New York,3/26/2020,2
+New York,3/26/2020,11
+New York,3/26/2020,2735
+New York,3/26/2020,53
+New York,3/26/2020,2
+New York,3/26/2020,22
+New York,3/26/2020,89
+New York,3/26/2020,2
+New York,3/26/2020,4
+New York,3/26/2020,8
+New York,3/26/2020,5944
+New York,3/26/2020,7
 Texas,3/26/2020,1
 Texas,3/26/2020,2
 Texas,3/26/2020,1
@@ -1973,6 +2545,59 @@ Georgia,3/27/2020,1
 Georgia,3/27/2020,6
 Georgia,3/27/2020,1
 Georgia,3/27/2020,7
+New York,3/27/2020,187
+New York,3/27/2020,2
+New York,3/27/2020,18
+New York,3/27/2020,2
+New York,3/27/2020,1
+New York,3/27/2020,11
+New York,3/27/2020,4
+New York,3/27/2020,11
+New York,3/27/2020,20
+New York,3/27/2020,4
+New York,3/27/2020,8
+New York,3/27/2020,225
+New York,3/27/2020,219
+New York,3/27/2020,4
+New York,3/27/2020,2
+New York,3/27/2020,1
+New York,3/27/2020,6
+New York,3/27/2020,6
+New York,3/27/2020,2
+New York,3/27/2020,9
+New York,3/27/2020,3
+New York,3/27/2020,3
+New York,3/27/2020,17
+New York,3/27/2020,160
+New York,3/27/2020,5
+New York,3/27/2020,4657
+New York,3/27/2020,25509
+New York,3/27/2020,23
+New York,3/27/2020,13
+New York,3/27/2020,115
+New York,3/27/2020,14
+New York,3/27/2020,910
+New York,3/27/2020,3
+New York,3/27/2020,4
+New York,3/27/2020,5
+New York,3/27/2020,111
+New York,3/27/2020,35
+New York,3/27/2020,1457
+New York,3/27/2020,82
+New York,3/27/2020,66
+New York,3/27/2020,3
+New York,3/27/2020,3
+New York,3/27/2020,12
+New York,3/27/2020,3385
+New York,3/27/2020,64
+New York,3/27/2020,2
+New York,3/27/2020,26
+New York,3/27/2020,98
+New York,3/27/2020,8
+New York,3/27/2020,6
+New York,3/27/2020,11
+New York,3/27/2020,7187
+New York,3/27/2020,7
 Texas,3/27/2020,2
 Texas,3/27/2020,2
 Texas,3/27/2020,1
@@ -2225,6 +2850,61 @@ Georgia,3/28/2020,1
 Georgia,3/28/2020,6
 Georgia,3/28/2020,1
 Georgia,3/28/2020,8
+New York,3/28/2020,195
+New York,3/28/2020,2
+New York,3/28/2020,23
+New York,3/28/2020,1
+New York,3/28/2020,2
+New York,3/28/2020,5
+New York,3/28/2020,12
+New York,3/28/2020,8
+New York,3/28/2020,12
+New York,3/28/2020,22
+New York,3/28/2020,5
+New York,3/28/2020,8
+New York,3/28/2020,262
+New York,3/28/2020,354
+New York,3/28/2020,4
+New York,3/28/2020,4
+New York,3/28/2020,1
+New York,3/28/2020,7
+New York,3/28/2020,7
+New York,3/28/2020,2
+New York,3/28/2020,9
+New York,3/28/2020,6
+New York,3/28/2020,5
+New York,3/28/2020,19
+New York,3/28/2020,202
+New York,3/28/2020,5
+New York,3/28/2020,5537
+New York,3/28/2020,30919
+New York,3/28/2020,33
+New York,3/28/2020,23
+New York,3/28/2020,129
+New York,3/28/2020,16
+New York,3/28/2020,1101
+New York,3/28/2020,3
+New York,3/28/2020,7
+New York,3/28/2020,7
+New York,3/28/2020,131
+New York,3/28/2020,38
+New York,3/28/2020,1896
+New York,3/28/2020,96
+New York,3/28/2020,72
+New York,3/28/2020,5
+New York,3/28/2020,1
+New York,3/28/2020,8
+New York,3/28/2020,13
+New York,3/28/2020,4138
+New York,3/28/2020,72
+New York,3/28/2020,4
+New York,3/28/2020,45
+New York,3/28/2020,128
+New York,3/28/2020,13
+New York,3/28/2020,6
+New York,3/28/2020,12
+New York,3/28/2020,7875
+New York,3/28/2020,7
 Texas,3/28/2020,1
 Texas,3/28/2020,2
 Texas,3/28/2020,1
@@ -2485,6 +3165,63 @@ Georgia,3/29/2020,1
 Georgia,3/29/2020,8
 Georgia,3/29/2020,1
 Georgia,3/29/2020,10
+New York,3/29/2020,205
+New York,3/29/2020,6
+New York,3/29/2020,29
+New York,3/29/2020,4
+New York,3/29/2020,2
+New York,3/29/2020,5
+New York,3/29/2020,15
+New York,3/29/2020,15
+New York,3/29/2020,13
+New York,3/29/2020,23
+New York,3/29/2020,6
+New York,3/29/2020,8
+New York,3/29/2020,320
+New York,3/29/2020,380
+New York,3/29/2020,4
+New York,3/29/2020,6
+New York,3/29/2020,1
+New York,3/29/2020,9
+New York,3/29/2020,7
+New York,3/29/2020,2
+New York,3/29/2020,10
+New York,3/29/2020,7
+New York,3/29/2020,2
+New York,3/29/2020,10
+New York,3/29/2020,24
+New York,3/29/2020,219
+New York,3/29/2020,6
+New York,3/29/2020,6445
+New York,3/29/2020,33983
+New York,3/29/2020,38
+New York,3/29/2020,26
+New York,3/29/2020,152
+New York,3/29/2020,18
+New York,3/29/2020,1247
+New York,3/29/2020,3
+New York,3/29/2020,8
+New York,3/29/2020,10
+New York,3/29/2020,144
+New York,3/29/2020,39
+New York,3/29/2020,2209
+New York,3/29/2020,102
+New York,3/29/2020,76
+New York,3/29/2020,5
+New York,3/29/2020,1
+New York,3/29/2020,12
+New York,3/29/2020,17
+New York,3/29/2020,5023
+New York,3/29/2020,88
+New York,3/29/2020,4
+New York,3/29/2020,52
+New York,3/29/2020,179
+New York,3/29/2020,0
+New York,3/29/2020,18
+New York,3/29/2020,7
+New York,3/29/2020,12
+New York,3/29/2020,8519
+New York,3/29/2020,8
 Texas,3/29/2020,3
 Texas,3/29/2020,2
 Texas,3/29/2020,2
@@ -2769,6 +3506,63 @@ Georgia,3/30/2020,1
 Georgia,3/30/2020,8
 Georgia,3/30/2020,2
 Georgia,3/30/2020,12
+New York,3/30/2020,217
+New York,3/30/2020,7
+New York,3/30/2020,35
+New York,3/30/2020,6
+New York,3/30/2020,3
+New York,3/30/2020,5
+New York,3/30/2020,15
+New York,3/30/2020,17
+New York,3/30/2020,17
+New York,3/30/2020,26
+New York,3/30/2020,8
+New York,3/30/2020,11
+New York,3/30/2020,392
+New York,3/30/2020,443
+New York,3/30/2020,5
+New York,3/30/2020,6
+New York,3/30/2020,1
+New York,3/30/2020,9
+New York,3/30/2020,10
+New York,3/30/2020,2
+New York,3/30/2020,12
+New York,3/30/2020,11
+New York,3/30/2020,2
+New York,3/30/2020,12
+New York,3/30/2020,34
+New York,3/30/2020,242
+New York,3/30/2020,6
+New York,3/30/2020,7344
+New York,3/30/2020,38375
+New York,3/30/2020,41
+New York,3/30/2020,34
+New York,3/30/2020,180
+New York,3/30/2020,20
+New York,3/30/2020,1435
+New York,3/30/2020,4
+New York,3/30/2020,14
+New York,3/30/2020,17
+New York,3/30/2020,167
+New York,3/30/2020,40
+New York,3/30/2020,2511
+New York,3/30/2020,105
+New York,3/30/2020,80
+New York,3/30/2020,6
+New York,3/30/2020,2
+New York,3/30/2020,13
+New York,3/30/2020,19
+New York,3/30/2020,5791
+New York,3/30/2020,101
+New York,3/30/2020,4
+New York,3/30/2020,66
+New York,3/30/2020,207
+New York,3/30/2020,0
+New York,3/30/2020,18
+New York,3/30/2020,7
+New York,3/30/2020,15
+New York,3/30/2020,9326
+New York,3/30/2020,8
 Texas,3/30/2020,3
 Texas,3/30/2020,2
 Texas,3/30/2020,2
@@ -3067,6 +3861,64 @@ Georgia,3/31/2020,1
 Georgia,3/31/2020,2
 Georgia,3/31/2020,1
 Georgia,3/31/2020,28
+New York,3/31/2020,226
+New York,3/31/2020,7
+New York,3/31/2020,38
+New York,3/31/2020,6
+New York,3/31/2020,3
+New York,3/31/2020,6
+New York,3/31/2020,20
+New York,3/31/2020,19
+New York,3/31/2020,21
+New York,3/31/2020,36
+New York,3/31/2020,8
+New York,3/31/2020,16
+New York,3/31/2020,484
+New York,3/31/2020,438
+New York,3/31/2020,5
+New York,3/31/2020,9
+New York,3/31/2020,1
+New York,3/31/2020,10
+New York,3/31/2020,16
+New York,3/31/2020,2
+New York,3/31/2020,12
+New York,3/31/2020,12
+New York,3/31/2020,2
+New York,3/31/2020,13
+New York,3/31/2020,41
+New York,3/31/2020,300
+New York,3/31/2020,7
+New York,3/31/2020,8544
+New York,3/31/2020,43518
+New York,3/31/2020,42
+New York,3/31/2020,40
+New York,3/31/2020,194
+New York,3/31/2020,22
+New York,3/31/2020,1560
+New York,3/31/2020,6
+New York,3/31/2020,15
+New York,3/31/2020,18
+New York,3/31/2020,186
+New York,3/31/2020,55
+New York,3/31/2020,2863
+New York,3/31/2020,108
+New York,3/31/2020,85
+New York,3/31/2020,6
+New York,3/31/2020,2
+New York,3/31/2020,2
+New York,3/31/2020,30
+New York,3/31/2020,24
+New York,3/31/2020,6713
+New York,3/31/2020,109
+New York,3/31/2020,7
+New York,3/31/2020,66
+New York,3/31/2020,215
+New York,3/31/2020,0
+New York,3/31/2020,18
+New York,3/31/2020,10
+New York,3/31/2020,19
+New York,3/31/2020,9967
+New York,3/31/2020,9
 Texas,3/31/2020,4
 Texas,3/31/2020,2
 Texas,3/31/2020,2
@@ -3368,6 +4220,64 @@ Georgia,4/1/2020,1
 Georgia,4/1/2020,2
 Georgia,4/1/2020,1
 Georgia,4/1/2020,28
+New York,4/1/2020,240
+New York,4/1/2020,10
+New York,4/1/2020,42
+New York,4/1/2020,7
+New York,4/1/2020,3
+New York,4/1/2020,10
+New York,4/1/2020,22
+New York,4/1/2020,26
+New York,4/1/2020,25
+New York,4/1/2020,41
+New York,4/1/2020,10
+New York,4/1/2020,20
+New York,4/1/2020,547
+New York,4/1/2020,553
+New York,4/1/2020,6
+New York,4/1/2020,9
+New York,4/1/2020,2
+New York,4/1/2020,13
+New York,4/1/2020,18
+New York,4/1/2020,2
+New York,4/1/2020,16
+New York,4/1/2020,12
+New York,4/1/2020,2
+New York,4/1/2020,14
+New York,4/1/2020,67
+New York,4/1/2020,349
+New York,4/1/2020,7
+New York,4/1/2020,9555
+New York,4/1/2020,47914
+New York,4/1/2020,46
+New York,4/1/2020,50
+New York,4/1/2020,249
+New York,4/1/2020,24
+New York,4/1/2020,1756
+New York,4/1/2020,6
+New York,4/1/2020,17
+New York,4/1/2020,19
+New York,4/1/2020,207
+New York,4/1/2020,60
+New York,4/1/2020,3321
+New York,4/1/2020,122
+New York,4/1/2020,93
+New York,4/1/2020,8
+New York,4/1/2020,2
+New York,4/1/2020,2
+New York,4/1/2020,34
+New York,4/1/2020,38
+New York,4/1/2020,7605
+New York,4/1/2020,121
+New York,4/1/2020,7
+New York,4/1/2020,68
+New York,4/1/2020,222
+New York,4/1/2020,0
+New York,4/1/2020,18
+New York,4/1/2020,10
+New York,4/1/2020,24
+New York,4/1/2020,10683
+New York,4/1/2020,10
 Texas,4/1/2020,1
 Texas,4/1/2020,5
 Texas,4/1/2020,2
@@ -3681,6 +4591,65 @@ Georgia,4/2/2020,1
 Georgia,4/2/2020,2
 Georgia,4/2/2020,1
 Georgia,4/2/2020,28
+New York,4/2/2020,253
+New York,4/2/2020,12
+New York,4/2/2020,46
+New York,4/2/2020,8
+New York,4/2/2020,6
+New York,4/2/2020,10
+New York,4/2/2020,22
+New York,4/2/2020,28
+New York,4/2/2020,25
+New York,4/2/2020,41
+New York,4/2/2020,10
+New York,4/2/2020,23
+New York,4/2/2020,667
+New York,4/2/2020,734
+New York,4/2/2020,6
+New York,4/2/2020,9
+New York,4/2/2020,6
+New York,4/2/2020,17
+New York,4/2/2020,21
+New York,4/2/2020,2
+New York,4/2/2020,16
+New York,4/2/2020,15
+New York,4/2/2020,3
+New York,4/2/2020,18
+New York,4/2/2020,77
+New York,4/2/2020,420
+New York,4/2/2020,8
+New York,4/2/2020,10587
+New York,4/2/2020,52400
+New York,4/2/2020,91
+New York,4/2/2020,68
+New York,4/2/2020,301
+New York,4/2/2020,31
+New York,4/2/2020,2048
+New York,4/2/2020,6
+New York,4/2/2020,28
+New York,4/2/2020,21
+New York,4/2/2020,236
+New York,4/2/2020,67
+New York,4/2/2020,3751
+New York,4/2/2020,132
+New York,4/2/2020,101
+New York,4/2/2020,8
+New York,4/2/2020,3
+New York,4/2/2020,5
+New York,4/2/2020,42
+New York,4/2/2020,49
+New York,4/2/2020,8746
+New York,4/2/2020,156
+New York,4/2/2020,8
+New York,4/2/2020,87
+New York,4/2/2020,243
+New York,4/2/2020,0
+New York,4/2/2020,19
+New York,4/2/2020,13
+New York,4/2/2020,27
+New York,4/2/2020,11566
+New York,4/2/2020,15
+New York,4/2/2020,2
 Texas,4/2/2020,1
 Texas,4/2/2020,5
 Texas,4/2/2020,2
@@ -4008,6 +4977,65 @@ Georgia,4/3/2020,1
 Georgia,4/3/2020,3
 Georgia,4/3/2020,1
 Georgia,4/3/2020,33
+New York,4/3/2020,267
+New York,4/3/2020,12
+New York,4/3/2020,46
+New York,4/3/2020,8
+New York,4/3/2020,6
+New York,4/3/2020,10
+New York,4/3/2020,22
+New York,4/3/2020,28
+New York,4/3/2020,25
+New York,4/3/2020,41
+New York,4/3/2020,10
+New York,4/3/2020,23
+New York,4/3/2020,809
+New York,4/3/2020,802
+New York,4/3/2020,6
+New York,4/3/2020,9
+New York,4/3/2020,6
+New York,4/3/2020,17
+New York,4/3/2020,21
+New York,4/3/2020,2
+New York,4/3/2020,16
+New York,4/3/2020,15
+New York,4/3/2020,3
+New York,4/3/2020,18
+New York,4/3/2020,77
+New York,4/3/2020,464
+New York,4/3/2020,8
+New York,4/3/2020,12024
+New York,4/3/2020,57941
+New York,4/3/2020,91
+New York,4/3/2020,68
+New York,4/3/2020,301
+New York,4/3/2020,31
+New York,4/3/2020,2397
+New York,4/3/2020,6
+New York,4/3/2020,28
+New York,4/3/2020,21
+New York,4/3/2020,236
+New York,4/3/2020,71
+New York,4/3/2020,4289
+New York,4/3/2020,132
+New York,4/3/2020,101
+New York,4/3/2020,8
+New York,4/3/2020,3
+New York,4/3/2020,5
+New York,4/3/2020,42
+New York,4/3/2020,49
+New York,4/3/2020,10154
+New York,4/3/2020,156
+New York,4/3/2020,8
+New York,4/3/2020,87
+New York,4/3/2020,243
+New York,4/3/2020,0
+New York,4/3/2020,19
+New York,4/3/2020,13
+New York,4/3/2020,27
+New York,4/3/2020,12350
+New York,4/3/2020,15
+New York,4/3/2020,2
 Texas,4/3/2020,1
 Texas,4/3/2020,8
 Texas,4/3/2020,2
@@ -4339,6 +5367,65 @@ Georgia,4/4/2020,2
 Georgia,4/4/2020,3
 Georgia,4/4/2020,2
 Georgia,4/4/2020,36
+New York,4/4/2020,293
+New York,4/4/2020,16
+New York,4/4/2020,65
+New York,4/4/2020,8
+New York,4/4/2020,8
+New York,4/4/2020,12
+New York,4/4/2020,36
+New York,4/4/2020,39
+New York,4/4/2020,31
+New York,4/4/2020,61
+New York,4/4/2020,14
+New York,4/4/2020,30
+New York,4/4/2020,938
+New York,4/4/2020,945
+New York,4/4/2020,7
+New York,4/4/2020,10
+New York,4/4/2020,9
+New York,4/4/2020,21
+New York,4/4/2020,27
+New York,4/4/2020,2
+New York,4/4/2020,22
+New York,4/4/2020,20
+New York,4/4/2020,5
+New York,4/4/2020,18
+New York,4/4/2020,77
+New York,4/4/2020,512
+New York,4/4/2020,13
+New York,4/4/2020,13346
+New York,4/4/2020,64274
+New York,4/4/2020,103
+New York,4/4/2020,80
+New York,4/4/2020,349
+New York,4/4/2020,35
+New York,4/4/2020,2741
+New York,4/4/2020,10
+New York,4/4/2020,30
+New York,4/4/2020,26
+New York,4/4/2020,283
+New York,4/4/2020,73
+New York,4/4/2020,4872
+New York,4/4/2020,141
+New York,4/4/2020,117
+New York,4/4/2020,11
+New York,4/4/2020,4
+New York,4/4/2020,6
+New York,4/4/2020,58
+New York,4/4/2020,64
+New York,4/4/2020,12328
+New York,4/4/2020,193
+New York,4/4/2020,8
+New York,4/4/2020,87
+New York,4/4/2020,318
+New York,4/4/2020,0
+New York,4/4/2020,20
+New York,4/4/2020,17
+New York,4/4/2020,30
+New York,4/4/2020,13080
+New York,4/4/2020,18
+New York,4/4/2020,2
 Texas,4/4/2020,1
 Texas,4/4/2020,1
 Texas,4/4/2020,10
@@ -4678,6 +5765,65 @@ Georgia,4/5/2020,1
 Georgia,4/5/2020,3
 Georgia,4/5/2020,2
 Georgia,4/5/2020,37
+New York,4/5/2020,305
+New York,4/5/2020,16
+New York,4/5/2020,71
+New York,4/5/2020,10
+New York,4/5/2020,8
+New York,4/5/2020,12
+New York,4/5/2020,38
+New York,4/5/2020,43
+New York,4/5/2020,33
+New York,4/5/2020,61
+New York,4/5/2020,14
+New York,4/5/2020,30
+New York,4/5/2020,1077
+New York,4/5/2020,1059
+New York,4/5/2020,7
+New York,4/5/2020,10
+New York,4/5/2020,9
+New York,4/5/2020,22
+New York,4/5/2020,27
+New York,4/5/2020,2
+New York,4/5/2020,22
+New York,4/5/2020,26
+New York,4/5/2020,8
+New York,4/5/2020,19
+New York,4/5/2020,89
+New York,4/5/2020,548
+New York,4/5/2020,15
+New York,4/5/2020,14398
+New York,4/5/2020,68726
+New York,4/5/2020,116
+New York,4/5/2020,87
+New York,4/5/2020,349
+New York,4/5/2020,35
+New York,4/5/2020,3102
+New York,4/5/2020,11
+New York,4/5/2020,30
+New York,4/5/2020,29
+New York,4/5/2020,314
+New York,4/5/2020,74
+New York,4/5/2020,5362
+New York,4/5/2020,148
+New York,4/5/2020,128
+New York,4/5/2020,11
+New York,4/5/2020,4
+New York,4/5/2020,9
+New York,4/5/2020,58
+New York,4/5/2020,64
+New York,4/5/2020,12933
+New York,4/5/2020,234
+New York,4/5/2020,8
+New York,4/5/2020,95
+New York,4/5/2020,358
+New York,4/5/2020,0
+New York,4/5/2020,25
+New York,4/5/2020,18
+New York,4/5/2020,32
+New York,4/5/2020,13722
+New York,4/5/2020,22
+New York,4/5/2020,2
 Texas,4/5/2020,1
 Texas,4/5/2020,6
 Texas,4/5/2020,10
@@ -5023,6 +6169,64 @@ Georgia,4/6/2020,2
 Georgia,4/6/2020,4
 Georgia,4/6/2020,3
 Georgia,4/6/2020,39
+New York,4/6/2020,319
+New York,4/6/2020,17
+New York,4/6/2020,76
+New York,4/6/2020,15
+New York,4/6/2020,11
+New York,4/6/2020,15
+New York,4/6/2020,47
+New York,4/6/2020,46
+New York,4/6/2020,36
+New York,4/6/2020,70
+New York,4/6/2020,15
+New York,4/6/2020,32
+New York,4/6/2020,1189
+New York,4/6/2020,1163
+New York,4/6/2020,7
+New York,4/6/2020,10
+New York,4/6/2020,9
+New York,4/6/2020,23
+New York,4/6/2020,27
+New York,4/6/2020,2
+New York,4/6/2020,25
+New York,4/6/2020,33
+New York,4/6/2020,8
+New York,4/6/2020,26
+New York,4/6/2020,92
+New York,4/6/2020,574
+New York,4/6/2020,15
+New York,4/6/2020,15616
+New York,4/6/2020,73553
+New York,4/6/2020,130
+New York,4/6/2020,100
+New York,4/6/2020,377
+New York,4/6/2020,39
+New York,4/6/2020,3397
+New York,4/6/2020,13
+New York,4/6/2020,33
+New York,4/6/2020,34
+New York,4/6/2020,345
+New York,4/6/2020,78
+New York,4/6/2020,5703
+New York,4/6/2020,153
+New York,4/6/2020,138
+New York,4/6/2020,11
+New York,4/6/2020,4
+New York,4/6/2020,9
+New York,4/6/2020,63
+New York,4/6/2020,73
+New York,4/6/2020,14473
+New York,4/6/2020,259
+New York,4/6/2020,9
+New York,4/6/2020,98
+New York,4/6/2020,382
+New York,4/6/2020,26
+New York,4/6/2020,19
+New York,4/6/2020,34
+New York,4/6/2020,14293
+New York,4/6/2020,23
+New York,4/6/2020,2
 Texas,4/6/2020,1
 Texas,4/6/2020,6
 Texas,4/6/2020,14
@@ -5371,6 +6575,64 @@ Georgia,4/7/2020,2
 Georgia,4/7/2020,5
 Georgia,4/7/2020,3
 Georgia,4/7/2020,60
+New York,4/7/2020,333
+New York,4/7/2020,17
+New York,4/7/2020,86
+New York,4/7/2020,13
+New York,4/7/2020,14
+New York,4/7/2020,16
+New York,4/7/2020,49
+New York,4/7/2020,51
+New York,4/7/2020,37
+New York,4/7/2020,72
+New York,4/7/2020,16
+New York,4/7/2020,36
+New York,4/7/2020,1249
+New York,4/7/2020,1163
+New York,4/7/2020,7
+New York,4/7/2020,10
+New York,4/7/2020,13
+New York,4/7/2020,33
+New York,4/7/2020,24
+New York,4/7/2020,2
+New York,4/7/2020,32
+New York,4/7/2020,39
+New York,4/7/2020,8
+New York,4/7/2020,28
+New York,4/7/2020,92
+New York,4/7/2020,596
+New York,4/7/2020,18
+New York,4/7/2020,16610
+New York,4/7/2020,78498
+New York,4/7/2020,143
+New York,4/7/2020,118
+New York,4/7/2020,377
+New York,4/7/2020,39
+New York,4/7/2020,3599
+New York,4/7/2020,15
+New York,4/7/2020,34
+New York,4/7/2020,34
+New York,4/7/2020,366
+New York,4/7/2020,91
+New York,4/7/2020,5990
+New York,4/7/2020,163
+New York,4/7/2020,145
+New York,4/7/2020,12
+New York,4/7/2020,4
+New York,4/7/2020,10
+New York,4/7/2020,63
+New York,4/7/2020,79
+New York,4/7/2020,15561
+New York,4/7/2020,270
+New York,4/7/2020,10
+New York,4/7/2020,102
+New York,4/7/2020,402
+New York,4/7/2020,31
+New York,4/7/2020,19
+New York,4/7/2020,35
+New York,4/7/2020,14804
+New York,4/7/2020,23
+New York,4/7/2020,2
 Texas,4/7/2020,1
 Texas,4/7/2020,10
 Texas,4/7/2020,14
@@ -5726,6 +6988,64 @@ Georgia,4/8/2020,2
 Georgia,4/8/2020,5
 Georgia,4/8/2020,8
 Georgia,4/8/2020,65
+New York,4/8/2020,342
+New York,4/8/2020,21
+New York,4/8/2020,88
+New York,4/8/2020,15
+New York,4/8/2020,15
+New York,4/8/2020,17
+New York,4/8/2020,55
+New York,4/8/2020,53
+New York,4/8/2020,39
+New York,4/8/2020,72
+New York,4/8/2020,16
+New York,4/8/2020,37
+New York,4/8/2020,1395
+New York,4/8/2020,1205
+New York,4/8/2020,7
+New York,4/8/2020,10
+New York,4/8/2020,14
+New York,4/8/2020,47
+New York,4/8/2020,25
+New York,4/8/2020,2
+New York,4/8/2020,32
+New York,4/8/2020,40
+New York,4/8/2020,8
+New York,4/8/2020,28
+New York,4/8/2020,92
+New York,4/8/2020,651
+New York,4/8/2020,18
+New York,4/8/2020,18548
+New York,4/8/2020,83673
+New York,4/8/2020,143
+New York,4/8/2020,125
+New York,4/8/2020,377
+New York,4/8/2020,39
+New York,4/8/2020,3865
+New York,4/8/2020,16
+New York,4/8/2020,34
+New York,4/8/2020,38
+New York,4/8/2020,403
+New York,4/8/2020,91
+New York,4/8/2020,6413
+New York,4/8/2020,167
+New York,4/8/2020,149
+New York,4/8/2020,12
+New York,4/8/2020,4
+New York,4/8/2020,12
+New York,4/8/2020,69
+New York,4/8/2020,82
+New York,4/8/2020,15844
+New York,4/8/2020,279
+New York,4/8/2020,12
+New York,4/8/2020,102
+New York,4/8/2020,422
+New York,4/8/2020,33
+New York,4/8/2020,20
+New York,4/8/2020,39
+New York,4/8/2020,15887
+New York,4/8/2020,27
+New York,4/8/2020,2
 Texas,4/8/2020,1
 Texas,4/8/2020,10
 Texas,4/8/2020,15
@@ -6087,6 +7407,64 @@ Georgia,4/9/2020,5
 Georgia,4/9/2020,6
 Georgia,4/9/2020,8
 Georgia,4/9/2020,70
+New York,4/9/2020,379
+New York,4/9/2020,22
+New York,4/9/2020,105
+New York,4/9/2020,17
+New York,4/9/2020,16
+New York,4/9/2020,18
+New York,4/9/2020,59
+New York,4/9/2020,55
+New York,4/9/2020,40
+New York,4/9/2020,70
+New York,4/9/2020,16
+New York,4/9/2020,37
+New York,4/9/2020,1493
+New York,4/9/2020,1362
+New York,4/9/2020,8
+New York,4/9/2020,11
+New York,4/9/2020,15
+New York,4/9/2020,56
+New York,4/9/2020,28
+New York,4/9/2020,3
+New York,4/9/2020,32
+New York,4/9/2020,42
+New York,4/9/2020,6
+New York,4/9/2020,26
+New York,4/9/2020,91
+New York,4/9/2020,698
+New York,4/9/2020,28
+New York,4/9/2020,20140
+New York,4/9/2020,89127
+New York,4/9/2020,146
+New York,4/9/2020,158
+New York,4/9/2020,358
+New York,4/9/2020,43
+New York,4/9/2020,4090
+New York,4/9/2020,22
+New York,4/9/2020,36
+New York,4/9/2020,39
+New York,4/9/2020,438
+New York,4/9/2020,79
+New York,4/9/2020,6665
+New York,4/9/2020,172
+New York,4/9/2020,167
+New York,4/9/2020,12
+New York,4/9/2020,4
+New York,4/9/2020,15
+New York,4/9/2020,76
+New York,4/9/2020,89
+New York,4/9/2020,17413
+New York,4/9/2020,294
+New York,4/9/2020,17
+New York,4/9/2020,105
+New York,4/9/2020,460
+New York,4/9/2020,40
+New York,4/9/2020,25
+New York,4/9/2020,39
+New York,4/9/2020,17004
+New York,4/9/2020,29
+New York,4/9/2020,1
 Texas,4/9/2020,2
 Texas,4/9/2020,10
 Texas,4/9/2020,15
@@ -6454,6 +7832,64 @@ Georgia,4/10/2020,5
 Georgia,4/10/2020,6
 Georgia,4/10/2020,9
 Georgia,4/10/2020,78
+New York,4/10/2020,426
+New York,4/10/2020,26
+New York,4/10/2020,112
+New York,4/10/2020,18
+New York,4/10/2020,27
+New York,4/10/2020,20
+New York,4/10/2020,59
+New York,4/10/2020,60
+New York,4/10/2020,43
+New York,4/10/2020,74
+New York,4/10/2020,17
+New York,4/10/2020,39
+New York,4/10/2020,1598
+New York,4/10/2020,1409
+New York,4/10/2020,10
+New York,4/10/2020,11
+New York,4/10/2020,18
+New York,4/10/2020,65
+New York,4/10/2020,34
+New York,4/10/2020,3
+New York,4/10/2020,36
+New York,4/10/2020,43
+New York,4/10/2020,6
+New York,4/10/2020,29
+New York,4/10/2020,99
+New York,4/10/2020,742
+New York,4/10/2020,29
+New York,4/10/2020,21512
+New York,4/10/2020,94702
+New York,4/10/2020,156
+New York,4/10/2020,172
+New York,4/10/2020,369
+New York,4/10/2020,51
+New York,4/10/2020,4532
+New York,4/10/2020,24
+New York,4/10/2020,36
+New York,4/10/2020,41
+New York,4/10/2020,487
+New York,4/10/2020,91
+New York,4/10/2020,7122
+New York,4/10/2020,182
+New York,4/10/2020,191
+New York,4/10/2020,12
+New York,4/10/2020,5
+New York,4/10/2020,15
+New York,4/10/2020,78
+New York,4/10/2020,117
+New York,4/10/2020,18692
+New York,4/10/2020,318
+New York,4/10/2020,18
+New York,4/10/2020,105
+New York,4/10/2020,530
+New York,4/10/2020,43
+New York,4/10/2020,26
+New York,4/10/2020,41
+New York,4/10/2020,18077
+New York,4/10/2020,30
+New York,4/10/2020,2
 Texas,4/10/2020,3
 Texas,4/10/2020,11
 Texas,4/10/2020,16
@@ -6829,6 +8265,64 @@ Georgia,4/11/2020,5
 Georgia,4/11/2020,6
 Georgia,4/11/2020,10
 Georgia,4/11/2020,80
+New York,4/11/2020,446
+New York,4/11/2020,26
+New York,4/11/2020,117
+New York,4/11/2020,19
+New York,4/11/2020,28
+New York,4/11/2020,21
+New York,4/11/2020,60
+New York,4/11/2020,61
+New York,4/11/2020,43
+New York,4/11/2020,77
+New York,4/11/2020,17
+New York,4/11/2020,39
+New York,4/11/2020,1744
+New York,4/11/2020,1472
+New York,4/11/2020,12
+New York,4/11/2020,11
+New York,4/11/2020,21
+New York,4/11/2020,67
+New York,4/11/2020,37
+New York,4/11/2020,3
+New York,4/11/2020,37
+New York,4/11/2020,44
+New York,4/11/2020,6
+New York,4/11/2020,30
+New York,4/11/2020,99
+New York,4/11/2020,767
+New York,4/11/2020,29
+New York,4/11/2020,22584
+New York,4/11/2020,100840
+New York,4/11/2020,167
+New York,4/11/2020,181
+New York,4/11/2020,380
+New York,4/11/2020,56
+New York,4/11/2020,4847
+New York,4/11/2020,24
+New York,4/11/2020,37
+New York,4/11/2020,43
+New York,4/11/2020,494
+New York,4/11/2020,96
+New York,4/11/2020,7477
+New York,4/11/2020,187
+New York,4/11/2020,194
+New York,4/11/2020,12
+New York,4/11/2020,5
+New York,4/11/2020,16
+New York,4/11/2020,80
+New York,4/11/2020,119
+New York,4/11/2020,19883
+New York,4/11/2020,340
+New York,4/11/2020,19
+New York,4/11/2020,108
+New York,4/11/2020,589
+New York,4/11/2020,44
+New York,4/11/2020,31
+New York,4/11/2020,42
+New York,4/11/2020,18729
+New York,4/11/2020,31
+New York,4/11/2020,2
 Texas,4/11/2020,3
 Texas,4/11/2020,11
 Texas,4/11/2020,16
@@ -7206,6 +8700,64 @@ Georgia,4/12/2020,24
 Georgia,4/12/2020,6
 Georgia,4/12/2020,11
 Georgia,4/12/2020,87
+New York,4/12/2020,478
+New York,4/12/2020,26
+New York,4/12/2020,126
+New York,4/12/2020,28
+New York,4/12/2020,29
+New York,4/12/2020,22
+New York,4/12/2020,60
+New York,4/12/2020,63
+New York,4/12/2020,43
+New York,4/12/2020,79
+New York,4/12/2020,18
+New York,4/12/2020,39
+New York,4/12/2020,1838
+New York,4/12/2020,1571
+New York,4/12/2020,12
+New York,4/12/2020,12
+New York,4/12/2020,21
+New York,4/12/2020,69
+New York,4/12/2020,44
+New York,4/12/2020,3
+New York,4/12/2020,37
+New York,4/12/2020,46
+New York,4/12/2020,6
+New York,4/12/2020,30
+New York,4/12/2020,101
+New York,4/12/2020,798
+New York,4/12/2020,29
+New York,4/12/2020,23553
+New York,4/12/2020,105939
+New York,4/12/2020,183
+New York,4/12/2020,195
+New York,4/12/2020,397
+New York,4/12/2020,57
+New York,4/12/2020,5027
+New York,4/12/2020,25
+New York,4/12/2020,38
+New York,4/12/2020,43
+New York,4/12/2020,497
+New York,4/12/2020,105
+New York,4/12/2020,7721
+New York,4/12/2020,196
+New York,4/12/2020,199
+New York,4/12/2020,12
+New York,4/12/2020,5
+New York,4/12/2020,16
+New York,4/12/2020,85
+New York,4/12/2020,121
+New York,4/12/2020,20816
+New York,4/12/2020,358
+New York,4/12/2020,19
+New York,4/12/2020,109
+New York,4/12/2020,612
+New York,4/12/2020,46
+New York,4/12/2020,34
+New York,4/12/2020,42
+New York,4/12/2020,19313
+New York,4/12/2020,31
+New York,4/12/2020,3
 Texas,4/12/2020,3
 Texas,4/12/2020,11
 Texas,4/12/2020,16
@@ -7583,6 +9135,64 @@ Georgia,4/13/2020,24
 Georgia,4/13/2020,7
 Georgia,4/13/2020,11
 Georgia,4/13/2020,96
+New York,4/13/2020,499
+New York,4/13/2020,26
+New York,4/13/2020,133
+New York,4/13/2020,28
+New York,4/13/2020,30
+New York,4/13/2020,23
+New York,4/13/2020,60
+New York,4/13/2020,65
+New York,4/13/2020,44
+New York,4/13/2020,80
+New York,4/13/2020,20
+New York,4/13/2020,42
+New York,4/13/2020,1881
+New York,4/13/2020,1624
+New York,4/13/2020,12
+New York,4/13/2020,12
+New York,4/13/2020,21
+New York,4/13/2020,71
+New York,4/13/2020,45
+New York,4/13/2020,3
+New York,4/13/2020,38
+New York,4/13/2020,46
+New York,4/13/2020,6
+New York,4/13/2020,30
+New York,4/13/2020,101
+New York,4/13/2020,823
+New York,4/13/2020,29
+New York,4/13/2020,24358
+New York,4/13/2020,109706
+New York,4/13/2020,189
+New York,4/13/2020,206
+New York,4/13/2020,416
+New York,4/13/2020,57
+New York,4/13/2020,5182
+New York,4/13/2020,26
+New York,4/13/2020,38
+New York,4/13/2020,43
+New York,4/13/2020,502
+New York,4/13/2020,113
+New York,4/13/2020,7965
+New York,4/13/2020,201
+New York,4/13/2020,204
+New York,4/13/2020,12
+New York,4/13/2020,5
+New York,4/13/2020,16
+New York,4/13/2020,89
+New York,4/13/2020,123
+New York,4/13/2020,21643
+New York,4/13/2020,380
+New York,4/13/2020,20
+New York,4/13/2020,110
+New York,4/13/2020,630
+New York,4/13/2020,48
+New York,4/13/2020,37
+New York,4/13/2020,42
+New York,4/13/2020,19785
+New York,4/13/2020,31
+New York,4/13/2020,4
 Texas,4/13/2020,3
 Texas,4/13/2020,12
 Texas,4/13/2020,16
@@ -7961,6 +9571,64 @@ Georgia,4/14/2020,28
 Georgia,4/14/2020,8
 Georgia,4/14/2020,12
 Georgia,4/14/2020,99
+New York,4/14/2020,535
+New York,4/14/2020,28
+New York,4/14/2020,146
+New York,4/14/2020,32
+New York,4/14/2020,33
+New York,4/14/2020,23
+New York,4/14/2020,64
+New York,4/14/2020,68
+New York,4/14/2020,45
+New York,4/14/2020,84
+New York,4/14/2020,22
+New York,4/14/2020,45
+New York,4/14/2020,1934
+New York,4/14/2020,1668
+New York,4/14/2020,12
+New York,4/14/2020,13
+New York,4/14/2020,22
+New York,4/14/2020,76
+New York,4/14/2020,66
+New York,4/14/2020,3
+New York,4/14/2020,39
+New York,4/14/2020,47
+New York,4/14/2020,7
+New York,4/14/2020,31
+New York,4/14/2020,104
+New York,4/14/2020,850
+New York,4/14/2020,32
+New York,4/14/2020,25250
+New York,4/14/2020,113632
+New York,4/14/2020,197
+New York,4/14/2020,229
+New York,4/14/2020,431
+New York,4/14/2020,61
+New York,4/14/2020,5578
+New York,4/14/2020,31
+New York,4/14/2020,41
+New York,4/14/2020,44
+New York,4/14/2020,558
+New York,4/14/2020,120
+New York,4/14/2020,8335
+New York,4/14/2020,224
+New York,4/14/2020,235
+New York,4/14/2020,20
+New York,4/14/2020,6
+New York,4/14/2020,18
+New York,4/14/2020,92
+New York,4/14/2020,147
+New York,4/14/2020,22462
+New York,4/14/2020,415
+New York,4/14/2020,24
+New York,4/14/2020,112
+New York,4/14/2020,690
+New York,4/14/2020,77
+New York,4/14/2020,40
+New York,4/14/2020,48
+New York,4/14/2020,20191
+New York,4/14/2020,32
+New York,4/14/2020,6
 Texas,4/14/2020,3
 Texas,4/14/2020,13
 Texas,4/14/2020,17
@@ -8342,6 +10010,64 @@ Georgia,4/15/2020,30
 Georgia,4/15/2020,9
 Georgia,4/15/2020,14
 Georgia,4/15/2020,111
+New York,4/15/2020,548
+New York,4/15/2020,28
+New York,4/15/2020,153
+New York,4/15/2020,32
+New York,4/15/2020,36
+New York,4/15/2020,24
+New York,4/15/2020,69
+New York,4/15/2020,71
+New York,4/15/2020,45
+New York,4/15/2020,96
+New York,4/15/2020,23
+New York,4/15/2020,46
+New York,4/15/2020,2048
+New York,4/15/2020,1751
+New York,4/15/2020,12
+New York,4/15/2020,13
+New York,4/15/2020,24
+New York,4/15/2020,76
+New York,4/15/2020,73
+New York,4/15/2020,3
+New York,4/15/2020,40
+New York,4/15/2020,47
+New York,4/15/2020,7
+New York,4/15/2020,31
+New York,4/15/2020,105
+New York,4/15/2020,884
+New York,4/15/2020,32
+New York,4/15/2020,26715
+New York,4/15/2020,121653
+New York,4/15/2020,204
+New York,4/15/2020,246
+New York,4/15/2020,449
+New York,4/15/2020,62
+New York,4/15/2020,5716
+New York,4/15/2020,33
+New York,4/15/2020,42
+New York,4/15/2020,44
+New York,4/15/2020,571
+New York,4/15/2020,124
+New York,4/15/2020,8474
+New York,4/15/2020,227
+New York,4/15/2020,237
+New York,4/15/2020,20
+New York,4/15/2020,6
+New York,4/15/2020,18
+New York,4/15/2020,92
+New York,4/15/2020,151
+New York,4/15/2020,23278
+New York,4/15/2020,424
+New York,4/15/2020,25
+New York,4/15/2020,115
+New York,4/15/2020,733
+New York,4/15/2020,77
+New York,4/15/2020,42
+New York,4/15/2020,48
+New York,4/15/2020,20947
+New York,4/15/2020,34
+New York,4/15/2020,6
 Texas,4/15/2020,4
 Texas,4/15/2020,13
 Texas,4/15/2020,20
@@ -8725,6 +10451,64 @@ Georgia,4/16/2020,34
 Georgia,4/16/2020,11
 Georgia,4/16/2020,18
 Georgia,4/16/2020,114
+New York,4/16/2020,581
+New York,4/16/2020,28
+New York,4/16/2020,167
+New York,4/16/2020,32
+New York,4/16/2020,36
+New York,4/16/2020,24
+New York,4/16/2020,70
+New York,4/16/2020,73
+New York,4/16/2020,46
+New York,4/16/2020,99
+New York,4/16/2020,24
+New York,4/16/2020,47
+New York,4/16/2020,2085
+New York,4/16/2020,1850
+New York,4/16/2020,12
+New York,4/16/2020,13
+New York,4/16/2020,25
+New York,4/16/2020,78
+New York,4/16/2020,74
+New York,4/16/2020,3
+New York,4/16/2020,43
+New York,4/16/2020,48
+New York,4/16/2020,8
+New York,4/16/2020,32
+New York,4/16/2020,105
+New York,4/16/2020,932
+New York,4/16/2020,32
+New York,4/16/2020,27772
+New York,4/16/2020,126623
+New York,4/16/2020,216
+New York,4/16/2020,249
+New York,4/16/2020,462
+New York,4/16/2020,65
+New York,4/16/2020,5888
+New York,4/16/2020,34
+New York,4/16/2020,44
+New York,4/16/2020,44
+New York,4/16/2020,573
+New York,4/16/2020,137
+New York,4/16/2020,8752
+New York,4/16/2020,231
+New York,4/16/2020,245
+New York,4/16/2020,20
+New York,4/16/2020,6
+New York,4/16/2020,18
+New York,4/16/2020,93
+New York,4/16/2020,154
+New York,4/16/2020,24182
+New York,4/16/2020,437
+New York,4/16/2020,27
+New York,4/16/2020,116
+New York,4/16/2020,761
+New York,4/16/2020,81
+New York,4/16/2020,46
+New York,4/16/2020,49
+New York,4/16/2020,21828
+New York,4/16/2020,34
+New York,4/16/2020,7
 Texas,4/16/2020,6
 Texas,4/16/2020,19
 Texas,4/16/2020,20
@@ -9113,6 +10897,65 @@ Georgia,4/17/2020,38
 Georgia,4/17/2020,11
 Georgia,4/17/2020,20
 Georgia,4/17/2020,116
+New York,4/17/2020,619
+New York,4/17/2020,29
+New York,4/17/2020,178
+New York,4/17/2020,34
+New York,4/17/2020,36
+New York,4/17/2020,25
+New York,4/17/2020,71
+New York,4/17/2020,76
+New York,4/17/2020,47
+New York,4/17/2020,101
+New York,4/17/2020,25
+New York,4/17/2020,48
+New York,4/17/2020,2142
+New York,4/17/2020,1929
+New York,4/17/2020,15
+New York,4/17/2020,13
+New York,4/17/2020,27
+New York,4/17/2020,83
+New York,4/17/2020,77
+New York,4/17/2020,3
+New York,4/17/2020,46
+New York,4/17/2020,50
+New York,4/17/2020,8
+New York,4/17/2020,34
+New York,4/17/2020,105
+New York,4/17/2020,975
+New York,4/17/2020,33
+New York,4/17/2020,28539
+New York,4/17/2020,131003
+New York,4/17/2020,227
+New York,4/17/2020,261
+New York,4/17/2020,483
+New York,4/17/2020,67
+New York,4/17/2020,6084
+New York,4/17/2020,34
+New York,4/17/2020,45
+New York,4/17/2020,44
+New York,4/17/2020,578
+New York,4/17/2020,150
+New York,4/17/2020,8987
+New York,4/17/2020,236
+New York,4/17/2020,250
+New York,4/17/2020,20
+New York,4/17/2020,6
+New York,4/17/2020,18
+New York,4/17/2020,96
+New York,4/17/2020,154
+New York,4/17/2020,25035
+New York,4/17/2020,505
+New York,4/17/2020,30
+New York,4/17/2020,117
+New York,4/17/2020,788
+New York,4/17/2020,0
+New York,4/17/2020,91
+New York,4/17/2020,48
+New York,4/17/2020,49
+New York,4/17/2020,22476
+New York,4/17/2020,35
+New York,4/17/2020,8
 Texas,4/17/2020,6
 Texas,4/17/2020,19
 Texas,4/17/2020,23
@@ -9502,6 +11345,65 @@ Georgia,4/18/2020,42
 Georgia,4/18/2020,12
 Georgia,4/18/2020,20
 Georgia,4/18/2020,119
+New York,4/18/2020,648
+New York,4/18/2020,30
+New York,4/18/2020,186
+New York,4/18/2020,34
+New York,4/18/2020,36
+New York,4/18/2020,25
+New York,4/18/2020,72
+New York,4/18/2020,77
+New York,4/18/2020,48
+New York,4/18/2020,105
+New York,4/18/2020,25
+New York,4/18/2020,49
+New York,4/18/2020,2201
+New York,4/18/2020,1997
+New York,4/18/2020,22
+New York,4/18/2020,13
+New York,4/18/2020,27
+New York,4/18/2020,87
+New York,4/18/2020,82
+New York,4/18/2020,3
+New York,4/18/2020,47
+New York,4/18/2020,50
+New York,4/18/2020,8
+New York,4/18/2020,37
+New York,4/18/2020,105
+New York,4/18/2020,1008
+New York,4/18/2020,34
+New York,4/18/2020,29180
+New York,4/18/2020,135052
+New York,4/18/2020,234
+New York,4/18/2020,268
+New York,4/18/2020,492
+New York,4/18/2020,69
+New York,4/18/2020,6281
+New York,4/18/2020,41
+New York,4/18/2020,45
+New York,4/18/2020,47
+New York,4/18/2020,582
+New York,4/18/2020,164
+New York,4/18/2020,9171
+New York,4/18/2020,244
+New York,4/18/2020,259
+New York,4/18/2020,20
+New York,4/18/2020,6
+New York,4/18/2020,18
+New York,4/18/2020,98
+New York,4/18/2020,160
+New York,4/18/2020,26143
+New York,4/18/2020,524
+New York,4/18/2020,32
+New York,4/18/2020,117
+New York,4/18/2020,820
+New York,4/18/2020,0
+New York,4/18/2020,94
+New York,4/18/2020,52
+New York,4/18/2020,49
+New York,4/18/2020,23179
+New York,4/18/2020,36
+New York,4/18/2020,9
 Texas,4/18/2020,6
 Texas,4/18/2020,19
 Texas,4/18/2020,23
@@ -9893,6 +11795,64 @@ Georgia,4/19/2020,44
 Georgia,4/19/2020,18
 Georgia,4/19/2020,20
 Georgia,4/19/2020,122
+New York,4/19/2020,682
+New York,4/19/2020,30
+New York,4/19/2020,192
+New York,4/19/2020,34
+New York,4/19/2020,36
+New York,4/19/2020,25
+New York,4/19/2020,73
+New York,4/19/2020,78
+New York,4/19/2020,49
+New York,4/19/2020,107
+New York,4/19/2020,25
+New York,4/19/2020,49
+New York,4/19/2020,2240
+New York,4/19/2020,2070
+New York,4/19/2020,24
+New York,4/19/2020,13
+New York,4/19/2020,27
+New York,4/19/2020,117
+New York,4/19/2020,85
+New York,4/19/2020,3
+New York,4/19/2020,49
+New York,4/19/2020,54
+New York,4/19/2020,8
+New York,4/19/2020,39
+New York,4/19/2020,106
+New York,4/19/2020,1032
+New York,4/19/2020,35
+New York,4/19/2020,30013
+New York,4/19/2020,138370
+New York,4/19/2020,246
+New York,4/19/2020,275
+New York,4/19/2020,498
+New York,4/19/2020,70
+New York,4/19/2020,6394
+New York,4/19/2020,46
+New York,4/19/2020,47
+New York,4/19/2020,48
+New York,4/19/2020,592
+New York,4/19/2020,173
+New York,4/19/2020,9364
+New York,4/19/2020,251
+New York,4/19/2020,268
+New York,4/19/2020,20
+New York,4/19/2020,6
+New York,4/19/2020,18
+New York,4/19/2020,105
+New York,4/19/2020,167
+New York,4/19/2020,26888
+New York,4/19/2020,537
+New York,4/19/2020,35
+New York,4/19/2020,117
+New York,4/19/2020,854
+New York,4/19/2020,96
+New York,4/19/2020,63
+New York,4/19/2020,50
+New York,4/19/2020,23803
+New York,4/19/2020,36
+New York,4/19/2020,9
 Texas,4/19/2020,8
 Texas,4/19/2020,19
 Texas,4/19/2020,23
@@ -10286,6 +12246,64 @@ Georgia,4/20/2020,44
 Georgia,4/20/2020,18
 Georgia,4/20/2020,22
 Georgia,4/20/2020,128
+New York,4/20/2020,687
+New York,4/20/2020,30
+New York,4/20/2020,199
+New York,4/20/2020,34
+New York,4/20/2020,36
+New York,4/20/2020,25
+New York,4/20/2020,73
+New York,4/20/2020,78
+New York,4/20/2020,51
+New York,4/20/2020,111
+New York,4/20/2020,25
+New York,4/20/2020,49
+New York,4/20/2020,2284
+New York,4/20/2020,2109
+New York,4/20/2020,26
+New York,4/20/2020,13
+New York,4/20/2020,27
+New York,4/20/2020,119
+New York,4/20/2020,86
+New York,4/20/2020,3
+New York,4/20/2020,49
+New York,4/20/2020,54
+New York,4/20/2020,9
+New York,4/20/2020,39
+New York,4/20/2020,106
+New York,4/20/2020,1054
+New York,4/20/2020,35
+New York,4/20/2020,30677
+New York,4/20/2020,140881
+New York,4/20/2020,255
+New York,4/20/2020,279
+New York,4/20/2020,509
+New York,4/20/2020,71
+New York,4/20/2020,6497
+New York,4/20/2020,46
+New York,4/20/2020,48
+New York,4/20/2020,49
+New York,4/20/2020,599
+New York,4/20/2020,177
+New York,4/20/2020,9457
+New York,4/20/2020,254
+New York,4/20/2020,269
+New York,4/20/2020,20
+New York,4/20/2020,7
+New York,4/20/2020,18
+New York,4/20/2020,110
+New York,4/20/2020,167
+New York,4/20/2020,27662
+New York,4/20/2020,544
+New York,4/20/2020,37
+New York,4/20/2020,119
+New York,4/20/2020,877
+New York,4/20/2020,101
+New York,4/20/2020,65
+New York,4/20/2020,50
+New York,4/20/2020,24306
+New York,4/20/2020,36
+New York,4/20/2020,10
 Texas,4/20/2020,8
 Texas,4/20/2020,19
 Texas,4/20/2020,23
@@ -10680,6 +12698,64 @@ Georgia,4/21/2020,45
 Georgia,4/21/2020,19
 Georgia,4/21/2020,22
 Georgia,4/21/2020,140
+New York,4/21/2020,704
+New York,4/21/2020,30
+New York,4/21/2020,205
+New York,4/21/2020,35
+New York,4/21/2020,36
+New York,4/21/2020,25
+New York,4/21/2020,75
+New York,4/21/2020,79
+New York,4/21/2020,51
+New York,4/21/2020,113
+New York,4/21/2020,25
+New York,4/21/2020,49
+New York,4/21/2020,2331
+New York,4/21/2020,2147
+New York,4/21/2020,27
+New York,4/21/2020,13
+New York,4/21/2020,27
+New York,4/21/2020,121
+New York,4/21/2020,87
+New York,4/21/2020,3
+New York,4/21/2020,50
+New York,4/21/2020,54
+New York,4/21/2020,9
+New York,4/21/2020,39
+New York,4/21/2020,106
+New York,4/21/2020,1070
+New York,4/21/2020,37
+New York,4/21/2020,31079
+New York,4/21/2020,143547
+New York,4/21/2020,260
+New York,4/21/2020,284
+New York,4/21/2020,514
+New York,4/21/2020,72
+New York,4/21/2020,6576
+New York,4/21/2020,53
+New York,4/21/2020,49
+New York,4/21/2020,49
+New York,4/21/2020,605
+New York,4/21/2020,183
+New York,4/21/2020,9568
+New York,4/21/2020,257
+New York,4/21/2020,273
+New York,4/21/2020,20
+New York,4/21/2020,7
+New York,4/21/2020,18
+New York,4/21/2020,120
+New York,4/21/2020,170
+New York,4/21/2020,28154
+New York,4/21/2020,555
+New York,4/21/2020,37
+New York,4/21/2020,119
+New York,4/21/2020,893
+New York,4/21/2020,102
+New York,4/21/2020,68
+New York,4/21/2020,51
+New York,4/21/2020,24655
+New York,4/21/2020,36
+New York,4/21/2020,10
 Texas,4/21/2020,10
 Texas,4/21/2020,19
 Texas,4/21/2020,27
@@ -11074,6 +13150,64 @@ Georgia,4/22/2020,51
 Georgia,4/22/2020,21
 Georgia,4/22/2020,22
 Georgia,4/22/2020,142
+New York,4/22/2020,737
+New York,4/22/2020,30
+New York,4/22/2020,219
+New York,4/22/2020,37
+New York,4/22/2020,36
+New York,4/22/2020,26
+New York,4/22/2020,75
+New York,4/22/2020,79
+New York,4/22/2020,51
+New York,4/22/2020,117
+New York,4/22/2020,25
+New York,4/22/2020,50
+New York,4/22/2020,2391
+New York,4/22/2020,2233
+New York,4/22/2020,28
+New York,4/22/2020,13
+New York,4/22/2020,28
+New York,4/22/2020,122
+New York,4/22/2020,87
+New York,4/22/2020,3
+New York,4/22/2020,53
+New York,4/22/2020,54
+New York,4/22/2020,9
+New York,4/22/2020,39
+New York,4/22/2020,106
+New York,4/22/2020,1112
+New York,4/22/2020,38
+New York,4/22/2020,31555
+New York,4/22/2020,146787
+New York,4/22/2020,268
+New York,4/22/2020,301
+New York,4/22/2020,526
+New York,4/22/2020,73
+New York,4/22/2020,6705
+New York,4/22/2020,56
+New York,4/22/2020,49
+New York,4/22/2020,49
+New York,4/22/2020,611
+New York,4/22/2020,186
+New York,4/22/2020,9699
+New York,4/22/2020,264
+New York,4/22/2020,280
+New York,4/22/2020,20
+New York,4/22/2020,7
+New York,4/22/2020,18
+New York,4/22/2020,123
+New York,4/22/2020,171
+New York,4/22/2020,28854
+New York,4/22/2020,561
+New York,4/22/2020,39
+New York,4/22/2020,119
+New York,4/22/2020,913
+New York,4/22/2020,108
+New York,4/22/2020,73
+New York,4/22/2020,52
+New York,4/22/2020,25275
+New York,4/22/2020,40
+New York,4/22/2020,11
 Texas,4/22/2020,14
 Texas,4/22/2020,19
 Texas,4/22/2020,30
@@ -11470,6 +13604,64 @@ Georgia,4/23/2020,64
 Georgia,4/23/2020,22
 Georgia,4/23/2020,27
 Georgia,4/23/2020,142
+New York,4/23/2020,758
+New York,4/23/2020,30
+New York,4/23/2020,224
+New York,4/23/2020,37
+New York,4/23/2020,37
+New York,4/23/2020,26
+New York,4/23/2020,76
+New York,4/23/2020,82
+New York,4/23/2020,52
+New York,4/23/2020,123
+New York,4/23/2020,25
+New York,4/23/2020,50
+New York,4/23/2020,2460
+New York,4/23/2020,2450
+New York,4/23/2020,22
+New York,4/23/2020,13
+New York,4/23/2020,28
+New York,4/23/2020,126
+New York,4/23/2020,89
+New York,4/23/2020,3
+New York,4/23/2020,54
+New York,4/23/2020,56
+New York,4/23/2020,9
+New York,4/23/2020,41
+New York,4/23/2020,106
+New York,4/23/2020,1152
+New York,4/23/2020,39
+New York,4/23/2020,32124
+New York,4/23/2020,150327
+New York,4/23/2020,295
+New York,4/23/2020,317
+New York,4/23/2020,600
+New York,4/23/2020,73
+New York,4/23/2020,6816
+New York,4/23/2020,59
+New York,4/23/2020,49
+New York,4/23/2020,50
+New York,4/23/2020,615
+New York,4/23/2020,191
+New York,4/23/2020,9828
+New York,4/23/2020,265
+New York,4/23/2020,288
+New York,4/23/2020,21
+New York,4/23/2020,7
+New York,4/23/2020,18
+New York,4/23/2020,139
+New York,4/23/2020,171
+New York,4/23/2020,29567
+New York,4/23/2020,580
+New York,4/23/2020,40
+New York,4/23/2020,119
+New York,4/23/2020,942
+New York,4/23/2020,119
+New York,4/23/2020,80
+New York,4/23/2020,53
+New York,4/23/2020,25959
+New York,4/23/2020,41
+New York,4/23/2020,11
 Texas,4/23/2020,14
 Texas,4/23/2020,19
 Texas,4/23/2020,31
@@ -11868,6 +14060,64 @@ Georgia,4/24/2020,68
 Georgia,4/24/2020,22
 Georgia,4/24/2020,29
 Georgia,4/24/2020,138
+New York,4/24/2020,805
+New York,4/24/2020,31
+New York,4/24/2020,232
+New York,4/24/2020,39
+New York,4/24/2020,39
+New York,4/24/2020,27
+New York,4/24/2020,79
+New York,4/24/2020,84
+New York,4/24/2020,53
+New York,4/24/2020,129
+New York,4/24/2020,25
+New York,4/24/2020,51
+New York,4/24/2020,2517
+New York,4/24/2020,2603
+New York,4/24/2020,28
+New York,4/24/2020,13
+New York,4/24/2020,29
+New York,4/24/2020,127
+New York,4/24/2020,90
+New York,4/24/2020,3
+New York,4/24/2020,56
+New York,4/24/2020,58
+New York,4/24/2020,9
+New York,4/24/2020,44
+New York,4/24/2020,106
+New York,4/24/2020,1199
+New York,4/24/2020,39
+New York,4/24/2020,32765
+New York,4/24/2020,155081
+New York,4/24/2020,332
+New York,4/24/2020,323
+New York,4/24/2020,639
+New York,4/24/2020,73
+New York,4/24/2020,7170
+New York,4/24/2020,60
+New York,4/24/2020,51
+New York,4/24/2020,50
+New York,4/24/2020,619
+New York,4/24/2020,198
+New York,4/24/2020,10091
+New York,4/24/2020,278
+New York,4/24/2020,297
+New York,4/24/2020,21
+New York,4/24/2020,7
+New York,4/24/2020,18
+New York,4/24/2020,144
+New York,4/24/2020,171
+New York,4/24/2020,30606
+New York,4/24/2020,628
+New York,4/24/2020,40
+New York,4/24/2020,121
+New York,4/24/2020,976
+New York,4/24/2020,122
+New York,4/24/2020,83
+New York,4/24/2020,53
+New York,4/24/2020,26632
+New York,4/24/2020,43
+New York,4/24/2020,11
 Texas,4/24/2020,16
 Texas,4/24/2020,19
 Texas,4/24/2020,36
@@ -12268,6 +14518,64 @@ Georgia,4/25/2020,68
 Georgia,4/25/2020,22
 Georgia,4/25/2020,30
 Georgia,4/25/2020,140
+New York,4/25/2020,899
+New York,4/25/2020,35
+New York,4/25/2020,251
+New York,4/25/2020,45
+New York,4/25/2020,47
+New York,4/25/2020,27
+New York,4/25/2020,103
+New York,4/25/2020,91
+New York,4/25/2020,54
+New York,4/25/2020,140
+New York,4/25/2020,28
+New York,4/25/2020,58
+New York,4/25/2020,2660
+New York,4/25/2020,2773
+New York,4/25/2020,30
+New York,4/25/2020,14
+New York,4/25/2020,61
+New York,4/25/2020,141
+New York,4/25/2020,107
+New York,4/25/2020,3
+New York,4/25/2020,56
+New York,4/25/2020,59
+New York,4/25/2020,9
+New York,4/25/2020,58
+New York,4/25/2020,121
+New York,4/25/2020,1285
+New York,4/25/2020,46
+New York,4/25/2020,33798
+New York,4/25/2020,159851
+New York,4/25/2020,344
+New York,4/25/2020,364
+New York,4/25/2020,664
+New York,4/25/2020,82
+New York,4/25/2020,7988
+New York,4/25/2020,75
+New York,4/25/2020,57
+New York,4/25/2020,60
+New York,4/25/2020,885
+New York,4/25/2020,221
+New York,4/25/2020,11091
+New York,4/25/2020,320
+New York,4/25/2020,431
+New York,4/25/2020,33
+New York,4/25/2020,7
+New York,4/25/2020,36
+New York,4/25/2020,156
+New York,4/25/2020,204
+New York,4/25/2020,31368
+New York,4/25/2020,689
+New York,4/25/2020,71
+New York,4/25/2020,126
+New York,4/25/2020,1166
+New York,4/25/2020,132
+New York,4/25/2020,113
+New York,4/25/2020,65
+New York,4/25/2020,27230
+New York,4/25/2020,57
+New York,4/25/2020,16
 Texas,4/25/2020,16
 Texas,4/25/2020,19
 Texas,4/25/2020,36
@@ -12668,6 +14976,64 @@ Georgia,4/26/2020,68
 Georgia,4/26/2020,23
 Georgia,4/26/2020,31
 Georgia,4/26/2020,141
+New York,4/26/2020,948
+New York,4/26/2020,35
+New York,4/26/2020,257
+New York,4/26/2020,45
+New York,4/26/2020,47
+New York,4/26/2020,29
+New York,4/26/2020,106
+New York,4/26/2020,93
+New York,4/26/2020,57
+New York,4/26/2020,143
+New York,4/26/2020,28
+New York,4/26/2020,58
+New York,4/26/2020,2729
+New York,4/26/2020,2954
+New York,4/26/2020,30
+New York,4/26/2020,14
+New York,4/26/2020,62
+New York,4/26/2020,144
+New York,4/26/2020,110
+New York,4/26/2020,3
+New York,4/26/2020,57
+New York,4/26/2020,60
+New York,4/26/2020,9
+New York,4/26/2020,60
+New York,4/26/2020,123
+New York,4/26/2020,1316
+New York,4/26/2020,47
+New York,4/26/2020,34522
+New York,4/26/2020,163106
+New York,4/26/2020,368
+New York,4/26/2020,384
+New York,4/26/2020,692
+New York,4/26/2020,84
+New York,4/26/2020,8121
+New York,4/26/2020,80
+New York,4/26/2020,61
+New York,4/26/2020,60
+New York,4/26/2020,904
+New York,4/26/2020,242
+New York,4/26/2020,11256
+New York,4/26/2020,330
+New York,4/26/2020,449
+New York,4/26/2020,35
+New York,4/26/2020,7
+New York,4/26/2020,38
+New York,4/26/2020,167
+New York,4/26/2020,207
+New York,4/26/2020,32059
+New York,4/26/2020,724
+New York,4/26/2020,71
+New York,4/26/2020,126
+New York,4/26/2020,1190
+New York,4/26/2020,135
+New York,4/26/2020,127
+New York,4/26/2020,65
+New York,4/26/2020,27664
+New York,4/26/2020,59
+New York,4/26/2020,17
 Texas,4/26/2020,18
 Texas,4/26/2020,19
 Texas,4/26/2020,36
@@ -13068,6 +15434,64 @@ Georgia,4/27/2020,72
 Georgia,4/27/2020,23
 Georgia,4/27/2020,32
 Georgia,4/27/2020,143
+New York,4/27/2020,979
+New York,4/27/2020,35
+New York,4/27/2020,261
+New York,4/27/2020,45
+New York,4/27/2020,48
+New York,4/27/2020,30
+New York,4/27/2020,108
+New York,4/27/2020,95
+New York,4/27/2020,59
+New York,4/27/2020,146
+New York,4/27/2020,28
+New York,4/27/2020,58
+New York,4/27/2020,2793
+New York,4/27/2020,3021
+New York,4/27/2020,30
+New York,4/27/2020,14
+New York,4/27/2020,62
+New York,4/27/2020,148
+New York,4/27/2020,111
+New York,4/27/2020,3
+New York,4/27/2020,58
+New York,4/27/2020,60
+New York,4/27/2020,9
+New York,4/27/2020,62
+New York,4/27/2020,124
+New York,4/27/2020,1331
+New York,4/27/2020,47
+New York,4/27/2020,34865
+New York,4/27/2020,165463
+New York,4/27/2020,378
+New York,4/27/2020,397
+New York,4/27/2020,726
+New York,4/27/2020,86
+New York,4/27/2020,8253
+New York,4/27/2020,80
+New York,4/27/2020,61
+New York,4/27/2020,62
+New York,4/27/2020,925
+New York,4/27/2020,246
+New York,4/27/2020,11366
+New York,4/27/2020,336
+New York,4/27/2020,457
+New York,4/27/2020,35
+New York,4/27/2020,7
+New York,4/27/2020,38
+New York,4/27/2020,169
+New York,4/27/2020,209
+New York,4/27/2020,32470
+New York,4/27/2020,748
+New York,4/27/2020,71
+New York,4/27/2020,126
+New York,4/27/2020,1219
+New York,4/27/2020,147
+New York,4/27/2020,130
+New York,4/27/2020,69
+New York,4/27/2020,28007
+New York,4/27/2020,63
+New York,4/27/2020,17
 Texas,4/27/2020,19
 Texas,4/27/2020,19
 Texas,4/27/2020,36
@@ -13469,6 +15893,64 @@ Georgia,4/28/2020,89
 Georgia,4/28/2020,24
 Georgia,4/28/2020,34
 Georgia,4/28/2020,144
+New York,4/28/2020,1009
+New York,4/28/2020,35
+New York,4/28/2020,266
+New York,4/28/2020,45
+New York,4/28/2020,48
+New York,4/28/2020,30
+New York,4/28/2020,113
+New York,4/28/2020,95
+New York,4/28/2020,59
+New York,4/28/2020,154
+New York,4/28/2020,28
+New York,4/28/2020,59
+New York,4/28/2020,2817
+New York,4/28/2020,3089
+New York,4/28/2020,32
+New York,4/28/2020,14
+New York,4/28/2020,66
+New York,4/28/2020,149
+New York,4/28/2020,112
+New York,4/28/2020,3
+New York,4/28/2020,58
+New York,4/28/2020,60
+New York,4/28/2020,9
+New York,4/28/2020,65
+New York,4/28/2020,126
+New York,4/28/2020,1371
+New York,4/28/2020,49
+New York,4/28/2020,35085
+New York,4/28/2020,167487
+New York,4/28/2020,386
+New York,4/28/2020,411
+New York,4/28/2020,742
+New York,4/28/2020,90
+New York,4/28/2020,8389
+New York,4/28/2020,80
+New York,4/28/2020,63
+New York,4/28/2020,65
+New York,4/28/2020,932
+New York,4/28/2020,250
+New York,4/28/2020,11453
+New York,4/28/2020,343
+New York,4/28/2020,469
+New York,4/28/2020,38
+New York,4/28/2020,7
+New York,4/28/2020,38
+New York,4/28/2020,170
+New York,4/28/2020,210
+New York,4/28/2020,32724
+New York,4/28/2020,769
+New York,4/28/2020,82
+New York,4/28/2020,126
+New York,4/28/2020,1230
+New York,4/28/2020,150
+New York,4/28/2020,131
+New York,4/28/2020,70
+New York,4/28/2020,28245
+New York,4/28/2020,63
+New York,4/28/2020,17
 Texas,4/28/2020,23
 Texas,4/28/2020,19
 Texas,4/28/2020,46
@@ -13871,6 +16353,64 @@ Georgia,4/29/2020,88
 Georgia,4/29/2020,24
 Georgia,4/29/2020,35
 Georgia,4/29/2020,149
+New York,4/29/2020,1067
+New York,4/29/2020,35
+New York,4/29/2020,273
+New York,4/29/2020,47
+New York,4/29/2020,48
+New York,4/29/2020,31
+New York,4/29/2020,119
+New York,4/29/2020,96
+New York,4/29/2020,59
+New York,4/29/2020,165
+New York,4/29/2020,28
+New York,4/29/2020,60
+New York,4/29/2020,2881
+New York,4/29/2020,3196
+New York,4/29/2020,33
+New York,4/29/2020,15
+New York,4/29/2020,67
+New York,4/29/2020,152
+New York,4/29/2020,114
+New York,4/29/2020,3
+New York,4/29/2020,58
+New York,4/29/2020,60
+New York,4/29/2020,9
+New York,4/29/2020,67
+New York,4/29/2020,126
+New York,4/29/2020,1404
+New York,4/29/2020,51
+New York,4/29/2020,35505
+New York,4/29/2020,170124
+New York,4/29/2020,401
+New York,4/29/2020,422
+New York,4/29/2020,782
+New York,4/29/2020,90
+New York,4/29/2020,8503
+New York,4/29/2020,85
+New York,4/29/2020,63
+New York,4/29/2020,66
+New York,4/29/2020,946
+New York,4/29/2020,262
+New York,4/29/2020,11586
+New York,4/29/2020,346
+New York,4/29/2020,479
+New York,4/29/2020,39
+New York,4/29/2020,7
+New York,4/29/2020,38
+New York,4/29/2020,170
+New York,4/29/2020,214
+New York,4/29/2020,33265
+New York,4/29/2020,811
+New York,4/29/2020,84
+New York,4/29/2020,127
+New York,4/29/2020,1252
+New York,4/29/2020,152
+New York,4/29/2020,134
+New York,4/29/2020,70
+New York,4/29/2020,28625
+New York,4/29/2020,65
+New York,4/29/2020,17
 Texas,4/29/2020,23
 Texas,4/29/2020,19
 Texas,4/29/2020,49
@@ -14274,6 +16814,64 @@ Georgia,4/30/2020,90
 Georgia,4/30/2020,25
 Georgia,4/30/2020,35
 Georgia,4/30/2020,153
+New York,4/30/2020,1165
+New York,4/30/2020,35
+New York,4/30/2020,284
+New York,4/30/2020,47
+New York,4/30/2020,48
+New York,4/30/2020,33
+New York,4/30/2020,122
+New York,4/30/2020,98
+New York,4/30/2020,59
+New York,4/30/2020,170
+New York,4/30/2020,28
+New York,4/30/2020,61
+New York,4/30/2020,2954
+New York,4/30/2020,3319
+New York,4/30/2020,34
+New York,4/30/2020,15
+New York,4/30/2020,71
+New York,4/30/2020,153
+New York,4/30/2020,131
+New York,4/30/2020,3
+New York,4/30/2020,58
+New York,4/30/2020,61
+New York,4/30/2020,9
+New York,4/30/2020,69
+New York,4/30/2020,131
+New York,4/30/2020,1441
+New York,4/30/2020,53
+New York,4/30/2020,35854
+New York,4/30/2020,172784
+New York,4/30/2020,420
+New York,4/30/2020,439
+New York,4/30/2020,832
+New York,4/30/2020,90
+New York,4/30/2020,8665
+New York,4/30/2020,89
+New York,4/30/2020,63
+New York,4/30/2020,67
+New York,4/30/2020,970
+New York,4/30/2020,287
+New York,4/30/2020,11708
+New York,4/30/2020,354
+New York,4/30/2020,501
+New York,4/30/2020,42
+New York,4/30/2020,7
+New York,4/30/2020,39
+New York,4/30/2020,173
+New York,4/30/2020,216
+New York,4/30/2020,33664
+New York,4/30/2020,838
+New York,4/30/2020,88
+New York,4/30/2020,128
+New York,4/30/2020,1279
+New York,4/30/2020,176
+New York,4/30/2020,148
+New York,4/30/2020,71
+New York,4/30/2020,28969
+New York,4/30/2020,65
+New York,4/30/2020,18
 Texas,4/30/2020,29
 Texas,4/30/2020,19
 Texas,4/30/2020,53
@@ -14679,6 +17277,64 @@ Georgia,5/1/2020,90
 Georgia,5/1/2020,25
 Georgia,5/1/2020,35
 Georgia,5/1/2020,159
+New York,5/1/2020,1204
+New York,5/1/2020,35
+New York,5/1/2020,299
+New York,5/1/2020,49
+New York,5/1/2020,51
+New York,5/1/2020,35
+New York,5/1/2020,123
+New York,5/1/2020,99
+New York,5/1/2020,61
+New York,5/1/2020,202
+New York,5/1/2020,28
+New York,5/1/2020,61
+New York,5/1/2020,3002
+New York,5/1/2020,3481
+New York,5/1/2020,34
+New York,5/1/2020,15
+New York,5/1/2020,75
+New York,5/1/2020,154
+New York,5/1/2020,139
+New York,5/1/2020,3
+New York,5/1/2020,60
+New York,5/1/2020,61
+New York,5/1/2020,9
+New York,5/1/2020,73
+New York,5/1/2020,139
+New York,5/1/2020,1478
+New York,5/1/2020,54
+New York,5/1/2020,36161
+New York,5/1/2020,174931
+New York,5/1/2020,440
+New York,5/1/2020,451
+New York,5/1/2020,860
+New York,5/1/2020,91
+New York,5/1/2020,8766
+New York,5/1/2020,92
+New York,5/1/2020,64
+New York,5/1/2020,67
+New York,5/1/2020,990
+New York,5/1/2020,298
+New York,5/1/2020,11812
+New York,5/1/2020,358
+New York,5/1/2020,514
+New York,5/1/2020,43
+New York,5/1/2020,7
+New York,5/1/2020,41
+New York,5/1/2020,176
+New York,5/1/2020,216
+New York,5/1/2020,34037
+New York,5/1/2020,880
+New York,5/1/2020,90
+New York,5/1/2020,128
+New York,5/1/2020,1298
+New York,5/1/2020,182
+New York,5/1/2020,170
+New York,5/1/2020,71
+New York,5/1/2020,29231
+New York,5/1/2020,68
+New York,5/1/2020,18
 Texas,5/1/2020,30
 Texas,5/1/2020,20
 Texas,5/1/2020,54
@@ -15085,6 +17741,64 @@ Georgia,5/2/2020,90
 Georgia,5/2/2020,25
 Georgia,5/2/2020,35
 Georgia,5/2/2020,162
+New York,5/2/2020,1238
+New York,5/2/2020,35
+New York,5/2/2020,305
+New York,5/2/2020,50
+New York,5/2/2020,51
+New York,5/2/2020,35
+New York,5/2/2020,124
+New York,5/2/2020,99
+New York,5/2/2020,62
+New York,5/2/2020,205
+New York,5/2/2020,28
+New York,5/2/2020,61
+New York,5/2/2020,3049
+New York,5/2/2020,3598
+New York,5/2/2020,34
+New York,5/2/2020,15
+New York,5/2/2020,79
+New York,5/2/2020,155
+New York,5/2/2020,142
+New York,5/2/2020,3
+New York,5/2/2020,61
+New York,5/2/2020,62
+New York,5/2/2020,9
+New York,5/2/2020,76
+New York,5/2/2020,149
+New York,5/2/2020,1534
+New York,5/2/2020,54
+New York,5/2/2020,36519
+New York,5/2/2020,177490
+New York,5/2/2020,457
+New York,5/2/2020,474
+New York,5/2/2020,903
+New York,5/2/2020,92
+New York,5/2/2020,8925
+New York,5/2/2020,93
+New York,5/2/2020,66
+New York,5/2/2020,67
+New York,5/2/2020,1003
+New York,5/2/2020,311
+New York,5/2/2020,11945
+New York,5/2/2020,361
+New York,5/2/2020,521
+New York,5/2/2020,43
+New York,5/2/2020,7
+New York,5/2/2020,42
+New York,5/2/2020,176
+New York,5/2/2020,217
+New York,5/2/2020,34478
+New York,5/2/2020,931
+New York,5/2/2020,90
+New York,5/2/2020,128
+New York,5/2/2020,1327
+New York,5/2/2020,185
+New York,5/2/2020,184
+New York,5/2/2020,73
+New York,5/2/2020,29626
+New York,5/2/2020,69
+New York,5/2/2020,18
 Texas,5/2/2020,32
 Texas,5/2/2020,20
 Texas,5/2/2020,55
@@ -15494,6 +18208,64 @@ Georgia,5/3/2020,90
 Georgia,5/3/2020,25
 Georgia,5/3/2020,35
 Georgia,5/3/2020,163
+New York,5/3/2020,1258
+New York,5/3/2020,35
+New York,5/3/2020,327
+New York,5/3/2020,53
+New York,5/3/2020,51
+New York,5/3/2020,36
+New York,5/3/2020,125
+New York,5/3/2020,99
+New York,5/3/2020,66
+New York,5/3/2020,209
+New York,5/3/2020,28
+New York,5/3/2020,61
+New York,5/3/2020,3086
+New York,5/3/2020,3710
+New York,5/3/2020,35
+New York,5/3/2020,15
+New York,5/3/2020,82
+New York,5/3/2020,155
+New York,5/3/2020,151
+New York,5/3/2020,3
+New York,5/3/2020,62
+New York,5/3/2020,62
+New York,5/3/2020,9
+New York,5/3/2020,83
+New York,5/3/2020,151
+New York,5/3/2020,1566
+New York,5/3/2020,56
+New York,5/3/2020,36780
+New York,5/3/2020,179728
+New York,5/3/2020,474
+New York,5/3/2020,489
+New York,5/3/2020,952
+New York,5/3/2020,95
+New York,5/3/2020,8982
+New York,5/3/2020,97
+New York,5/3/2020,66
+New York,5/3/2020,67
+New York,5/3/2020,1013
+New York,5/3/2020,322
+New York,5/3/2020,12025
+New York,5/3/2020,363
+New York,5/3/2020,527
+New York,5/3/2020,45
+New York,5/3/2020,7
+New York,5/3/2020,45
+New York,5/3/2020,177
+New York,5/3/2020,218
+New York,5/3/2020,34855
+New York,5/3/2020,951
+New York,5/3/2020,90
+New York,5/3/2020,129
+New York,5/3/2020,1341
+New York,5/3/2020,188
+New York,5/3/2020,186
+New York,5/3/2020,75
+New York,5/3/2020,29884
+New York,5/3/2020,69
+New York,5/3/2020,19
 Texas,5/3/2020,32
 Texas,5/3/2020,21
 Texas,5/3/2020,55
@@ -15903,6 +18675,64 @@ Georgia,5/4/2020,90
 Georgia,5/4/2020,25
 Georgia,5/4/2020,36
 Georgia,5/4/2020,167
+New York,5/4/2020,1287
+New York,5/4/2020,35
+New York,5/4/2020,334
+New York,5/4/2020,53
+New York,5/4/2020,51
+New York,5/4/2020,37
+New York,5/4/2020,126
+New York,5/4/2020,100
+New York,5/4/2020,68
+New York,5/4/2020,213
+New York,5/4/2020,28
+New York,5/4/2020,62
+New York,5/4/2020,3131
+New York,5/4/2020,3802
+New York,5/4/2020,35
+New York,5/4/2020,16
+New York,5/4/2020,84
+New York,5/4/2020,159
+New York,5/4/2020,154
+New York,5/4/2020,3
+New York,5/4/2020,63
+New York,5/4/2020,63
+New York,5/4/2020,9
+New York,5/4/2020,85
+New York,5/4/2020,217
+New York,5/4/2020,1595
+New York,5/4/2020,56
+New York,5/4/2020,36965
+New York,5/4/2020,181034
+New York,5/4/2020,493
+New York,5/4/2020,550
+New York,5/4/2020,971
+New York,5/4/2020,96
+New York,5/4/2020,9030
+New York,5/4/2020,97
+New York,5/4/2020,67
+New York,5/4/2020,67
+New York,5/4/2020,1026
+New York,5/4/2020,337
+New York,5/4/2020,12095
+New York,5/4/2020,367
+New York,5/4/2020,535
+New York,5/4/2020,45
+New York,5/4/2020,7
+New York,5/4/2020,45
+New York,5/4/2020,178
+New York,5/4/2020,219
+New York,5/4/2020,35077
+New York,5/4/2020,976
+New York,5/4/2020,90
+New York,5/4/2020,129
+New York,5/4/2020,1354
+New York,5/4/2020,192
+New York,5/4/2020,188
+New York,5/4/2020,76
+New York,5/4/2020,30097
+New York,5/4/2020,69
+New York,5/4/2020,19
 Texas,5/4/2020,32
 Texas,5/4/2020,21
 Texas,5/4/2020,55
@@ -16313,6 +19143,64 @@ Georgia,5/5/2020,90
 Georgia,5/5/2020,26
 Georgia,5/5/2020,35
 Georgia,5/5/2020,173
+New York,5/5/2020,1294
+New York,5/5/2020,35
+New York,5/5/2020,338
+New York,5/5/2020,53
+New York,5/5/2020,51
+New York,5/5/2020,37
+New York,5/5/2020,126
+New York,5/5/2020,100
+New York,5/5/2020,69
+New York,5/5/2020,229
+New York,5/5/2020,28
+New York,5/5/2020,62
+New York,5/5/2020,3151
+New York,5/5/2020,3891
+New York,5/5/2020,38
+New York,5/5/2020,16
+New York,5/5/2020,97
+New York,5/5/2020,159
+New York,5/5/2020,166
+New York,5/5/2020,3
+New York,5/5/2020,67
+New York,5/5/2020,63
+New York,5/5/2020,9
+New York,5/5/2020,86
+New York,5/5/2020,223
+New York,5/5/2020,1624
+New York,5/5/2020,61
+New York,5/5/2020,37152
+New York,5/5/2020,182318
+New York,5/5/2020,508
+New York,5/5/2020,574
+New York,5/5/2020,1002
+New York,5/5/2020,97
+New York,5/5/2020,9159
+New York,5/5/2020,99
+New York,5/5/2020,68
+New York,5/5/2020,67
+New York,5/5/2020,1031
+New York,5/5/2020,339
+New York,5/5/2020,12144
+New York,5/5/2020,368
+New York,5/5/2020,537
+New York,5/5/2020,45
+New York,5/5/2020,7
+New York,5/5/2020,46
+New York,5/5/2020,178
+New York,5/5/2020,221
+New York,5/5/2020,35275
+New York,5/5/2020,984
+New York,5/5/2020,92
+New York,5/5/2020,129
+New York,5/5/2020,1357
+New York,5/5/2020,192
+New York,5/5/2020,188
+New York,5/5/2020,78
+New York,5/5/2020,30239
+New York,5/5/2020,70
+New York,5/5/2020,19
 Texas,5/5/2020,34
 Texas,5/5/2020,21
 Texas,5/5/2020,79
@@ -16726,6 +19614,64 @@ Georgia,5/6/2020,90
 Georgia,5/6/2020,26
 Georgia,5/6/2020,41
 Georgia,5/6/2020,175
+New York,5/6/2020,1321
+New York,5/6/2020,35
+New York,5/6/2020,345
+New York,5/6/2020,54
+New York,5/6/2020,51
+New York,5/6/2020,38
+New York,5/6/2020,128
+New York,5/6/2020,102
+New York,5/6/2020,69
+New York,5/6/2020,291
+New York,5/6/2020,28
+New York,5/6/2020,62
+New York,5/6/2020,3192
+New York,5/6/2020,4008
+New York,5/6/2020,38
+New York,5/6/2020,16
+New York,5/6/2020,100
+New York,5/6/2020,162
+New York,5/6/2020,188
+New York,5/6/2020,5
+New York,5/6/2020,68
+New York,5/6/2020,63
+New York,5/6/2020,9
+New York,5/6/2020,89
+New York,5/6/2020,231
+New York,5/6/2020,1655
+New York,5/6/2020,63
+New York,5/6/2020,37350
+New York,5/6/2020,183770
+New York,5/6/2020,549
+New York,5/6/2020,579
+New York,5/6/2020,1056
+New York,5/6/2020,99
+New York,5/6/2020,9215
+New York,5/6/2020,103
+New York,5/6/2020,70
+New York,5/6/2020,67
+New York,5/6/2020,1040
+New York,5/6/2020,347
+New York,5/6/2020,12204
+New York,5/6/2020,371
+New York,5/6/2020,551
+New York,5/6/2020,45
+New York,5/6/2020,7
+New York,5/6/2020,46
+New York,5/6/2020,180
+New York,5/6/2020,223
+New York,5/6/2020,35543
+New York,5/6/2020,996
+New York,5/6/2020,96
+New York,5/6/2020,129
+New York,5/6/2020,1383
+New York,5/6/2020,193
+New York,5/6/2020,189
+New York,5/6/2020,78
+New York,5/6/2020,30426
+New York,5/6/2020,70
+New York,5/6/2020,19
 Texas,5/6/2020,38
 Texas,5/6/2020,21
 Texas,5/6/2020,86
@@ -17140,6 +20086,64 @@ Georgia,5/7/2020,92
 Georgia,5/7/2020,26
 Georgia,5/7/2020,40
 Georgia,5/7/2020,179
+New York,5/7/2020,1348
+New York,5/7/2020,35
+New York,5/7/2020,360
+New York,5/7/2020,59
+New York,5/7/2020,52
+New York,5/7/2020,40
+New York,5/7/2020,129
+New York,5/7/2020,105
+New York,5/7/2020,69
+New York,5/7/2020,302
+New York,5/7/2020,29
+New York,5/7/2020,63
+New York,5/7/2020,3233
+New York,5/7/2020,4136
+New York,5/7/2020,38
+New York,5/7/2020,16
+New York,5/7/2020,101
+New York,5/7/2020,168
+New York,5/7/2020,198
+New York,5/7/2020,5
+New York,5/7/2020,74
+New York,5/7/2020,64
+New York,5/7/2020,10
+New York,5/7/2020,95
+New York,5/7/2020,246
+New York,5/7/2020,1689
+New York,5/7/2020,63
+New York,5/7/2020,37593
+New York,5/7/2020,185653
+New York,5/7/2020,588
+New York,5/7/2020,609
+New York,5/7/2020,1115
+New York,5/7/2020,101
+New York,5/7/2020,9343
+New York,5/7/2020,108
+New York,5/7/2020,70
+New York,5/7/2020,67
+New York,5/7/2020,1066
+New York,5/7/2020,367
+New York,5/7/2020,12280
+New York,5/7/2020,374
+New York,5/7/2020,551
+New York,5/7/2020,45
+New York,5/7/2020,7
+New York,5/7/2020,46
+New York,5/7/2020,181
+New York,5/7/2020,224
+New York,5/7/2020,35892
+New York,5/7/2020,1021
+New York,5/7/2020,97
+New York,5/7/2020,130
+New York,5/7/2020,1416
+New York,5/7/2020,193
+New York,5/7/2020,190
+New York,5/7/2020,78
+New York,5/7/2020,30709
+New York,5/7/2020,71
+New York,5/7/2020,19
 Texas,5/7/2020,40
 Texas,5/7/2020,21
 Texas,5/7/2020,93
@@ -17555,6 +20559,64 @@ Georgia,5/8/2020,94
 Georgia,5/8/2020,26
 Georgia,5/8/2020,40
 Georgia,5/8/2020,180
+New York,5/8/2020,1384
+New York,5/8/2020,35
+New York,5/8/2020,364
+New York,5/8/2020,59
+New York,5/8/2020,52
+New York,5/8/2020,40
+New York,5/8/2020,130
+New York,5/8/2020,105
+New York,5/8/2020,74
+New York,5/8/2020,304
+New York,5/8/2020,29
+New York,5/8/2020,63
+New York,5/8/2020,3277
+New York,5/8/2020,4255
+New York,5/8/2020,39
+New York,5/8/2020,17
+New York,5/8/2020,103
+New York,5/8/2020,169
+New York,5/8/2020,199
+New York,5/8/2020,5
+New York,5/8/2020,76
+New York,5/8/2020,66
+New York,5/8/2020,10
+New York,5/8/2020,100
+New York,5/8/2020,249
+New York,5/8/2020,1736
+New York,5/8/2020,64
+New York,5/8/2020,37812
+New York,5/8/2020,187157
+New York,5/8/2020,605
+New York,5/8/2020,620
+New York,5/8/2020,1169
+New York,5/8/2020,104
+New York,5/8/2020,9417
+New York,5/8/2020,121
+New York,5/8/2020,72
+New York,5/8/2020,67
+New York,5/8/2020,1074
+New York,5/8/2020,380
+New York,5/8/2020,12349
+New York,5/8/2020,388
+New York,5/8/2020,558
+New York,5/8/2020,45
+New York,5/8/2020,7
+New York,5/8/2020,46
+New York,5/8/2020,187
+New York,5/8/2020,225
+New York,5/8/2020,36223
+New York,5/8/2020,1039
+New York,5/8/2020,99
+New York,5/8/2020,131
+New York,5/8/2020,1429
+New York,5/8/2020,199
+New York,5/8/2020,201
+New York,5/8/2020,79
+New York,5/8/2020,30904
+New York,5/8/2020,73
+New York,5/8/2020,20
 Texas,5/8/2020,41
 Texas,5/8/2020,21
 Texas,5/8/2020,100
@@ -17972,6 +21034,64 @@ Georgia,5/9/2020,95
 Georgia,5/9/2020,27
 Georgia,5/9/2020,39
 Georgia,5/9/2020,182
+New York,5/9/2020,1416
+New York,5/9/2020,35
+New York,5/9/2020,372
+New York,5/9/2020,60
+New York,5/9/2020,53
+New York,5/9/2020,40
+New York,5/9/2020,131
+New York,5/9/2020,109
+New York,5/9/2020,76
+New York,5/9/2020,304
+New York,5/9/2020,29
+New York,5/9/2020,63
+New York,5/9/2020,3319
+New York,5/9/2020,4337
+New York,5/9/2020,39
+New York,5/9/2020,17
+New York,5/9/2020,104
+New York,5/9/2020,170
+New York,5/9/2020,204
+New York,5/9/2020,5
+New York,5/9/2020,77
+New York,5/9/2020,67
+New York,5/9/2020,11
+New York,5/9/2020,101
+New York,5/9/2020,250
+New York,5/9/2020,1776
+New York,5/9/2020,66
+New York,5/9/2020,38028
+New York,5/9/2020,188663
+New York,5/9/2020,627
+New York,5/9/2020,638
+New York,5/9/2020,1218
+New York,5/9/2020,104
+New York,5/9/2020,9501
+New York,5/9/2020,122
+New York,5/9/2020,75
+New York,5/9/2020,67
+New York,5/9/2020,1080
+New York,5/9/2020,407
+New York,5/9/2020,12400
+New York,5/9/2020,399
+New York,5/9/2020,571
+New York,5/9/2020,46
+New York,5/9/2020,7
+New York,5/9/2020,48
+New York,5/9/2020,187
+New York,5/9/2020,226
+New York,5/9/2020,36461
+New York,5/9/2020,1071
+New York,5/9/2020,104
+New York,5/9/2020,132
+New York,5/9/2020,1440
+New York,5/9/2020,202
+New York,5/9/2020,204
+New York,5/9/2020,79
+New York,5/9/2020,31086
+New York,5/9/2020,75
+New York,5/9/2020,20
 Texas,5/9/2020,41
 Texas,5/9/2020,21
 Texas,5/9/2020,100
@@ -18389,6 +21509,64 @@ Georgia,5/10/2020,95
 Georgia,5/10/2020,27
 Georgia,5/10/2020,40
 Georgia,5/10/2020,183
+New York,5/10/2020,1432
+New York,5/10/2020,36
+New York,5/10/2020,373
+New York,5/10/2020,60
+New York,5/10/2020,58
+New York,5/10/2020,41
+New York,5/10/2020,131
+New York,5/10/2020,109
+New York,5/10/2020,76
+New York,5/10/2020,312
+New York,5/10/2020,29
+New York,5/10/2020,64
+New York,5/10/2020,3359
+New York,5/10/2020,4453
+New York,5/10/2020,40
+New York,5/10/2020,17
+New York,5/10/2020,107
+New York,5/10/2020,172
+New York,5/10/2020,206
+New York,5/10/2020,5
+New York,5/10/2020,79
+New York,5/10/2020,68
+New York,5/10/2020,11
+New York,5/10/2020,102
+New York,5/10/2020,251
+New York,5/10/2020,1822
+New York,5/10/2020,67
+New York,5/10/2020,38217
+New York,5/10/2020,189656
+New York,5/10/2020,643
+New York,5/10/2020,660
+New York,5/10/2020,1265
+New York,5/10/2020,106
+New York,5/10/2020,9558
+New York,5/10/2020,126
+New York,5/10/2020,75
+New York,5/10/2020,67
+New York,5/10/2020,1089
+New York,5/10/2020,409
+New York,5/10/2020,12451
+New York,5/10/2020,402
+New York,5/10/2020,571
+New York,5/10/2020,46
+New York,5/10/2020,7
+New York,5/10/2020,49
+New York,5/10/2020,187
+New York,5/10/2020,227
+New York,5/10/2020,36702
+New York,5/10/2020,1093
+New York,5/10/2020,105
+New York,5/10/2020,132
+New York,5/10/2020,1450
+New York,5/10/2020,207
+New York,5/10/2020,206
+New York,5/10/2020,80
+New York,5/10/2020,31293
+New York,5/10/2020,77
+New York,5/10/2020,21
 Texas,5/10/2020,41
 Texas,5/10/2020,21
 Texas,5/10/2020,100
@@ -18806,6 +21984,64 @@ Georgia,5/11/2020,95
 Georgia,5/11/2020,27
 Georgia,5/11/2020,40
 Georgia,5/11/2020,183
+New York,5/11/2020,1456
+New York,5/11/2020,38
+New York,5/11/2020,378
+New York,5/11/2020,61
+New York,5/11/2020,60
+New York,5/11/2020,41
+New York,5/11/2020,131
+New York,5/11/2020,111
+New York,5/11/2020,76
+New York,5/11/2020,314
+New York,5/11/2020,29
+New York,5/11/2020,65
+New York,5/11/2020,3378
+New York,5/11/2020,4483
+New York,5/11/2020,40
+New York,5/11/2020,17
+New York,5/11/2020,109
+New York,5/11/2020,173
+New York,5/11/2020,206
+New York,5/11/2020,5
+New York,5/11/2020,81
+New York,5/11/2020,68
+New York,5/11/2020,11
+New York,5/11/2020,102
+New York,5/11/2020,251
+New York,5/11/2020,1851
+New York,5/11/2020,67
+New York,5/11/2020,38337
+New York,5/11/2020,190546
+New York,5/11/2020,655
+New York,5/11/2020,669
+New York,5/11/2020,1287
+New York,5/11/2020,107
+New York,5/11/2020,9599
+New York,5/11/2020,130
+New York,5/11/2020,75
+New York,5/11/2020,67
+New York,5/11/2020,1098
+New York,5/11/2020,411
+New York,5/11/2020,12484
+New York,5/11/2020,403
+New York,5/11/2020,575
+New York,5/11/2020,46
+New York,5/11/2020,7
+New York,5/11/2020,49
+New York,5/11/2020,190
+New York,5/11/2020,228
+New York,5/11/2020,36911
+New York,5/11/2020,1109
+New York,5/11/2020,107
+New York,5/11/2020,132
+New York,5/11/2020,1454
+New York,5/11/2020,217
+New York,5/11/2020,210
+New York,5/11/2020,81
+New York,5/11/2020,31383
+New York,5/11/2020,77
+New York,5/11/2020,21
 Texas,5/11/2020,41
 Texas,5/11/2020,21
 Texas,5/11/2020,100
@@ -19223,6 +22459,64 @@ Georgia,5/12/2020,95
 Georgia,5/12/2020,27
 Georgia,5/12/2020,40
 Georgia,5/12/2020,188
+New York,5/12/2020,1479
+New York,5/12/2020,42
+New York,5/12/2020,379
+New York,5/12/2020,61
+New York,5/12/2020,60
+New York,5/12/2020,42
+New York,5/12/2020,131
+New York,5/12/2020,112
+New York,5/12/2020,77
+New York,5/12/2020,314
+New York,5/12/2020,30
+New York,5/12/2020,65
+New York,5/12/2020,3399
+New York,5/12/2020,4530
+New York,5/12/2020,40
+New York,5/12/2020,17
+New York,5/12/2020,135
+New York,5/12/2020,174
+New York,5/12/2020,206
+New York,5/12/2020,5
+New York,5/12/2020,81
+New York,5/12/2020,68
+New York,5/12/2020,11
+New York,5/12/2020,102
+New York,5/12/2020,251
+New York,5/12/2020,1891
+New York,5/12/2020,67
+New York,5/12/2020,38434
+New York,5/12/2020,191320
+New York,5/12/2020,671
+New York,5/12/2020,676
+New York,5/12/2020,1308
+New York,5/12/2020,107
+New York,5/12/2020,9647
+New York,5/12/2020,133
+New York,5/12/2020,76
+New York,5/12/2020,67
+New York,5/12/2020,1098
+New York,5/12/2020,416
+New York,5/12/2020,12504
+New York,5/12/2020,407
+New York,5/12/2020,581
+New York,5/12/2020,46
+New York,5/12/2020,8
+New York,5/12/2020,49
+New York,5/12/2020,191
+New York,5/12/2020,229
+New York,5/12/2020,37062
+New York,5/12/2020,1119
+New York,5/12/2020,107
+New York,5/12/2020,132
+New York,5/12/2020,1465
+New York,5/12/2020,221
+New York,5/12/2020,210
+New York,5/12/2020,83
+New York,5/12/2020,31471
+New York,5/12/2020,77
+New York,5/12/2020,21
 Texas,5/12/2020,50
 Texas,5/12/2020,22
 Texas,5/12/2020,117
@@ -19640,6 +22934,64 @@ Georgia,5/13/2020,99
 Georgia,5/13/2020,27
 Georgia,5/13/2020,40
 Georgia,5/13/2020,191
+New York,5/13/2020,1494
+New York,5/13/2020,44
+New York,5/13/2020,382
+New York,5/13/2020,61
+New York,5/13/2020,60
+New York,5/13/2020,43
+New York,5/13/2020,132
+New York,5/13/2020,112
+New York,5/13/2020,78
+New York,5/13/2020,318
+New York,5/13/2020,31
+New York,5/13/2020,66
+New York,5/13/2020,3429
+New York,5/13/2020,4606
+New York,5/13/2020,40
+New York,5/13/2020,17
+New York,5/13/2020,140
+New York,5/13/2020,174
+New York,5/13/2020,206
+New York,5/13/2020,5
+New York,5/13/2020,84
+New York,5/13/2020,68
+New York,5/13/2020,11
+New York,5/13/2020,103
+New York,5/13/2020,253
+New York,5/13/2020,1960
+New York,5/13/2020,68
+New York,5/13/2020,38587
+New York,5/13/2020,192394
+New York,5/13/2020,690
+New York,5/13/2020,686
+New York,5/13/2020,1395
+New York,5/13/2020,109
+New York,5/13/2020,9708
+New York,5/13/2020,142
+New York,5/13/2020,76
+New York,5/13/2020,67
+New York,5/13/2020,1108
+New York,5/13/2020,420
+New York,5/13/2020,12543
+New York,5/13/2020,410
+New York,5/13/2020,587
+New York,5/13/2020,47
+New York,5/13/2020,8
+New York,5/13/2020,49
+New York,5/13/2020,192
+New York,5/13/2020,230
+New York,5/13/2020,37305
+New York,5/13/2020,1135
+New York,5/13/2020,108
+New York,5/13/2020,136
+New York,5/13/2020,1481
+New York,5/13/2020,223
+New York,5/13/2020,214
+New York,5/13/2020,84
+New York,5/13/2020,31610
+New York,5/13/2020,77
+New York,5/13/2020,22
 Texas,5/13/2020,50
 Texas,5/13/2020,22
 Texas,5/13/2020,117
@@ -20057,6 +23409,64 @@ Georgia,5/14/2020,98
 Georgia,5/14/2020,28
 Georgia,5/14/2020,40
 Georgia,5/14/2020,191
+New York,5/14/2020,1509
+New York,5/14/2020,44
+New York,5/14/2020,383
+New York,5/14/2020,64
+New York,5/14/2020,60
+New York,5/14/2020,44
+New York,5/14/2020,132
+New York,5/14/2020,112
+New York,5/14/2020,81
+New York,5/14/2020,327
+New York,5/14/2020,33
+New York,5/14/2020,67
+New York,5/14/2020,3474
+New York,5/14/2020,4671
+New York,5/14/2020,40
+New York,5/14/2020,17
+New York,5/14/2020,144
+New York,5/14/2020,175
+New York,5/14/2020,207
+New York,5/14/2020,5
+New York,5/14/2020,86
+New York,5/14/2020,69
+New York,5/14/2020,12
+New York,5/14/2020,106
+New York,5/14/2020,255
+New York,5/14/2020,2020
+New York,5/14/2020,69
+New York,5/14/2020,38743
+New York,5/14/2020,193663
+New York,5/14/2020,710
+New York,5/14/2020,698
+New York,5/14/2020,1423
+New York,5/14/2020,129
+New York,5/14/2020,9786
+New York,5/14/2020,145
+New York,5/14/2020,78
+New York,5/14/2020,67
+New York,5/14/2020,1115
+New York,5/14/2020,423
+New York,5/14/2020,12596
+New York,5/14/2020,415
+New York,5/14/2020,597
+New York,5/14/2020,47
+New York,5/14/2020,8
+New York,5/14/2020,49
+New York,5/14/2020,192
+New York,5/14/2020,230
+New York,5/14/2020,37544
+New York,5/14/2020,1168
+New York,5/14/2020,108
+New York,5/14/2020,136
+New York,5/14/2020,1495
+New York,5/14/2020,227
+New York,5/14/2020,215
+New York,5/14/2020,89
+New York,5/14/2020,31791
+New York,5/14/2020,77
+New York,5/14/2020,22
 Texas,5/14/2020,51
 Texas,5/14/2020,22
 Texas,5/14/2020,119
@@ -20474,6 +23884,64 @@ Georgia,5/15/2020,95
 Georgia,5/15/2020,28
 Georgia,5/15/2020,42
 Georgia,5/15/2020,195
+New York,5/15/2020,1538
+New York,5/15/2020,44
+New York,5/15/2020,390
+New York,5/15/2020,64
+New York,5/15/2020,61
+New York,5/15/2020,45
+New York,5/15/2020,133
+New York,5/15/2020,113
+New York,5/15/2020,85
+New York,5/15/2020,333
+New York,5/15/2020,33
+New York,5/15/2020,67
+New York,5/15/2020,3498
+New York,5/15/2020,4782
+New York,5/15/2020,40
+New York,5/15/2020,17
+New York,5/15/2020,145
+New York,5/15/2020,175
+New York,5/15/2020,209
+New York,5/15/2020,5
+New York,5/15/2020,87
+New York,5/15/2020,71
+New York,5/15/2020,12
+New York,5/15/2020,106
+New York,5/15/2020,256
+New York,5/15/2020,2092
+New York,5/15/2020,72
+New York,5/15/2020,38864
+New York,5/15/2020,195472
+New York,5/15/2020,743
+New York,5/15/2020,713
+New York,5/15/2020,1440
+New York,5/15/2020,133
+New York,5/15/2020,9840
+New York,5/15/2020,147
+New York,5/15/2020,80
+New York,5/15/2020,67
+New York,5/15/2020,1121
+New York,5/15/2020,428
+New York,5/15/2020,12637
+New York,5/15/2020,421
+New York,5/15/2020,603
+New York,5/15/2020,47
+New York,5/15/2020,8
+New York,5/15/2020,49
+New York,5/15/2020,192
+New York,5/15/2020,231
+New York,5/15/2020,37719
+New York,5/15/2020,1189
+New York,5/15/2020,110
+New York,5/15/2020,136
+New York,5/15/2020,1511
+New York,5/15/2020,228
+New York,5/15/2020,217
+New York,5/15/2020,91
+New York,5/15/2020,31942
+New York,5/15/2020,77
+New York,5/15/2020,22
 Texas,5/15/2020,52
 Texas,5/15/2020,22
 Texas,5/15/2020,131
@@ -20894,6 +24362,64 @@ Georgia,5/16/2020,95
 Georgia,5/16/2020,28
 Georgia,5/16/2020,45
 Georgia,5/16/2020,195
+New York,5/16/2020,1572
+New York,5/16/2020,44
+New York,5/16/2020,413
+New York,5/16/2020,65
+New York,5/16/2020,63
+New York,5/16/2020,48
+New York,5/16/2020,134
+New York,5/16/2020,115
+New York,5/16/2020,91
+New York,5/16/2020,338
+New York,5/16/2020,34
+New York,5/16/2020,68
+New York,5/16/2020,3527
+New York,5/16/2020,4867
+New York,5/16/2020,40
+New York,5/16/2020,18
+New York,5/16/2020,148
+New York,5/16/2020,178
+New York,5/16/2020,211
+New York,5/16/2020,5
+New York,5/16/2020,91
+New York,5/16/2020,71
+New York,5/16/2020,13
+New York,5/16/2020,107
+New York,5/16/2020,258
+New York,5/16/2020,2193
+New York,5/16/2020,75
+New York,5/16/2020,39033
+New York,5/16/2020,196481
+New York,5/16/2020,770
+New York,5/16/2020,751
+New York,5/16/2020,1469
+New York,5/16/2020,139
+New York,5/16/2020,9894
+New York,5/16/2020,163
+New York,5/16/2020,83
+New York,5/16/2020,67
+New York,5/16/2020,1127
+New York,5/16/2020,438
+New York,5/16/2020,12688
+New York,5/16/2020,423
+New York,5/16/2020,613
+New York,5/16/2020,47
+New York,5/16/2020,8
+New York,5/16/2020,50
+New York,5/16/2020,192
+New York,5/16/2020,233
+New York,5/16/2020,37942
+New York,5/16/2020,1217
+New York,5/16/2020,112
+New York,5/16/2020,138
+New York,5/16/2020,1537
+New York,5/16/2020,228
+New York,5/16/2020,218
+New York,5/16/2020,92
+New York,5/16/2020,32096
+New York,5/16/2020,78
+New York,5/16/2020,22
 Texas,5/16/2020,54
 Texas,5/16/2020,22
 Texas,5/16/2020,139
@@ -21314,6 +24840,64 @@ Georgia,5/17/2020,95
 Georgia,5/17/2020,28
 Georgia,5/17/2020,45
 Georgia,5/17/2020,196
+New York,5/17/2020,1579
+New York,5/17/2020,44
+New York,5/17/2020,414
+New York,5/17/2020,65
+New York,5/17/2020,63
+New York,5/17/2020,48
+New York,5/17/2020,134
+New York,5/17/2020,117
+New York,5/17/2020,92
+New York,5/17/2020,340
+New York,5/17/2020,34
+New York,5/17/2020,69
+New York,5/17/2020,3543
+New York,5/17/2020,4954
+New York,5/17/2020,41
+New York,5/17/2020,18
+New York,5/17/2020,171
+New York,5/17/2020,180
+New York,5/17/2020,212
+New York,5/17/2020,5
+New York,5/17/2020,91
+New York,5/17/2020,71
+New York,5/17/2020,16
+New York,5/17/2020,110
+New York,5/17/2020,258
+New York,5/17/2020,2259
+New York,5/17/2020,75
+New York,5/17/2020,39136
+New York,5/17/2020,197486
+New York,5/17/2020,792
+New York,5/17/2020,760
+New York,5/17/2020,1501
+New York,5/17/2020,146
+New York,5/17/2020,9958
+New York,5/17/2020,167
+New York,5/17/2020,84
+New York,5/17/2020,67
+New York,5/17/2020,1136
+New York,5/17/2020,439
+New York,5/17/2020,12758
+New York,5/17/2020,428
+New York,5/17/2020,620
+New York,5/17/2020,47
+New York,5/17/2020,9
+New York,5/17/2020,51
+New York,5/17/2020,192
+New York,5/17/2020,234
+New York,5/17/2020,38117
+New York,5/17/2020,1231
+New York,5/17/2020,113
+New York,5/17/2020,139
+New York,5/17/2020,1552
+New York,5/17/2020,232
+New York,5/17/2020,219
+New York,5/17/2020,96
+New York,5/17/2020,32223
+New York,5/17/2020,78
+New York,5/17/2020,23
 Texas,5/17/2020,54
 Texas,5/17/2020,22
 Texas,5/17/2020,139
@@ -21734,6 +25318,64 @@ Georgia,5/18/2020,95
 Georgia,5/18/2020,30
 Georgia,5/18/2020,45
 Georgia,5/18/2020,197
+New York,5/18/2020,1610
+New York,5/18/2020,44
+New York,5/18/2020,423
+New York,5/18/2020,67
+New York,5/18/2020,65
+New York,5/18/2020,49
+New York,5/18/2020,134
+New York,5/18/2020,118
+New York,5/18/2020,94
+New York,5/18/2020,346
+New York,5/18/2020,35
+New York,5/18/2020,69
+New York,5/18/2020,3552
+New York,5/18/2020,4993
+New York,5/18/2020,41
+New York,5/18/2020,18
+New York,5/18/2020,182
+New York,5/18/2020,180
+New York,5/18/2020,213
+New York,5/18/2020,5
+New York,5/18/2020,92
+New York,5/18/2020,71
+New York,5/18/2020,17
+New York,5/18/2020,110
+New York,5/18/2020,258
+New York,5/18/2020,2304
+New York,5/18/2020,75
+New York,5/18/2020,39225
+New York,5/18/2020,198114
+New York,5/18/2020,818
+New York,5/18/2020,772
+New York,5/18/2020,1520
+New York,5/18/2020,148
+New York,5/18/2020,9980
+New York,5/18/2020,167
+New York,5/18/2020,84
+New York,5/18/2020,67
+New York,5/18/2020,1141
+New York,5/18/2020,444
+New York,5/18/2020,12777
+New York,5/18/2020,434
+New York,5/18/2020,629
+New York,5/18/2020,48
+New York,5/18/2020,10
+New York,5/18/2020,51
+New York,5/18/2020,192
+New York,5/18/2020,235
+New York,5/18/2020,38224
+New York,5/18/2020,1246
+New York,5/18/2020,113
+New York,5/18/2020,141
+New York,5/18/2020,1557
+New York,5/18/2020,234
+New York,5/18/2020,219
+New York,5/18/2020,97
+New York,5/18/2020,32322
+New York,5/18/2020,79
+New York,5/18/2020,25
 Texas,5/18/2020,54
 Texas,5/18/2020,22
 Texas,5/18/2020,139
@@ -22154,6 +25796,64 @@ Georgia,5/19/2020,97
 Georgia,5/19/2020,30
 Georgia,5/19/2020,46
 Georgia,5/19/2020,201
+New York,5/19/2020,1655
+New York,5/19/2020,44
+New York,5/19/2020,429
+New York,5/19/2020,69
+New York,5/19/2020,68
+New York,5/19/2020,49
+New York,5/19/2020,134
+New York,5/19/2020,118
+New York,5/19/2020,94
+New York,5/19/2020,350
+New York,5/19/2020,36
+New York,5/19/2020,69
+New York,5/19/2020,3710
+New York,5/19/2020,5037
+New York,5/19/2020,42
+New York,5/19/2020,18
+New York,5/19/2020,182
+New York,5/19/2020,182
+New York,5/19/2020,214
+New York,5/19/2020,5
+New York,5/19/2020,92
+New York,5/19/2020,71
+New York,5/19/2020,18
+New York,5/19/2020,111
+New York,5/19/2020,260
+New York,5/19/2020,2377
+New York,5/19/2020,75
+New York,5/19/2020,39295
+New York,5/19/2020,198710
+New York,5/19/2020,845
+New York,5/19/2020,785
+New York,5/19/2020,1665
+New York,5/19/2020,152
+New York,5/19/2020,10003
+New York,5/19/2020,168
+New York,5/19/2020,89
+New York,5/19/2020,67
+New York,5/19/2020,1159
+New York,5/19/2020,444
+New York,5/19/2020,12798
+New York,5/19/2020,436
+New York,5/19/2020,631
+New York,5/19/2020,48
+New York,5/19/2020,10
+New York,5/19/2020,51
+New York,5/19/2020,192
+New York,5/19/2020,236
+New York,5/19/2020,38327
+New York,5/19/2020,1258
+New York,5/19/2020,113
+New York,5/19/2020,142
+New York,5/19/2020,1565
+New York,5/19/2020,235
+New York,5/19/2020,220
+New York,5/19/2020,98
+New York,5/19/2020,32401
+New York,5/19/2020,79
+New York,5/19/2020,26
 Texas,5/19/2020,60
 Texas,5/19/2020,22
 Texas,5/19/2020,154
@@ -22576,6 +26276,64 @@ Georgia,5/20/2020,98
 Georgia,5/20/2020,30
 Georgia,5/20/2020,49
 Georgia,5/20/2020,206
+New York,5/20/2020,1682
+New York,5/20/2020,44
+New York,5/20/2020,436
+New York,5/20/2020,70
+New York,5/20/2020,68
+New York,5/20/2020,50
+New York,5/20/2020,134
+New York,5/20/2020,118
+New York,5/20/2020,94
+New York,5/20/2020,350
+New York,5/20/2020,36
+New York,5/20/2020,69
+New York,5/20/2020,3724
+New York,5/20/2020,5131
+New York,5/20/2020,42
+New York,5/20/2020,18
+New York,5/20/2020,184
+New York,5/20/2020,184
+New York,5/20/2020,215
+New York,5/20/2020,5
+New York,5/20/2020,93
+New York,5/20/2020,71
+New York,5/20/2020,18
+New York,5/20/2020,111
+New York,5/20/2020,292
+New York,5/20/2020,2466
+New York,5/20/2020,75
+New York,5/20/2020,39368
+New York,5/20/2020,199392
+New York,5/20/2020,858
+New York,5/20/2020,802
+New York,5/20/2020,1718
+New York,5/20/2020,170
+New York,5/20/2020,10058
+New York,5/20/2020,171
+New York,5/20/2020,90
+New York,5/20/2020,67
+New York,5/20/2020,1168
+New York,5/20/2020,453
+New York,5/20/2020,12831
+New York,5/20/2020,438
+New York,5/20/2020,633
+New York,5/20/2020,48
+New York,5/20/2020,10
+New York,5/20/2020,52
+New York,5/20/2020,195
+New York,5/20/2020,237
+New York,5/20/2020,38411
+New York,5/20/2020,1267
+New York,5/20/2020,114
+New York,5/20/2020,145
+New York,5/20/2020,1571
+New York,5/20/2020,235
+New York,5/20/2020,221
+New York,5/20/2020,103
+New York,5/20/2020,32516
+New York,5/20/2020,79
+New York,5/20/2020,34
 Texas,5/20/2020,61
 Texas,5/20/2020,22
 Texas,5/20/2020,154
@@ -22999,6 +26757,64 @@ Georgia,5/21/2020,98
 Georgia,5/21/2020,30
 Georgia,5/21/2020,61
 Georgia,5/21/2020,207
+New York,5/21/2020,1700
+New York,5/21/2020,44
+New York,5/21/2020,451
+New York,5/21/2020,71
+New York,5/21/2020,72
+New York,5/21/2020,58
+New York,5/21/2020,134
+New York,5/21/2020,118
+New York,5/21/2020,94
+New York,5/21/2020,355
+New York,5/21/2020,36
+New York,5/21/2020,71
+New York,5/21/2020,3745
+New York,5/21/2020,5270
+New York,5/21/2020,44
+New York,5/21/2020,19
+New York,5/21/2020,186
+New York,5/21/2020,188
+New York,5/21/2020,215
+New York,5/21/2020,5
+New York,5/21/2020,93
+New York,5/21/2020,71
+New York,5/21/2020,18
+New York,5/21/2020,114
+New York,5/21/2020,294
+New York,5/21/2020,2531
+New York,5/21/2020,77
+New York,5/21/2020,39487
+New York,5/21/2020,200507
+New York,5/21/2020,880
+New York,5/21/2020,817
+New York,5/21/2020,1771
+New York,5/21/2020,176
+New York,5/21/2020,10107
+New York,5/21/2020,174
+New York,5/21/2020,92
+New York,5/21/2020,67
+New York,5/21/2020,1175
+New York,5/21/2020,456
+New York,5/21/2020,12877
+New York,5/21/2020,440
+New York,5/21/2020,638
+New York,5/21/2020,49
+New York,5/21/2020,10
+New York,5/21/2020,52
+New York,5/21/2020,195
+New York,5/21/2020,238
+New York,5/21/2020,38553
+New York,5/21/2020,1281
+New York,5/21/2020,117
+New York,5/21/2020,145
+New York,5/21/2020,1584
+New York,5/21/2020,241
+New York,5/21/2020,222
+New York,5/21/2020,103
+New York,5/21/2020,32672
+New York,5/21/2020,79
+New York,5/21/2020,34
 Texas,5/21/2020,63
 Texas,5/21/2020,22
 Texas,5/21/2020,168
@@ -23422,6 +27238,64 @@ Georgia,5/22/2020,98
 Georgia,5/22/2020,32
 Georgia,5/22/2020,63
 Georgia,5/22/2020,204
+New York,5/22/2020,1756
+New York,5/22/2020,44
+New York,5/22/2020,468
+New York,5/22/2020,74
+New York,5/22/2020,73
+New York,5/22/2020,63
+New York,5/22/2020,135
+New York,5/22/2020,118
+New York,5/22/2020,94
+New York,5/22/2020,356
+New York,5/22/2020,37
+New York,5/22/2020,72
+New York,5/22/2020,3767
+New York,5/22/2020,5397
+New York,5/22/2020,44
+New York,5/22/2020,19
+New York,5/22/2020,189
+New York,5/22/2020,189
+New York,5/22/2020,215
+New York,5/22/2020,5
+New York,5/22/2020,95
+New York,5/22/2020,72
+New York,5/22/2020,19
+New York,5/22/2020,114
+New York,5/22/2020,297
+New York,5/22/2020,2602
+New York,5/22/2020,77
+New York,5/22/2020,39608
+New York,5/22/2020,201298
+New York,5/22/2020,897
+New York,5/22/2020,828
+New York,5/22/2020,1828
+New York,5/22/2020,180
+New York,5/22/2020,10157
+New York,5/22/2020,175
+New York,5/22/2020,96
+New York,5/22/2020,67
+New York,5/22/2020,1187
+New York,5/22/2020,460
+New York,5/22/2020,12905
+New York,5/22/2020,448
+New York,5/22/2020,645
+New York,5/22/2020,49
+New York,5/22/2020,11
+New York,5/22/2020,54
+New York,5/22/2020,195
+New York,5/22/2020,240
+New York,5/22/2020,38672
+New York,5/22/2020,1287
+New York,5/22/2020,118
+New York,5/22/2020,147
+New York,5/22/2020,1595
+New York,5/22/2020,246
+New York,5/22/2020,224
+New York,5/22/2020,104
+New York,5/22/2020,32766
+New York,5/22/2020,79
+New York,5/22/2020,34
 Texas,5/22/2020,63
 Texas,5/22/2020,22
 Texas,5/22/2020,168
@@ -23845,6 +27719,64 @@ Georgia,5/23/2020,98
 Georgia,5/23/2020,32
 Georgia,5/23/2020,64
 Georgia,5/23/2020,204
+New York,5/23/2020,1770
+New York,5/23/2020,44
+New York,5/23/2020,485
+New York,5/23/2020,78
+New York,5/23/2020,76
+New York,5/23/2020,72
+New York,5/23/2020,136
+New York,5/23/2020,118
+New York,5/23/2020,95
+New York,5/23/2020,359
+New York,5/23/2020,38
+New York,5/23/2020,74
+New York,5/23/2020,3793
+New York,5/23/2020,5552
+New York,5/23/2020,44
+New York,5/23/2020,20
+New York,5/23/2020,193
+New York,5/23/2020,191
+New York,5/23/2020,217
+New York,5/23/2020,5
+New York,5/23/2020,100
+New York,5/23/2020,72
+New York,5/23/2020,19
+New York,5/23/2020,114
+New York,5/23/2020,301
+New York,5/23/2020,2662
+New York,5/23/2020,77
+New York,5/23/2020,39726
+New York,5/23/2020,202062
+New York,5/23/2020,927
+New York,5/23/2020,864
+New York,5/23/2020,1904
+New York,5/23/2020,182
+New York,5/23/2020,10212
+New York,5/23/2020,196
+New York,5/23/2020,99
+New York,5/23/2020,68
+New York,5/23/2020,1200
+New York,5/23/2020,463
+New York,5/23/2020,12934
+New York,5/23/2020,452
+New York,5/23/2020,648
+New York,5/23/2020,49
+New York,5/23/2020,11
+New York,5/23/2020,54
+New York,5/23/2020,196
+New York,5/23/2020,240
+New York,5/23/2020,38802
+New York,5/23/2020,1297
+New York,5/23/2020,121
+New York,5/23/2020,149
+New York,5/23/2020,1606
+New York,5/23/2020,249
+New York,5/23/2020,225
+New York,5/23/2020,107
+New York,5/23/2020,32880
+New York,5/23/2020,80
+New York,5/23/2020,37
 Texas,5/23/2020,66
 Texas,5/23/2020,23
 Texas,5/23/2020,175
@@ -24270,6 +28202,64 @@ Georgia,5/24/2020,98
 Georgia,5/24/2020,32
 Georgia,5/24/2020,65
 Georgia,5/24/2020,209
+New York,5/24/2020,1782
+New York,5/24/2020,44
+New York,5/24/2020,501
+New York,5/24/2020,78
+New York,5/24/2020,77
+New York,5/24/2020,75
+New York,5/24/2020,136
+New York,5/24/2020,118
+New York,5/24/2020,95
+New York,5/24/2020,365
+New York,5/24/2020,39
+New York,5/24/2020,77
+New York,5/24/2020,3807
+New York,5/24/2020,5626
+New York,5/24/2020,44
+New York,5/24/2020,20
+New York,5/24/2020,194
+New York,5/24/2020,191
+New York,5/24/2020,220
+New York,5/24/2020,5
+New York,5/24/2020,101
+New York,5/24/2020,72
+New York,5/24/2020,19
+New York,5/24/2020,114
+New York,5/24/2020,301
+New York,5/24/2020,2698
+New York,5/24/2020,79
+New York,5/24/2020,39837
+New York,5/24/2020,202931
+New York,5/24/2020,941
+New York,5/24/2020,878
+New York,5/24/2020,1953
+New York,5/24/2020,184
+New York,5/24/2020,10240
+New York,5/24/2020,202
+New York,5/24/2020,100
+New York,5/24/2020,69
+New York,5/24/2020,1208
+New York,5/24/2020,463
+New York,5/24/2020,12963
+New York,5/24/2020,456
+New York,5/24/2020,658
+New York,5/24/2020,49
+New York,5/24/2020,11
+New York,5/24/2020,55
+New York,5/24/2020,197
+New York,5/24/2020,240
+New York,5/24/2020,38964
+New York,5/24/2020,1310
+New York,5/24/2020,122
+New York,5/24/2020,151
+New York,5/24/2020,1617
+New York,5/24/2020,250
+New York,5/24/2020,226
+New York,5/24/2020,108
+New York,5/24/2020,32967
+New York,5/24/2020,81
+New York,5/24/2020,37
 Texas,5/24/2020,66
 Texas,5/24/2020,24
 Texas,5/24/2020,175
@@ -24695,6 +28685,64 @@ Georgia,5/25/2020,98
 Georgia,5/25/2020,32
 Georgia,5/25/2020,65
 Georgia,5/25/2020,210
+New York,5/25/2020,1791
+New York,5/25/2020,44
+New York,5/25/2020,519
+New York,5/25/2020,81
+New York,5/25/2020,77
+New York,5/25/2020,75
+New York,5/25/2020,136
+New York,5/25/2020,119
+New York,5/25/2020,95
+New York,5/25/2020,372
+New York,5/25/2020,39
+New York,5/25/2020,77
+New York,5/25/2020,3825
+New York,5/25/2020,5700
+New York,5/25/2020,44
+New York,5/25/2020,20
+New York,5/25/2020,196
+New York,5/25/2020,192
+New York,5/25/2020,225
+New York,5/25/2020,5
+New York,5/25/2020,103
+New York,5/25/2020,72
+New York,5/25/2020,19
+New York,5/25/2020,115
+New York,5/25/2020,303
+New York,5/25/2020,2734
+New York,5/25/2020,79
+New York,5/25/2020,39907
+New York,5/25/2020,203569
+New York,5/25/2020,955
+New York,5/25/2020,905
+New York,5/25/2020,1981
+New York,5/25/2020,185
+New York,5/25/2020,10259
+New York,5/25/2020,205
+New York,5/25/2020,104
+New York,5/25/2020,69
+New York,5/25/2020,1214
+New York,5/25/2020,465
+New York,5/25/2020,12996
+New York,5/25/2020,461
+New York,5/25/2020,664
+New York,5/25/2020,49
+New York,5/25/2020,11
+New York,5/25/2020,55
+New York,5/25/2020,197
+New York,5/25/2020,240
+New York,5/25/2020,39090
+New York,5/25/2020,1324
+New York,5/25/2020,122
+New York,5/25/2020,154
+New York,5/25/2020,1632
+New York,5/25/2020,251
+New York,5/25/2020,228
+New York,5/25/2020,109
+New York,5/25/2020,33048
+New York,5/25/2020,82
+New York,5/25/2020,37
 Texas,5/25/2020,66
 Texas,5/25/2020,27
 Texas,5/25/2020,175
@@ -25121,6 +29169,64 @@ Georgia,5/26/2020,105
 Georgia,5/26/2020,33
 Georgia,5/26/2020,65
 Georgia,5/26/2020,213
+New York,5/26/2020,1793
+New York,5/26/2020,44
+New York,5/26/2020,522
+New York,5/26/2020,81
+New York,5/26/2020,78
+New York,5/26/2020,77
+New York,5/26/2020,136
+New York,5/26/2020,123
+New York,5/26/2020,95
+New York,5/26/2020,373
+New York,5/26/2020,39
+New York,5/26/2020,77
+New York,5/26/2020,3834
+New York,5/26/2020,5753
+New York,5/26/2020,44
+New York,5/26/2020,20
+New York,5/26/2020,196
+New York,5/26/2020,193
+New York,5/26/2020,225
+New York,5/26/2020,5
+New York,5/26/2020,103
+New York,5/26/2020,72
+New York,5/26/2020,20
+New York,5/26/2020,118
+New York,5/26/2020,303
+New York,5/26/2020,2763
+New York,5/26/2020,80
+New York,5/26/2020,39974
+New York,5/26/2020,204111
+New York,5/26/2020,965
+New York,5/26/2020,917
+New York,5/26/2020,2012
+New York,5/26/2020,195
+New York,5/26/2020,10292
+New York,5/26/2020,208
+New York,5/26/2020,104
+New York,5/26/2020,69
+New York,5/26/2020,1222
+New York,5/26/2020,466
+New York,5/26/2020,13019
+New York,5/26/2020,463
+New York,5/26/2020,668
+New York,5/26/2020,49
+New York,5/26/2020,11
+New York,5/26/2020,55
+New York,5/26/2020,197
+New York,5/26/2020,240
+New York,5/26/2020,39199
+New York,5/26/2020,1338
+New York,5/26/2020,122
+New York,5/26/2020,154
+New York,5/26/2020,1638
+New York,5/26/2020,251
+New York,5/26/2020,228
+New York,5/26/2020,110
+New York,5/26/2020,33106
+New York,5/26/2020,82
+New York,5/26/2020,37
 Texas,5/26/2020,66
 Texas,5/26/2020,27
 Texas,5/26/2020,175
@@ -25548,6 +29654,64 @@ Georgia,5/27/2020,105
 Georgia,5/27/2020,33
 Georgia,5/27/2020,70
 Georgia,5/27/2020,209
+New York,5/27/2020,1796
+New York,5/27/2020,45
+New York,5/27/2020,528
+New York,5/27/2020,82
+New York,5/27/2020,80
+New York,5/27/2020,78
+New York,5/27/2020,136
+New York,5/27/2020,125
+New York,5/27/2020,95
+New York,5/27/2020,380
+New York,5/27/2020,39
+New York,5/27/2020,78
+New York,5/27/2020,3847
+New York,5/27/2020,5810
+New York,5/27/2020,44
+New York,5/27/2020,20
+New York,5/27/2020,198
+New York,5/27/2020,195
+New York,5/27/2020,231
+New York,5/27/2020,5
+New York,5/27/2020,105
+New York,5/27/2020,72
+New York,5/27/2020,20
+New York,5/27/2020,118
+New York,5/27/2020,310
+New York,5/27/2020,2792
+New York,5/27/2020,82
+New York,5/27/2020,40034
+New York,5/27/2020,204781
+New York,5/27/2020,972
+New York,5/27/2020,929
+New York,5/27/2020,2033
+New York,5/27/2020,198
+New York,5/27/2020,10307
+New York,5/27/2020,210
+New York,5/27/2020,105
+New York,5/27/2020,69
+New York,5/27/2020,1227
+New York,5/27/2020,466
+New York,5/27/2020,13047
+New York,5/27/2020,465
+New York,5/27/2020,673
+New York,5/27/2020,49
+New York,5/27/2020,11
+New York,5/27/2020,55
+New York,5/27/2020,200
+New York,5/27/2020,241
+New York,5/27/2020,39258
+New York,5/27/2020,1340
+New York,5/27/2020,124
+New York,5/27/2020,155
+New York,5/27/2020,1645
+New York,5/27/2020,252
+New York,5/27/2020,228
+New York,5/27/2020,110
+New York,5/27/2020,33185
+New York,5/27/2020,82
+New York,5/27/2020,39
 Texas,5/27/2020,66
 Texas,5/27/2020,27
 Texas,5/27/2020,193
@@ -25976,6 +30140,64 @@ Georgia,5/28/2020,106
 Georgia,5/28/2020,33
 Georgia,5/28/2020,68
 Georgia,5/28/2020,208
+New York,5/28/2020,1814
+New York,5/28/2020,45
+New York,5/28/2020,545
+New York,5/28/2020,85
+New York,5/28/2020,84
+New York,5/28/2020,81
+New York,5/28/2020,136
+New York,5/28/2020,126
+New York,5/28/2020,95
+New York,5/28/2020,380
+New York,5/28/2020,39
+New York,5/28/2020,78
+New York,5/28/2020,3867
+New York,5/28/2020,5886
+New York,5/28/2020,44
+New York,5/28/2020,20
+New York,5/28/2020,200
+New York,5/28/2020,197
+New York,5/28/2020,236
+New York,5/28/2020,5
+New York,5/28/2020,106
+New York,5/28/2020,72
+New York,5/28/2020,20
+New York,5/28/2020,118
+New York,5/28/2020,310
+New York,5/28/2020,2825
+New York,5/28/2020,82
+New York,5/28/2020,40140
+New York,5/28/2020,205854
+New York,5/28/2020,984
+New York,5/28/2020,959
+New York,5/28/2020,2054
+New York,5/28/2020,201
+New York,5/28/2020,10340
+New York,5/28/2020,212
+New York,5/28/2020,107
+New York,5/28/2020,70
+New York,5/28/2020,1236
+New York,5/28/2020,469
+New York,5/28/2020,13076
+New York,5/28/2020,468
+New York,5/28/2020,676
+New York,5/28/2020,49
+New York,5/28/2020,11
+New York,5/28/2020,56
+New York,5/28/2020,201
+New York,5/28/2020,241
+New York,5/28/2020,39359
+New York,5/28/2020,1351
+New York,5/28/2020,126
+New York,5/28/2020,156
+New York,5/28/2020,1658
+New York,5/28/2020,253
+New York,5/28/2020,231
+New York,5/28/2020,112
+New York,5/28/2020,33292
+New York,5/28/2020,82
+New York,5/28/2020,39
 Texas,5/28/2020,66
 Texas,5/28/2020,27
 Texas,5/28/2020,201
@@ -26404,6 +30626,64 @@ Georgia,5/29/2020,109
 Georgia,5/29/2020,33
 Georgia,5/29/2020,69
 Georgia,5/29/2020,209
+New York,5/29/2020,1834
+New York,5/29/2020,45
+New York,5/29/2020,557
+New York,5/29/2020,86
+New York,5/29/2020,89
+New York,5/29/2020,82
+New York,5/29/2020,137
+New York,5/29/2020,130
+New York,5/29/2020,95
+New York,5/29/2020,382
+New York,5/29/2020,39
+New York,5/29/2020,79
+New York,5/29/2020,3887
+New York,5/29/2020,5935
+New York,5/29/2020,44
+New York,5/29/2020,21
+New York,5/29/2020,206
+New York,5/29/2020,199
+New York,5/29/2020,237
+New York,5/29/2020,5
+New York,5/29/2020,107
+New York,5/29/2020,74
+New York,5/29/2020,20
+New York,5/29/2020,118
+New York,5/29/2020,310
+New York,5/29/2020,2861
+New York,5/29/2020,84
+New York,5/29/2020,40226
+New York,5/29/2020,206800
+New York,5/29/2020,1008
+New York,5/29/2020,988
+New York,5/29/2020,2092
+New York,5/29/2020,205
+New York,5/29/2020,10376
+New York,5/29/2020,216
+New York,5/29/2020,108
+New York,5/29/2020,71
+New York,5/29/2020,1241
+New York,5/29/2020,478
+New York,5/29/2020,13100
+New York,5/29/2020,473
+New York,5/29/2020,680
+New York,5/29/2020,49
+New York,5/29/2020,11
+New York,5/29/2020,57
+New York,5/29/2020,202
+New York,5/29/2020,241
+New York,5/29/2020,39445
+New York,5/29/2020,1364
+New York,5/29/2020,126
+New York,5/29/2020,157
+New York,5/29/2020,1663
+New York,5/29/2020,254
+New York,5/29/2020,232
+New York,5/29/2020,113
+New York,5/29/2020,33348
+New York,5/29/2020,82
+New York,5/29/2020,39
 Texas,5/29/2020,72
 Texas,5/29/2020,27
 Texas,5/29/2020,203
@@ -26832,6 +31112,64 @@ Georgia,5/30/2020,111
 Georgia,5/30/2020,33
 Georgia,5/30/2020,69
 Georgia,5/30/2020,210
+New York,5/30/2020,1843
+New York,5/30/2020,45
+New York,5/30/2020,561
+New York,5/30/2020,87
+New York,5/30/2020,90
+New York,5/30/2020,83
+New York,5/30/2020,137
+New York,5/30/2020,132
+New York,5/30/2020,95
+New York,5/30/2020,383
+New York,5/30/2020,41
+New York,5/30/2020,79
+New York,5/30/2020,3899
+New York,5/30/2020,6014
+New York,5/30/2020,44
+New York,5/30/2020,22
+New York,5/30/2020,207
+New York,5/30/2020,200
+New York,5/30/2020,238
+New York,5/30/2020,5
+New York,5/30/2020,107
+New York,5/30/2020,74
+New York,5/30/2020,20
+New York,5/30/2020,118
+New York,5/30/2020,311
+New York,5/30/2020,2910
+New York,5/30/2020,89
+New York,5/30/2020,40307
+New York,5/30/2020,207539
+New York,5/30/2020,1020
+New York,5/30/2020,1006
+New York,5/30/2020,2133
+New York,5/30/2020,206
+New York,5/30/2020,10404
+New York,5/30/2020,228
+New York,5/30/2020,108
+New York,5/30/2020,71
+New York,5/30/2020,1248
+New York,5/30/2020,486
+New York,5/30/2020,13128
+New York,5/30/2020,477
+New York,5/30/2020,686
+New York,5/30/2020,50
+New York,5/30/2020,11
+New York,5/30/2020,58
+New York,5/30/2020,202
+New York,5/30/2020,241
+New York,5/30/2020,39532
+New York,5/30/2020,1375
+New York,5/30/2020,128
+New York,5/30/2020,161
+New York,5/30/2020,1678
+New York,5/30/2020,255
+New York,5/30/2020,235
+New York,5/30/2020,113
+New York,5/30/2020,33428
+New York,5/30/2020,84
+New York,5/30/2020,39
 Texas,5/30/2020,72
 Texas,5/30/2020,27
 Texas,5/30/2020,205
@@ -27261,6 +31599,64 @@ Georgia,5/31/2020,111
 Georgia,5/31/2020,33
 Georgia,5/31/2020,69
 Georgia,5/31/2020,211
+New York,5/31/2020,1860
+New York,5/31/2020,45
+New York,5/31/2020,566
+New York,5/31/2020,88
+New York,5/31/2020,91
+New York,5/31/2020,84
+New York,5/31/2020,137
+New York,5/31/2020,133
+New York,5/31/2020,95
+New York,5/31/2020,387
+New York,5/31/2020,41
+New York,5/31/2020,79
+New York,5/31/2020,3909
+New York,5/31/2020,6070
+New York,5/31/2020,45
+New York,5/31/2020,22
+New York,5/31/2020,208
+New York,5/31/2020,202
+New York,5/31/2020,238
+New York,5/31/2020,5
+New York,5/31/2020,108
+New York,5/31/2020,74
+New York,5/31/2020,20
+New York,5/31/2020,119
+New York,5/31/2020,316
+New York,5/31/2020,2943
+New York,5/31/2020,91
+New York,5/31/2020,40396
+New York,5/31/2020,208085
+New York,5/31/2020,1037
+New York,5/31/2020,1027
+New York,5/31/2020,2170
+New York,5/31/2020,207
+New York,5/31/2020,10421
+New York,5/31/2020,229
+New York,5/31/2020,109
+New York,5/31/2020,72
+New York,5/31/2020,1252
+New York,5/31/2020,491
+New York,5/31/2020,13151
+New York,5/31/2020,480
+New York,5/31/2020,689
+New York,5/31/2020,50
+New York,5/31/2020,11
+New York,5/31/2020,58
+New York,5/31/2020,204
+New York,5/31/2020,241
+New York,5/31/2020,39643
+New York,5/31/2020,1387
+New York,5/31/2020,130
+New York,5/31/2020,164
+New York,5/31/2020,1685
+New York,5/31/2020,255
+New York,5/31/2020,235
+New York,5/31/2020,115
+New York,5/31/2020,33480
+New York,5/31/2020,86
+New York,5/31/2020,39
 Texas,5/31/2020,72
 Texas,5/31/2020,27
 Texas,5/31/2020,205
@@ -27690,6 +32086,64 @@ Georgia,6/1/2020,116
 Georgia,6/1/2020,33
 Georgia,6/1/2020,69
 Georgia,6/1/2020,222
+New York,6/1/2020,1882
+New York,6/1/2020,48
+New York,6/1/2020,574
+New York,6/1/2020,89
+New York,6/1/2020,92
+New York,6/1/2020,85
+New York,6/1/2020,137
+New York,6/1/2020,133
+New York,6/1/2020,96
+New York,6/1/2020,389
+New York,6/1/2020,41
+New York,6/1/2020,81
+New York,6/1/2020,3924
+New York,6/1/2020,6123
+New York,6/1/2020,45
+New York,6/1/2020,23
+New York,6/1/2020,210
+New York,6/1/2020,202
+New York,6/1/2020,239
+New York,6/1/2020,5
+New York,6/1/2020,109
+New York,6/1/2020,74
+New York,6/1/2020,20
+New York,6/1/2020,119
+New York,6/1/2020,316
+New York,6/1/2020,2965
+New York,6/1/2020,91
+New York,6/1/2020,40479
+New York,6/1/2020,208550
+New York,6/1/2020,1046
+New York,6/1/2020,1036
+New York,6/1/2020,2197
+New York,6/1/2020,208
+New York,6/1/2020,10437
+New York,6/1/2020,236
+New York,6/1/2020,110
+New York,6/1/2020,72
+New York,6/1/2020,1257
+New York,6/1/2020,492
+New York,6/1/2020,13185
+New York,6/1/2020,483
+New York,6/1/2020,693
+New York,6/1/2020,50
+New York,6/1/2020,11
+New York,6/1/2020,59
+New York,6/1/2020,205
+New York,6/1/2020,241
+New York,6/1/2020,39705
+New York,6/1/2020,1389
+New York,6/1/2020,130
+New York,6/1/2020,164
+New York,6/1/2020,1691
+New York,6/1/2020,255
+New York,6/1/2020,235
+New York,6/1/2020,116
+New York,6/1/2020,33551
+New York,6/1/2020,86
+New York,6/1/2020,39
 Texas,6/1/2020,72
 Texas,6/1/2020,27
 Texas,6/1/2020,205
@@ -28119,6 +32573,64 @@ Georgia,6/2/2020,117
 Georgia,6/2/2020,33
 Georgia,6/2/2020,70
 Georgia,6/2/2020,223
+New York,6/2/2020,1900
+New York,6/2/2020,48
+New York,6/2/2020,578
+New York,6/2/2020,89
+New York,6/2/2020,93
+New York,6/2/2020,86
+New York,6/2/2020,137
+New York,6/2/2020,133
+New York,6/2/2020,97
+New York,6/2/2020,391
+New York,6/2/2020,41
+New York,6/2/2020,82
+New York,6/2/2020,3936
+New York,6/2/2020,6173
+New York,6/2/2020,46
+New York,6/2/2020,23
+New York,6/2/2020,212
+New York,6/2/2020,202
+New York,6/2/2020,241
+New York,6/2/2020,5
+New York,6/2/2020,111
+New York,6/2/2020,74
+New York,6/2/2020,20
+New York,6/2/2020,119
+New York,6/2/2020,317
+New York,6/2/2020,2990
+New York,6/2/2020,93
+New York,6/2/2020,40572
+New York,6/2/2020,209195
+New York,6/2/2020,1048
+New York,6/2/2020,1049
+New York,6/2/2020,2228
+New York,6/2/2020,209
+New York,6/2/2020,10464
+New York,6/2/2020,241
+New York,6/2/2020,110
+New York,6/2/2020,73
+New York,6/2/2020,1262
+New York,6/2/2020,493
+New York,6/2/2020,13223
+New York,6/2/2020,484
+New York,6/2/2020,696
+New York,6/2/2020,51
+New York,6/2/2020,12
+New York,6/2/2020,59
+New York,6/2/2020,205
+New York,6/2/2020,242
+New York,6/2/2020,39980
+New York,6/2/2020,1392
+New York,6/2/2020,131
+New York,6/2/2020,164
+New York,6/2/2020,1696
+New York,6/2/2020,255
+New York,6/2/2020,237
+New York,6/2/2020,116
+New York,6/2/2020,33632
+New York,6/2/2020,86
+New York,6/2/2020,39
 Texas,6/2/2020,76
 Texas,6/2/2020,27
 Texas,6/2/2020,215
@@ -28549,6 +33061,64 @@ Georgia,6/3/2020,117
 Georgia,6/3/2020,34
 Georgia,6/3/2020,69
 Georgia,6/3/2020,226
+New York,6/3/2020,1920
+New York,6/3/2020,49
+New York,6/3/2020,589
+New York,6/3/2020,90
+New York,6/3/2020,96
+New York,6/3/2020,89
+New York,6/3/2020,137
+New York,6/3/2020,133
+New York,6/3/2020,97
+New York,6/3/2020,399
+New York,6/3/2020,41
+New York,6/3/2020,82
+New York,6/3/2020,3951
+New York,6/3/2020,6234
+New York,6/3/2020,46
+New York,6/3/2020,23
+New York,6/3/2020,213
+New York,6/3/2020,202
+New York,6/3/2020,241
+New York,6/3/2020,5
+New York,6/3/2020,113
+New York,6/3/2020,74
+New York,6/3/2020,20
+New York,6/3/2020,120
+New York,6/3/2020,319
+New York,6/3/2020,3049
+New York,6/3/2020,94
+New York,6/3/2020,40644
+New York,6/3/2020,209688
+New York,6/3/2020,1067
+New York,6/3/2020,1058
+New York,6/3/2020,2256
+New York,6/3/2020,215
+New York,6/3/2020,10475
+New York,6/3/2020,246
+New York,6/3/2020,112
+New York,6/3/2020,73
+New York,6/3/2020,1264
+New York,6/3/2020,495
+New York,6/3/2020,13259
+New York,6/3/2020,489
+New York,6/3/2020,701
+New York,6/3/2020,51
+New York,6/3/2020,12
+New York,6/3/2020,60
+New York,6/3/2020,206
+New York,6/3/2020,243
+New York,6/3/2020,40062
+New York,6/3/2020,1393
+New York,6/3/2020,133
+New York,6/3/2020,165
+New York,6/3/2020,1701
+New York,6/3/2020,256
+New York,6/3/2020,238
+New York,6/3/2020,120
+New York,6/3/2020,33690
+New York,6/3/2020,87
+New York,6/3/2020,39
 Texas,6/3/2020,78
 Texas,6/3/2020,27
 Texas,6/3/2020,232
@@ -28979,6 +33549,64 @@ Georgia,6/4/2020,117
 Georgia,6/4/2020,34
 Georgia,6/4/2020,70
 Georgia,6/4/2020,228
+New York,6/4/2020,1930
+New York,6/4/2020,49
+New York,6/4/2020,593
+New York,6/4/2020,91
+New York,6/4/2020,96
+New York,6/4/2020,95
+New York,6/4/2020,137
+New York,6/4/2020,133
+New York,6/4/2020,97
+New York,6/4/2020,400
+New York,6/4/2020,41
+New York,6/4/2020,82
+New York,6/4/2020,3962
+New York,6/4/2020,6308
+New York,6/4/2020,46
+New York,6/4/2020,23
+New York,6/4/2020,215
+New York,6/4/2020,205
+New York,6/4/2020,241
+New York,6/4/2020,5
+New York,6/4/2020,113
+New York,6/4/2020,74
+New York,6/4/2020,20
+New York,6/4/2020,120
+New York,6/4/2020,319
+New York,6/4/2020,3082
+New York,6/4/2020,96
+New York,6/4/2020,40713
+New York,6/4/2020,210227
+New York,6/4/2020,1085
+New York,6/4/2020,1069
+New York,6/4/2020,2295
+New York,6/4/2020,218
+New York,6/4/2020,10486
+New York,6/4/2020,247
+New York,6/4/2020,112
+New York,6/4/2020,73
+New York,6/4/2020,1268
+New York,6/4/2020,495
+New York,6/4/2020,13280
+New York,6/4/2020,493
+New York,6/4/2020,701
+New York,6/4/2020,51
+New York,6/4/2020,12
+New York,6/4/2020,60
+New York,6/4/2020,207
+New York,6/4/2020,245
+New York,6/4/2020,40153
+New York,6/4/2020,1405
+New York,6/4/2020,133
+New York,6/4/2020,165
+New York,6/4/2020,1704
+New York,6/4/2020,256
+New York,6/4/2020,238
+New York,6/4/2020,121
+New York,6/4/2020,33766
+New York,6/4/2020,87
+New York,6/4/2020,39
 Texas,6/4/2020,85
 Texas,6/4/2020,27
 Texas,6/4/2020,232
@@ -29409,6 +34037,64 @@ Georgia,6/5/2020,117
 Georgia,6/5/2020,34
 Georgia,6/5/2020,71
 Georgia,6/5/2020,231
+New York,6/5/2020,1941
+New York,6/5/2020,51
+New York,6/5/2020,605
+New York,6/5/2020,92
+New York,6/5/2020,98
+New York,6/5/2020,97
+New York,6/5/2020,137
+New York,6/5/2020,133
+New York,6/5/2020,97
+New York,6/5/2020,411
+New York,6/5/2020,41
+New York,6/5/2020,84
+New York,6/5/2020,3984
+New York,6/5/2020,6359
+New York,6/5/2020,46
+New York,6/5/2020,23
+New York,6/5/2020,219
+New York,6/5/2020,205
+New York,6/5/2020,242
+New York,6/5/2020,5
+New York,6/5/2020,115
+New York,6/5/2020,75
+New York,6/5/2020,20
+New York,6/5/2020,121
+New York,6/5/2020,323
+New York,6/5/2020,3118
+New York,6/5/2020,96
+New York,6/5/2020,40797
+New York,6/5/2020,210728
+New York,6/5/2020,1099
+New York,6/5/2020,1077
+New York,6/5/2020,2329
+New York,6/5/2020,219
+New York,6/5/2020,10499
+New York,6/5/2020,247
+New York,6/5/2020,112
+New York,6/5/2020,73
+New York,6/5/2020,1270
+New York,6/5/2020,497
+New York,6/5/2020,13297
+New York,6/5/2020,496
+New York,6/5/2020,706
+New York,6/5/2020,51
+New York,6/5/2020,12
+New York,6/5/2020,61
+New York,6/5/2020,207
+New York,6/5/2020,246
+New York,6/5/2020,40239
+New York,6/5/2020,1409
+New York,6/5/2020,134
+New York,6/5/2020,167
+New York,6/5/2020,1711
+New York,6/5/2020,256
+New York,6/5/2020,240
+New York,6/5/2020,122
+New York,6/5/2020,33853
+New York,6/5/2020,88
+New York,6/5/2020,39
 Texas,6/5/2020,87
 Texas,6/5/2020,27
 Texas,6/5/2020,232
@@ -29842,6 +34528,64 @@ Georgia,6/6/2020,117
 Georgia,6/6/2020,34
 Georgia,6/6/2020,71
 Georgia,6/6/2020,233
+New York,6/6/2020,1953
+New York,6/6/2020,51
+New York,6/6/2020,613
+New York,6/6/2020,92
+New York,6/6/2020,100
+New York,6/6/2020,99
+New York,6/6/2020,137
+New York,6/6/2020,133
+New York,6/6/2020,97
+New York,6/6/2020,412
+New York,6/6/2020,41
+New York,6/6/2020,85
+New York,6/6/2020,3995
+New York,6/6/2020,6429
+New York,6/6/2020,46
+New York,6/6/2020,23
+New York,6/6/2020,222
+New York,6/6/2020,206
+New York,6/6/2020,246
+New York,6/6/2020,5
+New York,6/6/2020,122
+New York,6/6/2020,75
+New York,6/6/2020,20
+New York,6/6/2020,121
+New York,6/6/2020,325
+New York,6/6/2020,3168
+New York,6/6/2020,98
+New York,6/6/2020,40853
+New York,6/6/2020,211274
+New York,6/6/2020,1109
+New York,6/6/2020,1127
+New York,6/6/2020,2375
+New York,6/6/2020,220
+New York,6/6/2020,10523
+New York,6/6/2020,254
+New York,6/6/2020,114
+New York,6/6/2020,74
+New York,6/6/2020,1274
+New York,6/6/2020,499
+New York,6/6/2020,13315
+New York,6/6/2020,501
+New York,6/6/2020,710
+New York,6/6/2020,54
+New York,6/6/2020,12
+New York,6/6/2020,61
+New York,6/6/2020,209
+New York,6/6/2020,251
+New York,6/6/2020,40278
+New York,6/6/2020,1411
+New York,6/6/2020,134
+New York,6/6/2020,171
+New York,6/6/2020,1714
+New York,6/6/2020,257
+New York,6/6/2020,240
+New York,6/6/2020,123
+New York,6/6/2020,33923
+New York,6/6/2020,89
+New York,6/6/2020,39
 Texas,6/6/2020,85
 Texas,6/6/2020,27
 Texas,6/6/2020,237
@@ -30275,6 +35019,64 @@ Georgia,6/7/2020,117
 Georgia,6/7/2020,34
 Georgia,6/7/2020,71
 Georgia,6/7/2020,235
+New York,6/7/2020,1961
+New York,6/7/2020,51
+New York,6/7/2020,620
+New York,6/7/2020,94
+New York,6/7/2020,101
+New York,6/7/2020,101
+New York,6/7/2020,137
+New York,6/7/2020,134
+New York,6/7/2020,97
+New York,6/7/2020,414
+New York,6/7/2020,41
+New York,6/7/2020,85
+New York,6/7/2020,4000
+New York,6/7/2020,6486
+New York,6/7/2020,46
+New York,6/7/2020,23
+New York,6/7/2020,224
+New York,6/7/2020,208
+New York,6/7/2020,246
+New York,6/7/2020,5
+New York,6/7/2020,123
+New York,6/7/2020,77
+New York,6/7/2020,20
+New York,6/7/2020,121
+New York,6/7/2020,327
+New York,6/7/2020,3191
+New York,6/7/2020,100
+New York,6/7/2020,40904
+New York,6/7/2020,211728
+New York,6/7/2020,1112
+New York,6/7/2020,1143
+New York,6/7/2020,2392
+New York,6/7/2020,221
+New York,6/7/2020,10529
+New York,6/7/2020,255
+New York,6/7/2020,115
+New York,6/7/2020,74
+New York,6/7/2020,1277
+New York,6/7/2020,502
+New York,6/7/2020,13325
+New York,6/7/2020,502
+New York,6/7/2020,711
+New York,6/7/2020,54
+New York,6/7/2020,12
+New York,6/7/2020,61
+New York,6/7/2020,209
+New York,6/7/2020,251
+New York,6/7/2020,40329
+New York,6/7/2020,1415
+New York,6/7/2020,134
+New York,6/7/2020,171
+New York,6/7/2020,1718
+New York,6/7/2020,257
+New York,6/7/2020,240
+New York,6/7/2020,124
+New York,6/7/2020,33953
+New York,6/7/2020,89
+New York,6/7/2020,39
 Texas,6/7/2020,85
 Texas,6/7/2020,27
 Texas,6/7/2020,237
@@ -30708,6 +35510,64 @@ Georgia,6/8/2020,117
 Georgia,6/8/2020,34
 Georgia,6/8/2020,71
 Georgia,6/8/2020,240
+New York,6/8/2020,1978
+New York,6/8/2020,51
+New York,6/8/2020,624
+New York,6/8/2020,95
+New York,6/8/2020,101
+New York,6/8/2020,101
+New York,6/8/2020,137
+New York,6/8/2020,135
+New York,6/8/2020,97
+New York,6/8/2020,414
+New York,6/8/2020,42
+New York,6/8/2020,85
+New York,6/8/2020,4006
+New York,6/8/2020,6531
+New York,6/8/2020,47
+New York,6/8/2020,23
+New York,6/8/2020,227
+New York,6/8/2020,208
+New York,6/8/2020,247
+New York,6/8/2020,5
+New York,6/8/2020,124
+New York,6/8/2020,78
+New York,6/8/2020,20
+New York,6/8/2020,121
+New York,6/8/2020,327
+New York,6/8/2020,3204
+New York,6/8/2020,100
+New York,6/8/2020,40947
+New York,6/8/2020,212122
+New York,6/8/2020,1116
+New York,6/8/2020,1170
+New York,6/8/2020,2408
+New York,6/8/2020,221
+New York,6/8/2020,10538
+New York,6/8/2020,256
+New York,6/8/2020,115
+New York,6/8/2020,75
+New York,6/8/2020,1279
+New York,6/8/2020,503
+New York,6/8/2020,13340
+New York,6/8/2020,504
+New York,6/8/2020,712
+New York,6/8/2020,54
+New York,6/8/2020,12
+New York,6/8/2020,61
+New York,6/8/2020,209
+New York,6/8/2020,251
+New York,6/8/2020,40377
+New York,6/8/2020,1417
+New York,6/8/2020,134
+New York,6/8/2020,171
+New York,6/8/2020,1721
+New York,6/8/2020,257
+New York,6/8/2020,240
+New York,6/8/2020,125
+New York,6/8/2020,33999
+New York,6/8/2020,90
+New York,6/8/2020,39
 Texas,6/8/2020,85
 Texas,6/8/2020,27
 Texas,6/8/2020,237
@@ -31141,6 +36001,64 @@ Georgia,6/9/2020,117
 Georgia,6/9/2020,34
 Georgia,6/9/2020,72
 Georgia,6/9/2020,243
+New York,6/9/2020,1983
+New York,6/9/2020,51
+New York,6/9/2020,627
+New York,6/9/2020,95
+New York,6/9/2020,102
+New York,6/9/2020,103
+New York,6/9/2020,138
+New York,6/9/2020,135
+New York,6/9/2020,97
+New York,6/9/2020,414
+New York,6/9/2020,42
+New York,6/9/2020,86
+New York,6/9/2020,4016
+New York,6/9/2020,6595
+New York,6/9/2020,48
+New York,6/9/2020,23
+New York,6/9/2020,228
+New York,6/9/2020,210
+New York,6/9/2020,248
+New York,6/9/2020,5
+New York,6/9/2020,125
+New York,6/9/2020,79
+New York,6/9/2020,20
+New York,6/9/2020,121
+New York,6/9/2020,331
+New York,6/9/2020,3244
+New York,6/9/2020,100
+New York,6/9/2020,40980
+New York,6/9/2020,212469
+New York,6/9/2020,1125
+New York,6/9/2020,1185
+New York,6/9/2020,2427
+New York,6/9/2020,222
+New York,6/9/2020,10548
+New York,6/9/2020,257
+New York,6/9/2020,115
+New York,6/9/2020,75
+New York,6/9/2020,1280
+New York,6/9/2020,505
+New York,6/9/2020,13353
+New York,6/9/2020,511
+New York,6/9/2020,715
+New York,6/9/2020,54
+New York,6/9/2020,12
+New York,6/9/2020,61
+New York,6/9/2020,209
+New York,6/9/2020,252
+New York,6/9/2020,40426
+New York,6/9/2020,1418
+New York,6/9/2020,134
+New York,6/9/2020,171
+New York,6/9/2020,1724
+New York,6/9/2020,257
+New York,6/9/2020,240
+New York,6/9/2020,126
+New York,6/9/2020,34034
+New York,6/9/2020,91
+New York,6/9/2020,39
 Texas,6/9/2020,91
 Texas,6/9/2020,27
 Texas,6/9/2020,237
@@ -31575,6 +36493,64 @@ Georgia,6/10/2020,118
 Georgia,6/10/2020,34
 Georgia,6/10/2020,71
 Georgia,6/10/2020,247
+New York,6/10/2020,1986
+New York,6/10/2020,52
+New York,6/10/2020,630
+New York,6/10/2020,96
+New York,6/10/2020,102
+New York,6/10/2020,105
+New York,6/10/2020,138
+New York,6/10/2020,137
+New York,6/10/2020,97
+New York,6/10/2020,420
+New York,6/10/2020,42
+New York,6/10/2020,87
+New York,6/10/2020,4022
+New York,6/10/2020,6616
+New York,6/10/2020,48
+New York,6/10/2020,23
+New York,6/10/2020,228
+New York,6/10/2020,211
+New York,6/10/2020,249
+New York,6/10/2020,5
+New York,6/10/2020,125
+New York,6/10/2020,79
+New York,6/10/2020,20
+New York,6/10/2020,121
+New York,6/10/2020,331
+New York,6/10/2020,3256
+New York,6/10/2020,100
+New York,6/10/2020,41015
+New York,6/10/2020,212884
+New York,6/10/2020,1129
+New York,6/10/2020,1203
+New York,6/10/2020,2433
+New York,6/10/2020,222
+New York,6/10/2020,10556
+New York,6/10/2020,259
+New York,6/10/2020,115
+New York,6/10/2020,77
+New York,6/10/2020,1282
+New York,6/10/2020,507
+New York,6/10/2020,13372
+New York,6/10/2020,511
+New York,6/10/2020,716
+New York,6/10/2020,54
+New York,6/10/2020,12
+New York,6/10/2020,61
+New York,6/10/2020,209
+New York,6/10/2020,253
+New York,6/10/2020,40464
+New York,6/10/2020,1425
+New York,6/10/2020,135
+New York,6/10/2020,171
+New York,6/10/2020,1726
+New York,6/10/2020,257
+New York,6/10/2020,240
+New York,6/10/2020,126
+New York,6/10/2020,34075
+New York,6/10/2020,91
+New York,6/10/2020,39
 Texas,6/10/2020,91
 Texas,6/10/2020,27
 Texas,6/10/2020,281
@@ -32009,6 +36985,64 @@ Georgia,6/11/2020,118
 Georgia,6/11/2020,35
 Georgia,6/11/2020,73
 Georgia,6/11/2020,255
+New York,6/11/2020,1996
+New York,6/11/2020,53
+New York,6/11/2020,641
+New York,6/11/2020,98
+New York,6/11/2020,102
+New York,6/11/2020,106
+New York,6/11/2020,138
+New York,6/11/2020,137
+New York,6/11/2020,98
+New York,6/11/2020,424
+New York,6/11/2020,42
+New York,6/11/2020,88
+New York,6/11/2020,4027
+New York,6/11/2020,6659
+New York,6/11/2020,48
+New York,6/11/2020,23
+New York,6/11/2020,230
+New York,6/11/2020,212
+New York,6/11/2020,249
+New York,6/11/2020,5
+New York,6/11/2020,125
+New York,6/11/2020,79
+New York,6/11/2020,20
+New York,6/11/2020,121
+New York,6/11/2020,333
+New York,6/11/2020,3294
+New York,6/11/2020,101
+New York,6/11/2020,41060
+New York,6/11/2020,213271
+New York,6/11/2020,1136
+New York,6/11/2020,1216
+New York,6/11/2020,2454
+New York,6/11/2020,229
+New York,6/11/2020,10565
+New York,6/11/2020,260
+New York,6/11/2020,119
+New York,6/11/2020,78
+New York,6/11/2020,1282
+New York,6/11/2020,508
+New York,6/11/2020,13385
+New York,6/11/2020,513
+New York,6/11/2020,717
+New York,6/11/2020,54
+New York,6/11/2020,12
+New York,6/11/2020,62
+New York,6/11/2020,212
+New York,6/11/2020,254
+New York,6/11/2020,40512
+New York,6/11/2020,1426
+New York,6/11/2020,135
+New York,6/11/2020,171
+New York,6/11/2020,1729
+New York,6/11/2020,257
+New York,6/11/2020,241
+New York,6/11/2020,127
+New York,6/11/2020,34105
+New York,6/11/2020,91
+New York,6/11/2020,39
 Texas,6/11/2020,95
 Texas,6/11/2020,27
 Texas,6/11/2020,281
@@ -32443,6 +37477,64 @@ Georgia,6/12/2020,117
 Georgia,6/12/2020,35
 Georgia,6/12/2020,73
 Georgia,6/12/2020,256
+New York,6/12/2020,2007
+New York,6/12/2020,53
+New York,6/12/2020,644
+New York,6/12/2020,101
+New York,6/12/2020,103
+New York,6/12/2020,106
+New York,6/12/2020,138
+New York,6/12/2020,138
+New York,6/12/2020,98
+New York,6/12/2020,428
+New York,6/12/2020,42
+New York,6/12/2020,88
+New York,6/12/2020,4035
+New York,6/12/2020,6717
+New York,6/12/2020,48
+New York,6/12/2020,24
+New York,6/12/2020,231
+New York,6/12/2020,212
+New York,6/12/2020,249
+New York,6/12/2020,5
+New York,6/12/2020,127
+New York,6/12/2020,80
+New York,6/12/2020,20
+New York,6/12/2020,121
+New York,6/12/2020,333
+New York,6/12/2020,3321
+New York,6/12/2020,103
+New York,6/12/2020,41114
+New York,6/12/2020,213707
+New York,6/12/2020,1143
+New York,6/12/2020,1237
+New York,6/12/2020,2474
+New York,6/12/2020,230
+New York,6/12/2020,10573
+New York,6/12/2020,260
+New York,6/12/2020,120
+New York,6/12/2020,78
+New York,6/12/2020,1282
+New York,6/12/2020,510
+New York,6/12/2020,13396
+New York,6/12/2020,514
+New York,6/12/2020,721
+New York,6/12/2020,54
+New York,6/12/2020,12
+New York,6/12/2020,63
+New York,6/12/2020,214
+New York,6/12/2020,254
+New York,6/12/2020,40559
+New York,6/12/2020,1428
+New York,6/12/2020,137
+New York,6/12/2020,172
+New York,6/12/2020,1734
+New York,6/12/2020,257
+New York,6/12/2020,242
+New York,6/12/2020,129
+New York,6/12/2020,34174
+New York,6/12/2020,91
+New York,6/12/2020,39
 Texas,6/12/2020,95
 Texas,6/12/2020,27
 Texas,6/12/2020,309
@@ -32877,6 +37969,64 @@ Georgia,6/13/2020,118
 Georgia,6/13/2020,36
 Georgia,6/13/2020,73
 Georgia,6/13/2020,256
+New York,6/13/2020,2016
+New York,6/13/2020,54
+New York,6/13/2020,647
+New York,6/13/2020,101
+New York,6/13/2020,103
+New York,6/13/2020,106
+New York,6/13/2020,138
+New York,6/13/2020,138
+New York,6/13/2020,98
+New York,6/13/2020,431
+New York,6/13/2020,42
+New York,6/13/2020,88
+New York,6/13/2020,4049
+New York,6/13/2020,6753
+New York,6/13/2020,48
+New York,6/13/2020,25
+New York,6/13/2020,232
+New York,6/13/2020,212
+New York,6/13/2020,250
+New York,6/13/2020,5
+New York,6/13/2020,128
+New York,6/13/2020,81
+New York,6/13/2020,20
+New York,6/13/2020,122
+New York,6/13/2020,333
+New York,6/13/2020,3341
+New York,6/13/2020,103
+New York,6/13/2020,41172
+New York,6/13/2020,214242
+New York,6/13/2020,1154
+New York,6/13/2020,1253
+New York,6/13/2020,2498
+New York,6/13/2020,230
+New York,6/13/2020,10578
+New York,6/13/2020,261
+New York,6/13/2020,122
+New York,6/13/2020,80
+New York,6/13/2020,1285
+New York,6/13/2020,511
+New York,6/13/2020,13411
+New York,6/13/2020,514
+New York,6/13/2020,723
+New York,6/13/2020,54
+New York,6/13/2020,12
+New York,6/13/2020,63
+New York,6/13/2020,214
+New York,6/13/2020,255
+New York,6/13/2020,40615
+New York,6/13/2020,1430
+New York,6/13/2020,137
+New York,6/13/2020,173
+New York,6/13/2020,1739
+New York,6/13/2020,257
+New York,6/13/2020,242
+New York,6/13/2020,131
+New York,6/13/2020,34252
+New York,6/13/2020,91
+New York,6/13/2020,39
 Texas,6/13/2020,102
 Texas,6/13/2020,28
 Texas,6/13/2020,309
@@ -33312,6 +38462,64 @@ Georgia,6/14/2020,118
 Georgia,6/14/2020,36
 Georgia,6/14/2020,73
 Georgia,6/14/2020,256
+New York,6/14/2020,2020
+New York,6/14/2020,54
+New York,6/14/2020,651
+New York,6/14/2020,104
+New York,6/14/2020,106
+New York,6/14/2020,107
+New York,6/14/2020,138
+New York,6/14/2020,138
+New York,6/14/2020,98
+New York,6/14/2020,436
+New York,6/14/2020,42
+New York,6/14/2020,88
+New York,6/14/2020,4056
+New York,6/14/2020,6785
+New York,6/14/2020,48
+New York,6/14/2020,25
+New York,6/14/2020,234
+New York,6/14/2020,212
+New York,6/14/2020,251
+New York,6/14/2020,6
+New York,6/14/2020,128
+New York,6/14/2020,81
+New York,6/14/2020,20
+New York,6/14/2020,123
+New York,6/14/2020,334
+New York,6/14/2020,3371
+New York,6/14/2020,104
+New York,6/14/2020,41204
+New York,6/14/2020,214627
+New York,6/14/2020,1166
+New York,6/14/2020,1273
+New York,6/14/2020,2519
+New York,6/14/2020,233
+New York,6/14/2020,10586
+New York,6/14/2020,267
+New York,6/14/2020,122
+New York,6/14/2020,80
+New York,6/14/2020,1288
+New York,6/14/2020,513
+New York,6/14/2020,13423
+New York,6/14/2020,515
+New York,6/14/2020,725
+New York,6/14/2020,54
+New York,6/14/2020,12
+New York,6/14/2020,63
+New York,6/14/2020,215
+New York,6/14/2020,255
+New York,6/14/2020,40659
+New York,6/14/2020,1430
+New York,6/14/2020,139
+New York,6/14/2020,173
+New York,6/14/2020,1741
+New York,6/14/2020,257
+New York,6/14/2020,243
+New York,6/14/2020,133
+New York,6/14/2020,34289
+New York,6/14/2020,92
+New York,6/14/2020,40
 Texas,6/14/2020,102
 Texas,6/14/2020,28
 Texas,6/14/2020,309
@@ -33747,6 +38955,64 @@ Georgia,6/15/2020,118
 Georgia,6/15/2020,39
 Georgia,6/15/2020,73
 Georgia,6/15/2020,260
+New York,6/15/2020,2022
+New York,6/15/2020,55
+New York,6/15/2020,655
+New York,6/15/2020,106
+New York,6/15/2020,106
+New York,6/15/2020,107
+New York,6/15/2020,138
+New York,6/15/2020,138
+New York,6/15/2020,98
+New York,6/15/2020,439
+New York,6/15/2020,42
+New York,6/15/2020,88
+New York,6/15/2020,4068
+New York,6/15/2020,6817
+New York,6/15/2020,48
+New York,6/15/2020,25
+New York,6/15/2020,235
+New York,6/15/2020,213
+New York,6/15/2020,251
+New York,6/15/2020,6
+New York,6/15/2020,128
+New York,6/15/2020,81
+New York,6/15/2020,20
+New York,6/15/2020,123
+New York,6/15/2020,335
+New York,6/15/2020,3381
+New York,6/15/2020,104
+New York,6/15/2020,41240
+New York,6/15/2020,215011
+New York,6/15/2020,1169
+New York,6/15/2020,1280
+New York,6/15/2020,2531
+New York,6/15/2020,233
+New York,6/15/2020,10588
+New York,6/15/2020,268
+New York,6/15/2020,126
+New York,6/15/2020,80
+New York,6/15/2020,1291
+New York,6/15/2020,514
+New York,6/15/2020,13441
+New York,6/15/2020,517
+New York,6/15/2020,732
+New York,6/15/2020,54
+New York,6/15/2020,12
+New York,6/15/2020,64
+New York,6/15/2020,215
+New York,6/15/2020,256
+New York,6/15/2020,40692
+New York,6/15/2020,1432
+New York,6/15/2020,139
+New York,6/15/2020,173
+New York,6/15/2020,1741
+New York,6/15/2020,257
+New York,6/15/2020,243
+New York,6/15/2020,133
+New York,6/15/2020,34326
+New York,6/15/2020,92
+New York,6/15/2020,40
 Texas,6/15/2020,102
 Texas,6/15/2020,28
 Texas,6/15/2020,309
@@ -34182,6 +39448,64 @@ Georgia,6/16/2020,119
 Georgia,6/16/2020,41
 Georgia,6/16/2020,74
 Georgia,6/16/2020,265
+New York,6/16/2020,2026
+New York,6/16/2020,55
+New York,6/16/2020,656
+New York,6/16/2020,107
+New York,6/16/2020,106
+New York,6/16/2020,108
+New York,6/16/2020,138
+New York,6/16/2020,139
+New York,6/16/2020,99
+New York,6/16/2020,442
+New York,6/16/2020,42
+New York,6/16/2020,88
+New York,6/16/2020,4075
+New York,6/16/2020,6852
+New York,6/16/2020,48
+New York,6/16/2020,25
+New York,6/16/2020,236
+New York,6/16/2020,213
+New York,6/16/2020,252
+New York,6/16/2020,6
+New York,6/16/2020,128
+New York,6/16/2020,81
+New York,6/16/2020,20
+New York,6/16/2020,123
+New York,6/16/2020,336
+New York,6/16/2020,3403
+New York,6/16/2020,104
+New York,6/16/2020,41290
+New York,6/16/2020,215342
+New York,6/16/2020,1171
+New York,6/16/2020,1301
+New York,6/16/2020,2545
+New York,6/16/2020,234
+New York,6/16/2020,10595
+New York,6/16/2020,268
+New York,6/16/2020,139
+New York,6/16/2020,81
+New York,6/16/2020,1292
+New York,6/16/2020,514
+New York,6/16/2020,13460
+New York,6/16/2020,522
+New York,6/16/2020,735
+New York,6/16/2020,54
+New York,6/16/2020,12
+New York,6/16/2020,64
+New York,6/16/2020,215
+New York,6/16/2020,257
+New York,6/16/2020,40738
+New York,6/16/2020,1433
+New York,6/16/2020,140
+New York,6/16/2020,173
+New York,6/16/2020,1742
+New York,6/16/2020,257
+New York,6/16/2020,243
+New York,6/16/2020,134
+New York,6/16/2020,34357
+New York,6/16/2020,93
+New York,6/16/2020,40
 Texas,6/16/2020,989
 Texas,6/16/2020,30
 Texas,6/16/2020,331
@@ -34617,6 +39941,64 @@ Georgia,6/17/2020,119
 Georgia,6/17/2020,42
 Georgia,6/17/2020,74
 Georgia,6/17/2020,269
+New York,6/17/2020,2029
+New York,6/17/2020,55
+New York,6/17/2020,657
+New York,6/17/2020,109
+New York,6/17/2020,106
+New York,6/17/2020,108
+New York,6/17/2020,138
+New York,6/17/2020,139
+New York,6/17/2020,99
+New York,6/17/2020,442
+New York,6/17/2020,42
+New York,6/17/2020,89
+New York,6/17/2020,4077
+New York,6/17/2020,6882
+New York,6/17/2020,48
+New York,6/17/2020,25
+New York,6/17/2020,236
+New York,6/17/2020,216
+New York,6/17/2020,252
+New York,6/17/2020,6
+New York,6/17/2020,128
+New York,6/17/2020,82
+New York,6/17/2020,21
+New York,6/17/2020,123
+New York,6/17/2020,338
+New York,6/17/2020,3419
+New York,6/17/2020,104
+New York,6/17/2020,41320
+New York,6/17/2020,215686
+New York,6/17/2020,1177
+New York,6/17/2020,1307
+New York,6/17/2020,2558
+New York,6/17/2020,234
+New York,6/17/2020,10614
+New York,6/17/2020,270
+New York,6/17/2020,139
+New York,6/17/2020,82
+New York,6/17/2020,1294
+New York,6/17/2020,515
+New York,6/17/2020,13467
+New York,6/17/2020,523
+New York,6/17/2020,737
+New York,6/17/2020,55
+New York,6/17/2020,12
+New York,6/17/2020,64
+New York,6/17/2020,215
+New York,6/17/2020,257
+New York,6/17/2020,40770
+New York,6/17/2020,1433
+New York,6/17/2020,140
+New York,6/17/2020,173
+New York,6/17/2020,1744
+New York,6/17/2020,257
+New York,6/17/2020,243
+New York,6/17/2020,137
+New York,6/17/2020,34384
+New York,6/17/2020,93
+New York,6/17/2020,40
 Texas,6/17/2020,990
 Texas,6/17/2020,30
 Texas,6/17/2020,352
@@ -35052,6 +40434,64 @@ Georgia,6/18/2020,120
 Georgia,6/18/2020,42
 Georgia,6/18/2020,74
 Georgia,6/18/2020,270
+New York,6/18/2020,2034
+New York,6/18/2020,57
+New York,6/18/2020,657
+New York,6/18/2020,109
+New York,6/18/2020,106
+New York,6/18/2020,110
+New York,6/18/2020,138
+New York,6/18/2020,139
+New York,6/18/2020,99
+New York,6/18/2020,443
+New York,6/18/2020,44
+New York,6/18/2020,89
+New York,6/18/2020,4088
+New York,6/18/2020,6920
+New York,6/18/2020,48
+New York,6/18/2020,26
+New York,6/18/2020,236
+New York,6/18/2020,217
+New York,6/18/2020,252
+New York,6/18/2020,6
+New York,6/18/2020,128
+New York,6/18/2020,82
+New York,6/18/2020,21
+New York,6/18/2020,123
+New York,6/18/2020,341
+New York,6/18/2020,3440
+New York,6/18/2020,105
+New York,6/18/2020,41349
+New York,6/18/2020,216013
+New York,6/18/2020,1183
+New York,6/18/2020,1332
+New York,6/18/2020,2615
+New York,6/18/2020,235
+New York,6/18/2020,10619
+New York,6/18/2020,271
+New York,6/18/2020,144
+New York,6/18/2020,82
+New York,6/18/2020,1295
+New York,6/18/2020,515
+New York,6/18/2020,13474
+New York,6/18/2020,526
+New York,6/18/2020,738
+New York,6/18/2020,55
+New York,6/18/2020,12
+New York,6/18/2020,64
+New York,6/18/2020,215
+New York,6/18/2020,257
+New York,6/18/2020,40810
+New York,6/18/2020,1434
+New York,6/18/2020,140
+New York,6/18/2020,173
+New York,6/18/2020,1746
+New York,6/18/2020,258
+New York,6/18/2020,243
+New York,6/18/2020,139
+New York,6/18/2020,34408
+New York,6/18/2020,93
+New York,6/18/2020,40
 Texas,6/18/2020,1003
 Texas,6/18/2020,33
 Texas,6/18/2020,352
@@ -35487,6 +40927,64 @@ Georgia,6/19/2020,120
 Georgia,6/19/2020,43
 Georgia,6/19/2020,74
 Georgia,6/19/2020,278
+New York,6/19/2020,2049
+New York,6/19/2020,58
+New York,6/19/2020,663
+New York,6/19/2020,109
+New York,6/19/2020,107
+New York,6/19/2020,112
+New York,6/19/2020,139
+New York,6/19/2020,139
+New York,6/19/2020,99
+New York,6/19/2020,446
+New York,6/19/2020,44
+New York,6/19/2020,89
+New York,6/19/2020,4110
+New York,6/19/2020,6955
+New York,6/19/2020,48
+New York,6/19/2020,27
+New York,6/19/2020,237
+New York,6/19/2020,218
+New York,6/19/2020,254
+New York,6/19/2020,6
+New York,6/19/2020,131
+New York,6/19/2020,82
+New York,6/19/2020,21
+New York,6/19/2020,123
+New York,6/19/2020,342
+New York,6/19/2020,3462
+New York,6/19/2020,106
+New York,6/19/2020,41387
+New York,6/19/2020,216421
+New York,6/19/2020,1185
+New York,6/19/2020,1357
+New York,6/19/2020,2634
+New York,6/19/2020,239
+New York,6/19/2020,10635
+New York,6/19/2020,274
+New York,6/19/2020,167
+New York,6/19/2020,82
+New York,6/19/2020,1299
+New York,6/19/2020,519
+New York,6/19/2020,13486
+New York,6/19/2020,528
+New York,6/19/2020,746
+New York,6/19/2020,55
+New York,6/19/2020,12
+New York,6/19/2020,64
+New York,6/19/2020,215
+New York,6/19/2020,257
+New York,6/19/2020,40864
+New York,6/19/2020,1434
+New York,6/19/2020,140
+New York,6/19/2020,173
+New York,6/19/2020,1749
+New York,6/19/2020,261
+New York,6/19/2020,243
+New York,6/19/2020,141
+New York,6/19/2020,34454
+New York,6/19/2020,93
+New York,6/19/2020,40
 Texas,6/19/2020,1007
 Texas,6/19/2020,35
 Texas,6/19/2020,366
@@ -35924,6 +41422,64 @@ Georgia,6/20/2020,121
 Georgia,6/20/2020,43
 Georgia,6/20/2020,73
 Georgia,6/20/2020,282
+New York,6/20/2020,2053
+New York,6/20/2020,58
+New York,6/20/2020,665
+New York,6/20/2020,113
+New York,6/20/2020,108
+New York,6/20/2020,115
+New York,6/20/2020,139
+New York,6/20/2020,139
+New York,6/20/2020,100
+New York,6/20/2020,451
+New York,6/20/2020,44
+New York,6/20/2020,90
+New York,6/20/2020,4127
+New York,6/20/2020,6980
+New York,6/20/2020,49
+New York,6/20/2020,27
+New York,6/20/2020,243
+New York,6/20/2020,222
+New York,6/20/2020,255
+New York,6/20/2020,6
+New York,6/20/2020,134
+New York,6/20/2020,83
+New York,6/20/2020,22
+New York,6/20/2020,123
+New York,6/20/2020,343
+New York,6/20/2020,3488
+New York,6/20/2020,106
+New York,6/20/2020,41443
+New York,6/20/2020,216803
+New York,6/20/2020,1188
+New York,6/20/2020,1378
+New York,6/20/2020,2644
+New York,6/20/2020,239
+New York,6/20/2020,10653
+New York,6/20/2020,275
+New York,6/20/2020,169
+New York,6/20/2020,82
+New York,6/20/2020,1301
+New York,6/20/2020,521
+New York,6/20/2020,13495
+New York,6/20/2020,531
+New York,6/20/2020,749
+New York,6/20/2020,56
+New York,6/20/2020,12
+New York,6/20/2020,64
+New York,6/20/2020,216
+New York,6/20/2020,261
+New York,6/20/2020,40908
+New York,6/20/2020,1435
+New York,6/20/2020,140
+New York,6/20/2020,174
+New York,6/20/2020,1750
+New York,6/20/2020,261
+New York,6/20/2020,244
+New York,6/20/2020,143
+New York,6/20/2020,34485
+New York,6/20/2020,93
+New York,6/20/2020,41
 Texas,6/20/2020,1006
 Texas,6/20/2020,42
 Texas,6/20/2020,380
@@ -36362,6 +41918,64 @@ Georgia,6/21/2020,121
 Georgia,6/21/2020,43
 Georgia,6/21/2020,73
 Georgia,6/21/2020,285
+New York,6/21/2020,2054
+New York,6/21/2020,58
+New York,6/21/2020,668
+New York,6/21/2020,115
+New York,6/21/2020,108
+New York,6/21/2020,116
+New York,6/21/2020,139
+New York,6/21/2020,139
+New York,6/21/2020,100
+New York,6/21/2020,451
+New York,6/21/2020,44
+New York,6/21/2020,90
+New York,6/21/2020,4138
+New York,6/21/2020,7004
+New York,6/21/2020,49
+New York,6/21/2020,27
+New York,6/21/2020,243
+New York,6/21/2020,222
+New York,6/21/2020,256
+New York,6/21/2020,6
+New York,6/21/2020,136
+New York,6/21/2020,84
+New York,6/21/2020,23
+New York,6/21/2020,123
+New York,6/21/2020,345
+New York,6/21/2020,3499
+New York,6/21/2020,106
+New York,6/21/2020,41479
+New York,6/21/2020,217189
+New York,6/21/2020,1192
+New York,6/21/2020,1393
+New York,6/21/2020,2666
+New York,6/21/2020,240
+New York,6/21/2020,10663
+New York,6/21/2020,276
+New York,6/21/2020,173
+New York,6/21/2020,82
+New York,6/21/2020,1301
+New York,6/21/2020,524
+New York,6/21/2020,13504
+New York,6/21/2020,533
+New York,6/21/2020,754
+New York,6/21/2020,57
+New York,6/21/2020,12
+New York,6/21/2020,64
+New York,6/21/2020,216
+New York,6/21/2020,261
+New York,6/21/2020,40972
+New York,6/21/2020,1437
+New York,6/21/2020,140
+New York,6/21/2020,175
+New York,6/21/2020,1754
+New York,6/21/2020,261
+New York,6/21/2020,244
+New York,6/21/2020,143
+New York,6/21/2020,34520
+New York,6/21/2020,93
+New York,6/21/2020,41
 Texas,6/21/2020,1006
 Texas,6/21/2020,44
 Texas,6/21/2020,380
@@ -36800,6 +42414,64 @@ Georgia,6/22/2020,122
 Georgia,6/22/2020,49
 Georgia,6/22/2020,74
 Georgia,6/22/2020,288
+New York,6/22/2020,2060
+New York,6/22/2020,58
+New York,6/22/2020,670
+New York,6/22/2020,115
+New York,6/22/2020,108
+New York,6/22/2020,116
+New York,6/22/2020,139
+New York,6/22/2020,140
+New York,6/22/2020,100
+New York,6/22/2020,452
+New York,6/22/2020,44
+New York,6/22/2020,90
+New York,6/22/2020,4145
+New York,6/22/2020,7035
+New York,6/22/2020,49
+New York,6/22/2020,27
+New York,6/22/2020,244
+New York,6/22/2020,225
+New York,6/22/2020,256
+New York,6/22/2020,6
+New York,6/22/2020,137
+New York,6/22/2020,84
+New York,6/22/2020,23
+New York,6/22/2020,124
+New York,6/22/2020,347
+New York,6/22/2020,3513
+New York,6/22/2020,108
+New York,6/22/2020,41513
+New York,6/22/2020,217487
+New York,6/22/2020,1193
+New York,6/22/2020,1416
+New York,6/22/2020,2675
+New York,6/22/2020,242
+New York,6/22/2020,10669
+New York,6/22/2020,276
+New York,6/22/2020,173
+New York,6/22/2020,83
+New York,6/22/2020,1305
+New York,6/22/2020,528
+New York,6/22/2020,13514
+New York,6/22/2020,535
+New York,6/22/2020,761
+New York,6/22/2020,57
+New York,6/22/2020,12
+New York,6/22/2020,64
+New York,6/22/2020,217
+New York,6/22/2020,263
+New York,6/22/2020,41010
+New York,6/22/2020,1438
+New York,6/22/2020,140
+New York,6/22/2020,175
+New York,6/22/2020,1756
+New York,6/22/2020,262
+New York,6/22/2020,244
+New York,6/22/2020,143
+New York,6/22/2020,34556
+New York,6/22/2020,93
+New York,6/22/2020,42
 Texas,6/22/2020,1006
 Texas,6/22/2020,44
 Texas,6/22/2020,380
@@ -37239,6 +42911,64 @@ Georgia,6/23/2020,122
 Georgia,6/23/2020,49
 Georgia,6/23/2020,74
 Georgia,6/23/2020,291
+New York,6/23/2020,2062
+New York,6/23/2020,58
+New York,6/23/2020,671
+New York,6/23/2020,118
+New York,6/23/2020,108
+New York,6/23/2020,116
+New York,6/23/2020,139
+New York,6/23/2020,141
+New York,6/23/2020,100
+New York,6/23/2020,454
+New York,6/23/2020,44
+New York,6/23/2020,91
+New York,6/23/2020,4150
+New York,6/23/2020,7073
+New York,6/23/2020,49
+New York,6/23/2020,28
+New York,6/23/2020,244
+New York,6/23/2020,229
+New York,6/23/2020,256
+New York,6/23/2020,6
+New York,6/23/2020,137
+New York,6/23/2020,84
+New York,6/23/2020,24
+New York,6/23/2020,125
+New York,6/23/2020,347
+New York,6/23/2020,3541
+New York,6/23/2020,109
+New York,6/23/2020,41544
+New York,6/23/2020,217803
+New York,6/23/2020,1195
+New York,6/23/2020,1421
+New York,6/23/2020,2702
+New York,6/23/2020,242
+New York,6/23/2020,10681
+New York,6/23/2020,277
+New York,6/23/2020,179
+New York,6/23/2020,83
+New York,6/23/2020,1305
+New York,6/23/2020,533
+New York,6/23/2020,13529
+New York,6/23/2020,538
+New York,6/23/2020,770
+New York,6/23/2020,57
+New York,6/23/2020,12
+New York,6/23/2020,64
+New York,6/23/2020,217
+New York,6/23/2020,263
+New York,6/23/2020,41056
+New York,6/23/2020,1440
+New York,6/23/2020,141
+New York,6/23/2020,175
+New York,6/23/2020,1757
+New York,6/23/2020,262
+New York,6/23/2020,244
+New York,6/23/2020,145
+New York,6/23/2020,34580
+New York,6/23/2020,93
+New York,6/23/2020,43
 Texas,6/23/2020,1009
 Texas,6/23/2020,44
 Texas,6/23/2020,415
@@ -37679,6 +43409,64 @@ Georgia,6/24/2020,123
 Georgia,6/24/2020,50
 Georgia,6/24/2020,74
 Georgia,6/24/2020,294
+New York,6/24/2020,2065
+New York,6/24/2020,58
+New York,6/24/2020,671
+New York,6/24/2020,120
+New York,6/24/2020,109
+New York,6/24/2020,118
+New York,6/24/2020,139
+New York,6/24/2020,142
+New York,6/24/2020,100
+New York,6/24/2020,454
+New York,6/24/2020,44
+New York,6/24/2020,91
+New York,6/24/2020,4158
+New York,6/24/2020,7108
+New York,6/24/2020,49
+New York,6/24/2020,28
+New York,6/24/2020,244
+New York,6/24/2020,230
+New York,6/24/2020,256
+New York,6/24/2020,6
+New York,6/24/2020,142
+New York,6/24/2020,84
+New York,6/24/2020,24
+New York,6/24/2020,125
+New York,6/24/2020,347
+New York,6/24/2020,3568
+New York,6/24/2020,110
+New York,6/24/2020,41585
+New York,6/24/2020,218089
+New York,6/24/2020,1199
+New York,6/24/2020,1445
+New York,6/24/2020,2734
+New York,6/24/2020,246
+New York,6/24/2020,10684
+New York,6/24/2020,277
+New York,6/24/2020,188
+New York,6/24/2020,83
+New York,6/24/2020,1306
+New York,6/24/2020,534
+New York,6/24/2020,13534
+New York,6/24/2020,538
+New York,6/24/2020,772
+New York,6/24/2020,57
+New York,6/24/2020,12
+New York,6/24/2020,64
+New York,6/24/2020,217
+New York,6/24/2020,263
+New York,6/24/2020,41101
+New York,6/24/2020,1447
+New York,6/24/2020,141
+New York,6/24/2020,175
+New York,6/24/2020,1760
+New York,6/24/2020,262
+New York,6/24/2020,244
+New York,6/24/2020,150
+New York,6/24/2020,34596
+New York,6/24/2020,93
+New York,6/24/2020,44
 Texas,6/24/2020,1013
 Texas,6/24/2020,46
 Texas,6/24/2020,426
@@ -38119,6 +43907,64 @@ Georgia,6/25/2020,123
 Georgia,6/25/2020,52
 Georgia,6/25/2020,74
 Georgia,6/25/2020,295
+New York,6/25/2020,2076
+New York,6/25/2020,58
+New York,6/25/2020,680
+New York,6/25/2020,121
+New York,6/25/2020,109
+New York,6/25/2020,121
+New York,6/25/2020,139
+New York,6/25/2020,144
+New York,6/25/2020,101
+New York,6/25/2020,455
+New York,6/25/2020,44
+New York,6/25/2020,91
+New York,6/25/2020,4176
+New York,6/25/2020,7138
+New York,6/25/2020,49
+New York,6/25/2020,28
+New York,6/25/2020,244
+New York,6/25/2020,231
+New York,6/25/2020,257
+New York,6/25/2020,6
+New York,6/25/2020,143
+New York,6/25/2020,85
+New York,6/25/2020,25
+New York,6/25/2020,126
+New York,6/25/2020,349
+New York,6/25/2020,3603
+New York,6/25/2020,111
+New York,6/25/2020,41646
+New York,6/25/2020,218429
+New York,6/25/2020,1203
+New York,6/25/2020,1479
+New York,6/25/2020,2751
+New York,6/25/2020,248
+New York,6/25/2020,10694
+New York,6/25/2020,279
+New York,6/25/2020,191
+New York,6/25/2020,83
+New York,6/25/2020,1311
+New York,6/25/2020,541
+New York,6/25/2020,13549
+New York,6/25/2020,540
+New York,6/25/2020,778
+New York,6/25/2020,57
+New York,6/25/2020,12
+New York,6/25/2020,66
+New York,6/25/2020,217
+New York,6/25/2020,264
+New York,6/25/2020,41151
+New York,6/25/2020,1448
+New York,6/25/2020,141
+New York,6/25/2020,175
+New York,6/25/2020,1765
+New York,6/25/2020,263
+New York,6/25/2020,245
+New York,6/25/2020,154
+New York,6/25/2020,34641
+New York,6/25/2020,93
+New York,6/25/2020,44
 Texas,6/25/2020,1014
 Texas,6/25/2020,51
 Texas,6/25/2020,445
@@ -38560,6 +44406,64 @@ Georgia,6/26/2020,125
 Georgia,6/26/2020,52
 Georgia,6/26/2020,74
 Georgia,6/26/2020,296
+New York,6/26/2020,2084
+New York,6/26/2020,58
+New York,6/26/2020,697
+New York,6/26/2020,123
+New York,6/26/2020,109
+New York,6/26/2020,122
+New York,6/26/2020,139
+New York,6/26/2020,145
+New York,6/26/2020,101
+New York,6/26/2020,460
+New York,6/26/2020,44
+New York,6/26/2020,91
+New York,6/26/2020,4179
+New York,6/26/2020,7181
+New York,6/26/2020,49
+New York,6/26/2020,28
+New York,6/26/2020,248
+New York,6/26/2020,232
+New York,6/26/2020,257
+New York,6/26/2020,6
+New York,6/26/2020,149
+New York,6/26/2020,85
+New York,6/26/2020,26
+New York,6/26/2020,126
+New York,6/26/2020,351
+New York,6/26/2020,3642
+New York,6/26/2020,113
+New York,6/26/2020,41684
+New York,6/26/2020,218799
+New York,6/26/2020,1213
+New York,6/26/2020,1520
+New York,6/26/2020,2782
+New York,6/26/2020,252
+New York,6/26/2020,10713
+New York,6/26/2020,279
+New York,6/26/2020,192
+New York,6/26/2020,83
+New York,6/26/2020,1317
+New York,6/26/2020,549
+New York,6/26/2020,13557
+New York,6/26/2020,540
+New York,6/26/2020,781
+New York,6/26/2020,57
+New York,6/26/2020,12
+New York,6/26/2020,69
+New York,6/26/2020,218
+New York,6/26/2020,264
+New York,6/26/2020,41208
+New York,6/26/2020,1449
+New York,6/26/2020,141
+New York,6/26/2020,175
+New York,6/26/2020,1768
+New York,6/26/2020,263
+New York,6/26/2020,245
+New York,6/26/2020,159
+New York,6/26/2020,34699
+New York,6/26/2020,94
+New York,6/26/2020,45
 Texas,6/26/2020,1017
 Texas,6/26/2020,56
 Texas,6/26/2020,464
@@ -39002,6 +44906,64 @@ Georgia,6/27/2020,126
 Georgia,6/27/2020,52
 Georgia,6/27/2020,75
 Georgia,6/27/2020,300
+New York,6/27/2020,2091
+New York,6/27/2020,58
+New York,6/27/2020,701
+New York,6/27/2020,123
+New York,6/27/2020,111
+New York,6/27/2020,123
+New York,6/27/2020,139
+New York,6/27/2020,146
+New York,6/27/2020,101
+New York,6/27/2020,461
+New York,6/27/2020,44
+New York,6/27/2020,91
+New York,6/27/2020,4191
+New York,6/27/2020,7206
+New York,6/27/2020,50
+New York,6/27/2020,29
+New York,6/27/2020,249
+New York,6/27/2020,237
+New York,6/27/2020,260
+New York,6/27/2020,6
+New York,6/27/2020,154
+New York,6/27/2020,85
+New York,6/27/2020,26
+New York,6/27/2020,126
+New York,6/27/2020,351
+New York,6/27/2020,3677
+New York,6/27/2020,116
+New York,6/27/2020,41725
+New York,6/27/2020,219157
+New York,6/27/2020,1223
+New York,6/27/2020,1547
+New York,6/27/2020,2791
+New York,6/27/2020,254
+New York,6/27/2020,10725
+New York,6/27/2020,280
+New York,6/27/2020,194
+New York,6/27/2020,84
+New York,6/27/2020,1319
+New York,6/27/2020,550
+New York,6/27/2020,13566
+New York,6/27/2020,546
+New York,6/27/2020,786
+New York,6/27/2020,57
+New York,6/27/2020,12
+New York,6/27/2020,69
+New York,6/27/2020,218
+New York,6/27/2020,264
+New York,6/27/2020,41253
+New York,6/27/2020,1451
+New York,6/27/2020,142
+New York,6/27/2020,175
+New York,6/27/2020,1773
+New York,6/27/2020,263
+New York,6/27/2020,245
+New York,6/27/2020,161
+New York,6/27/2020,34747
+New York,6/27/2020,95
+New York,6/27/2020,45
 Texas,6/27/2020,1017
 Texas,6/27/2020,63
 Texas,6/27/2020,464
@@ -39444,6 +45406,64 @@ Georgia,6/28/2020,126
 Georgia,6/28/2020,53
 Georgia,6/28/2020,75
 Georgia,6/28/2020,303
+New York,6/28/2020,2097
+New York,6/28/2020,59
+New York,6/28/2020,703
+New York,6/28/2020,123
+New York,6/28/2020,113
+New York,6/28/2020,123
+New York,6/28/2020,140
+New York,6/28/2020,146
+New York,6/28/2020,101
+New York,6/28/2020,463
+New York,6/28/2020,46
+New York,6/28/2020,91
+New York,6/28/2020,4198
+New York,6/28/2020,7228
+New York,6/28/2020,50
+New York,6/28/2020,29
+New York,6/28/2020,255
+New York,6/28/2020,238
+New York,6/28/2020,260
+New York,6/28/2020,6
+New York,6/28/2020,158
+New York,6/28/2020,85
+New York,6/28/2020,29
+New York,6/28/2020,128
+New York,6/28/2020,352
+New York,6/28/2020,3691
+New York,6/28/2020,118
+New York,6/28/2020,41754
+New York,6/28/2020,219481
+New York,6/28/2020,1226
+New York,6/28/2020,1586
+New York,6/28/2020,2816
+New York,6/28/2020,256
+New York,6/28/2020,10728
+New York,6/28/2020,281
+New York,6/28/2020,195
+New York,6/28/2020,84
+New York,6/28/2020,1323
+New York,6/28/2020,551
+New York,6/28/2020,13576
+New York,6/28/2020,548
+New York,6/28/2020,792
+New York,6/28/2020,58
+New York,6/28/2020,12
+New York,6/28/2020,69
+New York,6/28/2020,218
+New York,6/28/2020,266
+New York,6/28/2020,41306
+New York,6/28/2020,1451
+New York,6/28/2020,142
+New York,6/28/2020,176
+New York,6/28/2020,1778
+New York,6/28/2020,263
+New York,6/28/2020,246
+New York,6/28/2020,162
+New York,6/28/2020,34779
+New York,6/28/2020,95
+New York,6/28/2020,45
 Texas,6/28/2020,1016
 Texas,6/28/2020,73
 Texas,6/28/2020,464
@@ -39886,6 +45906,64 @@ Georgia,6/29/2020,127
 Georgia,6/29/2020,54
 Georgia,6/29/2020,76
 Georgia,6/29/2020,305
+New York,6/29/2020,2099
+New York,6/29/2020,59
+New York,6/29/2020,710
+New York,6/29/2020,123
+New York,6/29/2020,114
+New York,6/29/2020,123
+New York,6/29/2020,140
+New York,6/29/2020,146
+New York,6/29/2020,101
+New York,6/29/2020,463
+New York,6/29/2020,47
+New York,6/29/2020,91
+New York,6/29/2020,4201
+New York,6/29/2020,7249
+New York,6/29/2020,50
+New York,6/29/2020,30
+New York,6/29/2020,256
+New York,6/29/2020,238
+New York,6/29/2020,260
+New York,6/29/2020,6
+New York,6/29/2020,159
+New York,6/29/2020,86
+New York,6/29/2020,30
+New York,6/29/2020,128
+New York,6/29/2020,353
+New York,6/29/2020,3710
+New York,6/29/2020,118
+New York,6/29/2020,41780
+New York,6/29/2020,219670
+New York,6/29/2020,1228
+New York,6/29/2020,1616
+New York,6/29/2020,2822
+New York,6/29/2020,257
+New York,6/29/2020,10731
+New York,6/29/2020,281
+New York,6/29/2020,196
+New York,6/29/2020,84
+New York,6/29/2020,1325
+New York,6/29/2020,553
+New York,6/29/2020,13580
+New York,6/29/2020,549
+New York,6/29/2020,799
+New York,6/29/2020,58
+New York,6/29/2020,12
+New York,6/29/2020,69
+New York,6/29/2020,219
+New York,6/29/2020,266
+New York,6/29/2020,41339
+New York,6/29/2020,1451
+New York,6/29/2020,142
+New York,6/29/2020,177
+New York,6/29/2020,1778
+New York,6/29/2020,263
+New York,6/29/2020,246
+New York,6/29/2020,165
+New York,6/29/2020,34797
+New York,6/29/2020,95
+New York,6/29/2020,46
 Texas,6/29/2020,1016
 Texas,6/29/2020,73
 Texas,6/29/2020,464
@@ -40328,6 +46406,64 @@ Georgia,6/30/2020,126
 Georgia,6/30/2020,56
 Georgia,6/30/2020,76
 Georgia,6/30/2020,315
+New York,6/30/2020,2102
+New York,6/30/2020,59
+New York,6/30/2020,716
+New York,6/30/2020,123
+New York,6/30/2020,115
+New York,6/30/2020,127
+New York,6/30/2020,141
+New York,6/30/2020,146
+New York,6/30/2020,101
+New York,6/30/2020,464
+New York,6/30/2020,47
+New York,6/30/2020,91
+New York,6/30/2020,4207
+New York,6/30/2020,7292
+New York,6/30/2020,50
+New York,6/30/2020,30
+New York,6/30/2020,256
+New York,6/30/2020,238
+New York,6/30/2020,260
+New York,6/30/2020,6
+New York,6/30/2020,159
+New York,6/30/2020,86
+New York,6/30/2020,30
+New York,6/30/2020,129
+New York,6/30/2020,357
+New York,6/30/2020,3743
+New York,6/30/2020,118
+New York,6/30/2020,41807
+New York,6/30/2020,219844
+New York,6/30/2020,1234
+New York,6/30/2020,1627
+New York,6/30/2020,2842
+New York,6/30/2020,259
+New York,6/30/2020,10738
+New York,6/30/2020,281
+New York,6/30/2020,197
+New York,6/30/2020,84
+New York,6/30/2020,1326
+New York,6/30/2020,553
+New York,6/30/2020,13590
+New York,6/30/2020,549
+New York,6/30/2020,800
+New York,6/30/2020,58
+New York,6/30/2020,12
+New York,6/30/2020,69
+New York,6/30/2020,219
+New York,6/30/2020,266
+New York,6/30/2020,41385
+New York,6/30/2020,1451
+New York,6/30/2020,143
+New York,6/30/2020,177
+New York,6/30/2020,1781
+New York,6/30/2020,263
+New York,6/30/2020,246
+New York,6/30/2020,170
+New York,6/30/2020,34837
+New York,6/30/2020,95
+New York,6/30/2020,46
 Texas,6/30/2020,1032
 Texas,6/30/2020,75
 Texas,6/30/2020,476
@@ -40770,6 +46906,64 @@ Georgia,7/1/2020,127
 Georgia,7/1/2020,57
 Georgia,7/1/2020,76
 Georgia,7/1/2020,317
+New York,7/1/2020,2112
+New York,7/1/2020,61
+New York,7/1/2020,722
+New York,7/1/2020,123
+New York,7/1/2020,119
+New York,7/1/2020,127
+New York,7/1/2020,144
+New York,7/1/2020,146
+New York,7/1/2020,101
+New York,7/1/2020,466
+New York,7/1/2020,47
+New York,7/1/2020,91
+New York,7/1/2020,4213
+New York,7/1/2020,7337
+New York,7/1/2020,50
+New York,7/1/2020,31
+New York,7/1/2020,257
+New York,7/1/2020,238
+New York,7/1/2020,260
+New York,7/1/2020,6
+New York,7/1/2020,162
+New York,7/1/2020,88
+New York,7/1/2020,30
+New York,7/1/2020,130
+New York,7/1/2020,357
+New York,7/1/2020,3781
+New York,7/1/2020,118
+New York,7/1/2020,41853
+New York,7/1/2020,220143
+New York,7/1/2020,1237
+New York,7/1/2020,1642
+New York,7/1/2020,2863
+New York,7/1/2020,265
+New York,7/1/2020,10745
+New York,7/1/2020,281
+New York,7/1/2020,201
+New York,7/1/2020,84
+New York,7/1/2020,1329
+New York,7/1/2020,555
+New York,7/1/2020,13602
+New York,7/1/2020,550
+New York,7/1/2020,805
+New York,7/1/2020,58
+New York,7/1/2020,13
+New York,7/1/2020,70
+New York,7/1/2020,219
+New York,7/1/2020,268
+New York,7/1/2020,41427
+New York,7/1/2020,1452
+New York,7/1/2020,143
+New York,7/1/2020,177
+New York,7/1/2020,1782
+New York,7/1/2020,263
+New York,7/1/2020,246
+New York,7/1/2020,174
+New York,7/1/2020,34865
+New York,7/1/2020,95
+New York,7/1/2020,46
 Texas,7/1/2020,1040
 Texas,7/1/2020,82
 Texas,7/1/2020,519
@@ -41212,6 +47406,64 @@ Georgia,7/2/2020,131
 Georgia,7/2/2020,59
 Georgia,7/2/2020,78
 Georgia,7/2/2020,319
+New York,7/2/2020,2125
+New York,7/2/2020,62
+New York,7/2/2020,729
+New York,7/2/2020,124
+New York,7/2/2020,119
+New York,7/2/2020,127
+New York,7/2/2020,144
+New York,7/2/2020,148
+New York,7/2/2020,101
+New York,7/2/2020,472
+New York,7/2/2020,47
+New York,7/2/2020,91
+New York,7/2/2020,4225
+New York,7/2/2020,7370
+New York,7/2/2020,50
+New York,7/2/2020,32
+New York,7/2/2020,260
+New York,7/2/2020,238
+New York,7/2/2020,260
+New York,7/2/2020,6
+New York,7/2/2020,164
+New York,7/2/2020,90
+New York,7/2/2020,30
+New York,7/2/2020,130
+New York,7/2/2020,359
+New York,7/2/2020,3834
+New York,7/2/2020,119
+New York,7/2/2020,41910
+New York,7/2/2020,220567
+New York,7/2/2020,1248
+New York,7/2/2020,1672
+New York,7/2/2020,2897
+New York,7/2/2020,268
+New York,7/2/2020,10759
+New York,7/2/2020,282
+New York,7/2/2020,206
+New York,7/2/2020,84
+New York,7/2/2020,1332
+New York,7/2/2020,556
+New York,7/2/2020,13612
+New York,7/2/2020,555
+New York,7/2/2020,816
+New York,7/2/2020,58
+New York,7/2/2020,13
+New York,7/2/2020,70
+New York,7/2/2020,220
+New York,7/2/2020,268
+New York,7/2/2020,41491
+New York,7/2/2020,1453
+New York,7/2/2020,143
+New York,7/2/2020,178
+New York,7/2/2020,1790
+New York,7/2/2020,264
+New York,7/2/2020,246
+New York,7/2/2020,176
+New York,7/2/2020,34911
+New York,7/2/2020,95
+New York,7/2/2020,46
 Texas,7/2/2020,1063
 Texas,7/2/2020,89
 Texas,7/2/2020,541
@@ -41654,6 +47906,64 @@ Georgia,7/3/2020,131
 Georgia,7/3/2020,61
 Georgia,7/3/2020,79
 Georgia,7/3/2020,324
+New York,7/3/2020,2130
+New York,7/3/2020,63
+New York,7/3/2020,736
+New York,7/3/2020,124
+New York,7/3/2020,120
+New York,7/3/2020,129
+New York,7/3/2020,145
+New York,7/3/2020,148
+New York,7/3/2020,101
+New York,7/3/2020,474
+New York,7/3/2020,48
+New York,7/3/2020,91
+New York,7/3/2020,4231
+New York,7/3/2020,7427
+New York,7/3/2020,54
+New York,7/3/2020,33
+New York,7/3/2020,261
+New York,7/3/2020,239
+New York,7/3/2020,263
+New York,7/3/2020,6
+New York,7/3/2020,172
+New York,7/3/2020,93
+New York,7/3/2020,30
+New York,7/3/2020,130
+New York,7/3/2020,360
+New York,7/3/2020,3886
+New York,7/3/2020,119
+New York,7/3/2020,41947
+New York,7/3/2020,221028
+New York,7/3/2020,1262
+New York,7/3/2020,1708
+New York,7/3/2020,2909
+New York,7/3/2020,275
+New York,7/3/2020,10774
+New York,7/3/2020,282
+New York,7/3/2020,206
+New York,7/3/2020,84
+New York,7/3/2020,1333
+New York,7/3/2020,559
+New York,7/3/2020,13623
+New York,7/3/2020,561
+New York,7/3/2020,824
+New York,7/3/2020,58
+New York,7/3/2020,13
+New York,7/3/2020,70
+New York,7/3/2020,222
+New York,7/3/2020,268
+New York,7/3/2020,41538
+New York,7/3/2020,1455
+New York,7/3/2020,143
+New York,7/3/2020,178
+New York,7/3/2020,1815
+New York,7/3/2020,266
+New York,7/3/2020,246
+New York,7/3/2020,181
+New York,7/3/2020,34979
+New York,7/3/2020,95
+New York,7/3/2020,46
 Texas,7/3/2020,1072
 Texas,7/3/2020,90
 Texas,7/3/2020,541
@@ -42098,6 +48408,64 @@ Georgia,7/4/2020,131
 Georgia,7/4/2020,74
 Georgia,7/4/2020,82
 Georgia,7/4/2020,324
+New York,7/4/2020,2145
+New York,7/4/2020,63
+New York,7/4/2020,752
+New York,7/4/2020,127
+New York,7/4/2020,120
+New York,7/4/2020,131
+New York,7/4/2020,146
+New York,7/4/2020,149
+New York,7/4/2020,101
+New York,7/4/2020,474
+New York,7/4/2020,50
+New York,7/4/2020,91
+New York,7/4/2020,4238
+New York,7/4/2020,7462
+New York,7/4/2020,55
+New York,7/4/2020,33
+New York,7/4/2020,261
+New York,7/4/2020,239
+New York,7/4/2020,263
+New York,7/4/2020,6
+New York,7/4/2020,172
+New York,7/4/2020,93
+New York,7/4/2020,31
+New York,7/4/2020,131
+New York,7/4/2020,363
+New York,7/4/2020,3923
+New York,7/4/2020,119
+New York,7/4/2020,41988
+New York,7/4/2020,221395
+New York,7/4/2020,1277
+New York,7/4/2020,1725
+New York,7/4/2020,2928
+New York,7/4/2020,278
+New York,7/4/2020,10781
+New York,7/4/2020,282
+New York,7/4/2020,206
+New York,7/4/2020,86
+New York,7/4/2020,1335
+New York,7/4/2020,563
+New York,7/4/2020,13629
+New York,7/4/2020,562
+New York,7/4/2020,831
+New York,7/4/2020,58
+New York,7/4/2020,13
+New York,7/4/2020,70
+New York,7/4/2020,223
+New York,7/4/2020,269
+New York,7/4/2020,41585
+New York,7/4/2020,1456
+New York,7/4/2020,145
+New York,7/4/2020,178
+New York,7/4/2020,1825
+New York,7/4/2020,268
+New York,7/4/2020,246
+New York,7/4/2020,183
+New York,7/4/2020,35019
+New York,7/4/2020,96
+New York,7/4/2020,48
 Texas,7/4/2020,1070
 Texas,7/4/2020,98
 Texas,7/4/2020,541
@@ -42542,6 +48910,64 @@ Georgia,7/5/2020,131
 Georgia,7/5/2020,76
 Georgia,7/5/2020,82
 Georgia,7/5/2020,327
+New York,7/5/2020,2152
+New York,7/5/2020,63
+New York,7/5/2020,753
+New York,7/5/2020,127
+New York,7/5/2020,120
+New York,7/5/2020,132
+New York,7/5/2020,146
+New York,7/5/2020,150
+New York,7/5/2020,103
+New York,7/5/2020,475
+New York,7/5/2020,51
+New York,7/5/2020,91
+New York,7/5/2020,4243
+New York,7/5/2020,7475
+New York,7/5/2020,56
+New York,7/5/2020,33
+New York,7/5/2020,261
+New York,7/5/2020,239
+New York,7/5/2020,263
+New York,7/5/2020,6
+New York,7/5/2020,173
+New York,7/5/2020,94
+New York,7/5/2020,31
+New York,7/5/2020,132
+New York,7/5/2020,363
+New York,7/5/2020,3954
+New York,7/5/2020,119
+New York,7/5/2020,42031
+New York,7/5/2020,221637
+New York,7/5/2020,1284
+New York,7/5/2020,1742
+New York,7/5/2020,2949
+New York,7/5/2020,280
+New York,7/5/2020,10790
+New York,7/5/2020,282
+New York,7/5/2020,206
+New York,7/5/2020,86
+New York,7/5/2020,1336
+New York,7/5/2020,565
+New York,7/5/2020,13648
+New York,7/5/2020,566
+New York,7/5/2020,834
+New York,7/5/2020,59
+New York,7/5/2020,13
+New York,7/5/2020,71
+New York,7/5/2020,224
+New York,7/5/2020,270
+New York,7/5/2020,41642
+New York,7/5/2020,1456
+New York,7/5/2020,146
+New York,7/5/2020,179
+New York,7/5/2020,1834
+New York,7/5/2020,269
+New York,7/5/2020,246
+New York,7/5/2020,185
+New York,7/5/2020,35042
+New York,7/5/2020,97
+New York,7/5/2020,48
 Texas,7/5/2020,1082
 Texas,7/5/2020,103
 Texas,7/5/2020,541
@@ -42986,6 +49412,64 @@ Georgia,7/6/2020,132
 Georgia,7/6/2020,79
 Georgia,7/6/2020,83
 Georgia,7/6/2020,331
+New York,7/6/2020,2160
+New York,7/6/2020,63
+New York,7/6/2020,757
+New York,7/6/2020,128
+New York,7/6/2020,122
+New York,7/6/2020,134
+New York,7/6/2020,146
+New York,7/6/2020,156
+New York,7/6/2020,103
+New York,7/6/2020,477
+New York,7/6/2020,52
+New York,7/6/2020,91
+New York,7/6/2020,4246
+New York,7/6/2020,7500
+New York,7/6/2020,57
+New York,7/6/2020,33
+New York,7/6/2020,262
+New York,7/6/2020,242
+New York,7/6/2020,263
+New York,7/6/2020,6
+New York,7/6/2020,179
+New York,7/6/2020,94
+New York,7/6/2020,31
+New York,7/6/2020,133
+New York,7/6/2020,364
+New York,7/6/2020,3975
+New York,7/6/2020,120
+New York,7/6/2020,42053
+New York,7/6/2020,221882
+New York,7/6/2020,1290
+New York,7/6/2020,1749
+New York,7/6/2020,2963
+New York,7/6/2020,282
+New York,7/6/2020,10796
+New York,7/6/2020,284
+New York,7/6/2020,206
+New York,7/6/2020,86
+New York,7/6/2020,1337
+New York,7/6/2020,568
+New York,7/6/2020,13656
+New York,7/6/2020,572
+New York,7/6/2020,838
+New York,7/6/2020,59
+New York,7/6/2020,13
+New York,7/6/2020,71
+New York,7/6/2020,226
+New York,7/6/2020,271
+New York,7/6/2020,41685
+New York,7/6/2020,1457
+New York,7/6/2020,148
+New York,7/6/2020,179
+New York,7/6/2020,1840
+New York,7/6/2020,272
+New York,7/6/2020,247
+New York,7/6/2020,186
+New York,7/6/2020,35083
+New York,7/6/2020,97
+New York,7/6/2020,48
 Texas,7/6/2020,1082
 Texas,7/6/2020,103
 Texas,7/6/2020,541
@@ -43430,6 +49914,64 @@ Georgia,7/7/2020,132
 Georgia,7/7/2020,85
 Georgia,7/7/2020,94
 Georgia,7/7/2020,339
+New York,7/7/2020,2164
+New York,7/7/2020,63
+New York,7/7/2020,762
+New York,7/7/2020,128
+New York,7/7/2020,122
+New York,7/7/2020,135
+New York,7/7/2020,147
+New York,7/7/2020,157
+New York,7/7/2020,105
+New York,7/7/2020,479
+New York,7/7/2020,53
+New York,7/7/2020,91
+New York,7/7/2020,4248
+New York,7/7/2020,7544
+New York,7/7/2020,57
+New York,7/7/2020,33
+New York,7/7/2020,262
+New York,7/7/2020,242
+New York,7/7/2020,263
+New York,7/7/2020,6
+New York,7/7/2020,181
+New York,7/7/2020,94
+New York,7/7/2020,31
+New York,7/7/2020,134
+New York,7/7/2020,367
+New York,7/7/2020,4005
+New York,7/7/2020,121
+New York,7/7/2020,42088
+New York,7/7/2020,222156
+New York,7/7/2020,1297
+New York,7/7/2020,1760
+New York,7/7/2020,2997
+New York,7/7/2020,283
+New York,7/7/2020,10813
+New York,7/7/2020,285
+New York,7/7/2020,207
+New York,7/7/2020,86
+New York,7/7/2020,1340
+New York,7/7/2020,571
+New York,7/7/2020,13668
+New York,7/7/2020,578
+New York,7/7/2020,843
+New York,7/7/2020,59
+New York,7/7/2020,13
+New York,7/7/2020,71
+New York,7/7/2020,226
+New York,7/7/2020,271
+New York,7/7/2020,41730
+New York,7/7/2020,1459
+New York,7/7/2020,150
+New York,7/7/2020,179
+New York,7/7/2020,1843
+New York,7/7/2020,273
+New York,7/7/2020,247
+New York,7/7/2020,191
+New York,7/7/2020,35105
+New York,7/7/2020,97
+New York,7/7/2020,48
 Texas,7/7/2020,1108
 Texas,7/7/2020,103
 Texas,7/7/2020,610
@@ -43874,6 +50416,64 @@ Georgia,7/8/2020,132
 Georgia,7/8/2020,87
 Georgia,7/8/2020,100
 Georgia,7/8/2020,343
+New York,7/8/2020,2175
+New York,7/8/2020,64
+New York,7/8/2020,766
+New York,7/8/2020,130
+New York,7/8/2020,122
+New York,7/8/2020,149
+New York,7/8/2020,147
+New York,7/8/2020,159
+New York,7/8/2020,106
+New York,7/8/2020,482
+New York,7/8/2020,54
+New York,7/8/2020,91
+New York,7/8/2020,4250
+New York,7/8/2020,7596
+New York,7/8/2020,57
+New York,7/8/2020,33
+New York,7/8/2020,262
+New York,7/8/2020,244
+New York,7/8/2020,263
+New York,7/8/2020,6
+New York,7/8/2020,181
+New York,7/8/2020,94
+New York,7/8/2020,31
+New York,7/8/2020,137
+New York,7/8/2020,368
+New York,7/8/2020,4047
+New York,7/8/2020,121
+New York,7/8/2020,42122
+New York,7/8/2020,222444
+New York,7/8/2020,1307
+New York,7/8/2020,1776
+New York,7/8/2020,3029
+New York,7/8/2020,286
+New York,7/8/2020,10821
+New York,7/8/2020,286
+New York,7/8/2020,210
+New York,7/8/2020,86
+New York,7/8/2020,1344
+New York,7/8/2020,580
+New York,7/8/2020,13679
+New York,7/8/2020,582
+New York,7/8/2020,844
+New York,7/8/2020,60
+New York,7/8/2020,13
+New York,7/8/2020,71
+New York,7/8/2020,227
+New York,7/8/2020,271
+New York,7/8/2020,41799
+New York,7/8/2020,1460
+New York,7/8/2020,150
+New York,7/8/2020,180
+New York,7/8/2020,1845
+New York,7/8/2020,273
+New York,7/8/2020,247
+New York,7/8/2020,193
+New York,7/8/2020,35153
+New York,7/8/2020,98
+New York,7/8/2020,48
 Texas,7/8/2020,1152
 Texas,7/8/2020,120
 Texas,7/8/2020,645
@@ -44318,6 +50918,64 @@ Georgia,7/9/2020,132
 Georgia,7/9/2020,87
 Georgia,7/9/2020,102
 Georgia,7/9/2020,346
+New York,7/9/2020,2183
+New York,7/9/2020,64
+New York,7/9/2020,770
+New York,7/9/2020,131
+New York,7/9/2020,124
+New York,7/9/2020,152
+New York,7/9/2020,148
+New York,7/9/2020,163
+New York,7/9/2020,107
+New York,7/9/2020,482
+New York,7/9/2020,55
+New York,7/9/2020,91
+New York,7/9/2020,4255
+New York,7/9/2020,7624
+New York,7/9/2020,59
+New York,7/9/2020,34
+New York,7/9/2020,263
+New York,7/9/2020,244
+New York,7/9/2020,263
+New York,7/9/2020,6
+New York,7/9/2020,182
+New York,7/9/2020,95
+New York,7/9/2020,31
+New York,7/9/2020,140
+New York,7/9/2020,368
+New York,7/9/2020,4075
+New York,7/9/2020,125
+New York,7/9/2020,42164
+New York,7/9/2020,222723
+New York,7/9/2020,1315
+New York,7/9/2020,1791
+New York,7/9/2020,3050
+New York,7/9/2020,290
+New York,7/9/2020,10825
+New York,7/9/2020,286
+New York,7/9/2020,211
+New York,7/9/2020,86
+New York,7/9/2020,1348
+New York,7/9/2020,586
+New York,7/9/2020,13683
+New York,7/9/2020,585
+New York,7/9/2020,848
+New York,7/9/2020,61
+New York,7/9/2020,13
+New York,7/9/2020,73
+New York,7/9/2020,227
+New York,7/9/2020,272
+New York,7/9/2020,41849
+New York,7/9/2020,1460
+New York,7/9/2020,151
+New York,7/9/2020,180
+New York,7/9/2020,1851
+New York,7/9/2020,273
+New York,7/9/2020,248
+New York,7/9/2020,195
+New York,7/9/2020,35182
+New York,7/9/2020,99
+New York,7/9/2020,48
 Texas,7/9/2020,1533
 Texas,7/9/2020,132
 Texas,7/9/2020,683
@@ -44762,6 +51420,64 @@ Georgia,7/10/2020,134
 Georgia,7/10/2020,88
 Georgia,7/10/2020,109
 Georgia,7/10/2020,351
+New York,7/10/2020,2190
+New York,7/10/2020,64
+New York,7/10/2020,784
+New York,7/10/2020,134
+New York,7/10/2020,124
+New York,7/10/2020,155
+New York,7/10/2020,148
+New York,7/10/2020,166
+New York,7/10/2020,107
+New York,7/10/2020,482
+New York,7/10/2020,56
+New York,7/10/2020,91
+New York,7/10/2020,4262
+New York,7/10/2020,7660
+New York,7/10/2020,59
+New York,7/10/2020,35
+New York,7/10/2020,264
+New York,7/10/2020,246
+New York,7/10/2020,264
+New York,7/10/2020,6
+New York,7/10/2020,184
+New York,7/10/2020,95
+New York,7/10/2020,31
+New York,7/10/2020,144
+New York,7/10/2020,371
+New York,7/10/2020,4121
+New York,7/10/2020,128
+New York,7/10/2020,42232
+New York,7/10/2020,223078
+New York,7/10/2020,1327
+New York,7/10/2020,1806
+New York,7/10/2020,3078
+New York,7/10/2020,293
+New York,7/10/2020,10835
+New York,7/10/2020,287
+New York,7/10/2020,216
+New York,7/10/2020,88
+New York,7/10/2020,1355
+New York,7/10/2020,588
+New York,7/10/2020,13691
+New York,7/10/2020,587
+New York,7/10/2020,852
+New York,7/10/2020,62
+New York,7/10/2020,13
+New York,7/10/2020,73
+New York,7/10/2020,227
+New York,7/10/2020,272
+New York,7/10/2020,41911
+New York,7/10/2020,1464
+New York,7/10/2020,159
+New York,7/10/2020,181
+New York,7/10/2020,1853
+New York,7/10/2020,274
+New York,7/10/2020,249
+New York,7/10/2020,201
+New York,7/10/2020,35225
+New York,7/10/2020,101
+New York,7/10/2020,48
 Texas,7/10/2020,1761
 Texas,7/10/2020,132
 Texas,7/10/2020,743
@@ -45207,6 +51923,64 @@ Georgia,7/11/2020,134
 Georgia,7/11/2020,98
 Georgia,7/11/2020,113
 Georgia,7/11/2020,354
+New York,7/11/2020,2208
+New York,7/11/2020,66
+New York,7/11/2020,807
+New York,7/11/2020,138
+New York,7/11/2020,126
+New York,7/11/2020,170
+New York,7/11/2020,148
+New York,7/11/2020,166
+New York,7/11/2020,108
+New York,7/11/2020,485
+New York,7/11/2020,58
+New York,7/11/2020,91
+New York,7/11/2020,4269
+New York,7/11/2020,7711
+New York,7/11/2020,59
+New York,7/11/2020,35
+New York,7/11/2020,265
+New York,7/11/2020,247
+New York,7/11/2020,265
+New York,7/11/2020,6
+New York,7/11/2020,188
+New York,7/11/2020,95
+New York,7/11/2020,31
+New York,7/11/2020,145
+New York,7/11/2020,374
+New York,7/11/2020,4154
+New York,7/11/2020,130
+New York,7/11/2020,42267
+New York,7/11/2020,223382
+New York,7/11/2020,1334
+New York,7/11/2020,1818
+New York,7/11/2020,3100
+New York,7/11/2020,296
+New York,7/11/2020,10845
+New York,7/11/2020,287
+New York,7/11/2020,219
+New York,7/11/2020,88
+New York,7/11/2020,1361
+New York,7/11/2020,593
+New York,7/11/2020,13700
+New York,7/11/2020,595
+New York,7/11/2020,856
+New York,7/11/2020,62
+New York,7/11/2020,15
+New York,7/11/2020,74
+New York,7/11/2020,230
+New York,7/11/2020,274
+New York,7/11/2020,41987
+New York,7/11/2020,1464
+New York,7/11/2020,160
+New York,7/11/2020,183
+New York,7/11/2020,1855
+New York,7/11/2020,274
+New York,7/11/2020,249
+New York,7/11/2020,203
+New York,7/11/2020,35259
+New York,7/11/2020,101
+New York,7/11/2020,48
 Texas,7/11/2020,1796
 Texas,7/11/2020,155
 Texas,7/11/2020,743
@@ -45652,6 +52426,64 @@ Georgia,7/12/2020,135
 Georgia,7/12/2020,109
 Georgia,7/12/2020,112
 Georgia,7/12/2020,356
+New York,7/12/2020,2219
+New York,7/12/2020,66
+New York,7/12/2020,820
+New York,7/12/2020,138
+New York,7/12/2020,126
+New York,7/12/2020,170
+New York,7/12/2020,148
+New York,7/12/2020,166
+New York,7/12/2020,109
+New York,7/12/2020,486
+New York,7/12/2020,58
+New York,7/12/2020,92
+New York,7/12/2020,4276
+New York,7/12/2020,7742
+New York,7/12/2020,59
+New York,7/12/2020,36
+New York,7/12/2020,265
+New York,7/12/2020,250
+New York,7/12/2020,266
+New York,7/12/2020,6
+New York,7/12/2020,192
+New York,7/12/2020,97
+New York,7/12/2020,31
+New York,7/12/2020,147
+New York,7/12/2020,374
+New York,7/12/2020,4178
+New York,7/12/2020,132
+New York,7/12/2020,42307
+New York,7/12/2020,223725
+New York,7/12/2020,1340
+New York,7/12/2020,1823
+New York,7/12/2020,3124
+New York,7/12/2020,300
+New York,7/12/2020,10850
+New York,7/12/2020,287
+New York,7/12/2020,220
+New York,7/12/2020,89
+New York,7/12/2020,1361
+New York,7/12/2020,616
+New York,7/12/2020,13716
+New York,7/12/2020,602
+New York,7/12/2020,864
+New York,7/12/2020,62
+New York,7/12/2020,15
+New York,7/12/2020,74
+New York,7/12/2020,230
+New York,7/12/2020,274
+New York,7/12/2020,42028
+New York,7/12/2020,1465
+New York,7/12/2020,161
+New York,7/12/2020,186
+New York,7/12/2020,1859
+New York,7/12/2020,277
+New York,7/12/2020,249
+New York,7/12/2020,205
+New York,7/12/2020,35296
+New York,7/12/2020,101
+New York,7/12/2020,48
 Texas,7/12/2020,1796
 Texas,7/12/2020,169
 Texas,7/12/2020,743
@@ -46098,6 +52930,64 @@ Georgia,7/13/2020,137
 Georgia,7/13/2020,115
 Georgia,7/13/2020,118
 Georgia,7/13/2020,355
+New York,7/13/2020,2225
+New York,7/13/2020,66
+New York,7/13/2020,827
+New York,7/13/2020,138
+New York,7/13/2020,126
+New York,7/13/2020,171
+New York,7/13/2020,148
+New York,7/13/2020,169
+New York,7/13/2020,109
+New York,7/13/2020,487
+New York,7/13/2020,59
+New York,7/13/2020,92
+New York,7/13/2020,4280
+New York,7/13/2020,7766
+New York,7/13/2020,59
+New York,7/13/2020,36
+New York,7/13/2020,265
+New York,7/13/2020,250
+New York,7/13/2020,266
+New York,7/13/2020,6
+New York,7/13/2020,193
+New York,7/13/2020,99
+New York,7/13/2020,31
+New York,7/13/2020,147
+New York,7/13/2020,375
+New York,7/13/2020,4201
+New York,7/13/2020,133
+New York,7/13/2020,42354
+New York,7/13/2020,223977
+New York,7/13/2020,1342
+New York,7/13/2020,1830
+New York,7/13/2020,3142
+New York,7/13/2020,302
+New York,7/13/2020,10856
+New York,7/13/2020,287
+New York,7/13/2020,222
+New York,7/13/2020,89
+New York,7/13/2020,1365
+New York,7/13/2020,617
+New York,7/13/2020,13719
+New York,7/13/2020,610
+New York,7/13/2020,868
+New York,7/13/2020,62
+New York,7/13/2020,15
+New York,7/13/2020,74
+New York,7/13/2020,231
+New York,7/13/2020,276
+New York,7/13/2020,42112
+New York,7/13/2020,1465
+New York,7/13/2020,161
+New York,7/13/2020,186
+New York,7/13/2020,1862
+New York,7/13/2020,280
+New York,7/13/2020,249
+New York,7/13/2020,209
+New York,7/13/2020,35326
+New York,7/13/2020,102
+New York,7/13/2020,48
 Texas,7/13/2020,1890
 Texas,7/13/2020,169
 Texas,7/13/2020,743
@@ -46544,6 +53434,64 @@ Georgia,7/14/2020,138
 Georgia,7/14/2020,122
 Georgia,7/14/2020,122
 Georgia,7/14/2020,357
+New York,7/14/2020,2247
+New York,7/14/2020,68
+New York,7/14/2020,841
+New York,7/14/2020,139
+New York,7/14/2020,127
+New York,7/14/2020,180
+New York,7/14/2020,149
+New York,7/14/2020,171
+New York,7/14/2020,110
+New York,7/14/2020,489
+New York,7/14/2020,59
+New York,7/14/2020,92
+New York,7/14/2020,4318
+New York,7/14/2020,7833
+New York,7/14/2020,59
+New York,7/14/2020,36
+New York,7/14/2020,266
+New York,7/14/2020,252
+New York,7/14/2020,267
+New York,7/14/2020,6
+New York,7/14/2020,195
+New York,7/14/2020,100
+New York,7/14/2020,32
+New York,7/14/2020,151
+New York,7/14/2020,376
+New York,7/14/2020,4248
+New York,7/14/2020,141
+New York,7/14/2020,42423
+New York,7/14/2020,224293
+New York,7/14/2020,1351
+New York,7/14/2020,1847
+New York,7/14/2020,3179
+New York,7/14/2020,307
+New York,7/14/2020,10865
+New York,7/14/2020,288
+New York,7/14/2020,225
+New York,7/14/2020,90
+New York,7/14/2020,1376
+New York,7/14/2020,625
+New York,7/14/2020,13733
+New York,7/14/2020,616
+New York,7/14/2020,883
+New York,7/14/2020,62
+New York,7/14/2020,15
+New York,7/14/2020,74
+New York,7/14/2020,233
+New York,7/14/2020,278
+New York,7/14/2020,42214
+New York,7/14/2020,1466
+New York,7/14/2020,161
+New York,7/14/2020,186
+New York,7/14/2020,1872
+New York,7/14/2020,280
+New York,7/14/2020,250
+New York,7/14/2020,214
+New York,7/14/2020,35365
+New York,7/14/2020,103
+New York,7/14/2020,49
 Texas,7/14/2020,1917
 Texas,7/14/2020,170
 Texas,7/14/2020,834
@@ -46992,6 +53940,64 @@ Georgia,7/15/2020,144
 Georgia,7/15/2020,124
 Georgia,7/15/2020,126
 Georgia,7/15/2020,360
+New York,7/15/2020,2280
+New York,7/15/2020,69
+New York,7/15/2020,852
+New York,7/15/2020,141
+New York,7/15/2020,128
+New York,7/15/2020,186
+New York,7/15/2020,151
+New York,7/15/2020,175
+New York,7/15/2020,111
+New York,7/15/2020,489
+New York,7/15/2020,61
+New York,7/15/2020,92
+New York,7/15/2020,4337
+New York,7/15/2020,7891
+New York,7/15/2020,59
+New York,7/15/2020,37
+New York,7/15/2020,266
+New York,7/15/2020,254
+New York,7/15/2020,271
+New York,7/15/2020,6
+New York,7/15/2020,197
+New York,7/15/2020,100
+New York,7/15/2020,32
+New York,7/15/2020,151
+New York,7/15/2020,376
+New York,7/15/2020,4282
+New York,7/15/2020,141
+New York,7/15/2020,42462
+New York,7/15/2020,224662
+New York,7/15/2020,1356
+New York,7/15/2020,1860
+New York,7/15/2020,3203
+New York,7/15/2020,312
+New York,7/15/2020,10893
+New York,7/15/2020,288
+New York,7/15/2020,226
+New York,7/15/2020,91
+New York,7/15/2020,1382
+New York,7/15/2020,632
+New York,7/15/2020,13743
+New York,7/15/2020,623
+New York,7/15/2020,891
+New York,7/15/2020,62
+New York,7/15/2020,15
+New York,7/15/2020,76
+New York,7/15/2020,234
+New York,7/15/2020,279
+New York,7/15/2020,42267
+New York,7/15/2020,1467
+New York,7/15/2020,163
+New York,7/15/2020,198
+New York,7/15/2020,1888
+New York,7/15/2020,284
+New York,7/15/2020,250
+New York,7/15/2020,221
+New York,7/15/2020,35393
+New York,7/15/2020,103
+New York,7/15/2020,50
 Texas,7/15/2020,1944
 Texas,7/15/2020,174
 Texas,7/15/2020,940
@@ -47440,6 +54446,64 @@ Georgia,7/16/2020,144
 Georgia,7/16/2020,130
 Georgia,7/16/2020,127
 Georgia,7/16/2020,366
+New York,7/16/2020,2290
+New York,7/16/2020,70
+New York,7/16/2020,861
+New York,7/16/2020,142
+New York,7/16/2020,128
+New York,7/16/2020,191
+New York,7/16/2020,151
+New York,7/16/2020,178
+New York,7/16/2020,111
+New York,7/16/2020,489
+New York,7/16/2020,63
+New York,7/16/2020,92
+New York,7/16/2020,4357
+New York,7/16/2020,7927
+New York,7/16/2020,59
+New York,7/16/2020,38
+New York,7/16/2020,266
+New York,7/16/2020,254
+New York,7/16/2020,271
+New York,7/16/2020,6
+New York,7/16/2020,202
+New York,7/16/2020,102
+New York,7/16/2020,32
+New York,7/16/2020,153
+New York,7/16/2020,377
+New York,7/16/2020,4318
+New York,7/16/2020,141
+New York,7/16/2020,42506
+New York,7/16/2020,225045
+New York,7/16/2020,1364
+New York,7/16/2020,1868
+New York,7/16/2020,3225
+New York,7/16/2020,317
+New York,7/16/2020,10910
+New York,7/16/2020,288
+New York,7/16/2020,227
+New York,7/16/2020,92
+New York,7/16/2020,1385
+New York,7/16/2020,639
+New York,7/16/2020,13763
+New York,7/16/2020,624
+New York,7/16/2020,896
+New York,7/16/2020,62
+New York,7/16/2020,15
+New York,7/16/2020,76
+New York,7/16/2020,237
+New York,7/16/2020,279
+New York,7/16/2020,42333
+New York,7/16/2020,1469
+New York,7/16/2020,163
+New York,7/16/2020,198
+New York,7/16/2020,1894
+New York,7/16/2020,285
+New York,7/16/2020,250
+New York,7/16/2020,223
+New York,7/16/2020,35421
+New York,7/16/2020,103
+New York,7/16/2020,50
 Texas,7/16/2020,1956
 Texas,7/16/2020,176
 Texas,7/16/2020,1000
@@ -47888,6 +54952,64 @@ Georgia,7/17/2020,146
 Georgia,7/17/2020,136
 Georgia,7/17/2020,127
 Georgia,7/17/2020,371
+New York,7/17/2020,2310
+New York,7/17/2020,71
+New York,7/17/2020,870
+New York,7/17/2020,145
+New York,7/17/2020,129
+New York,7/17/2020,192
+New York,7/17/2020,151
+New York,7/17/2020,181
+New York,7/17/2020,111
+New York,7/17/2020,490
+New York,7/17/2020,67
+New York,7/17/2020,92
+New York,7/17/2020,4363
+New York,7/17/2020,7982
+New York,7/17/2020,59
+New York,7/17/2020,39
+New York,7/17/2020,266
+New York,7/17/2020,254
+New York,7/17/2020,271
+New York,7/17/2020,6
+New York,7/17/2020,204
+New York,7/17/2020,103
+New York,7/17/2020,32
+New York,7/17/2020,155
+New York,7/17/2020,379
+New York,7/17/2020,4354
+New York,7/17/2020,141
+New York,7/17/2020,42555
+New York,7/17/2020,225414
+New York,7/17/2020,1371
+New York,7/17/2020,1909
+New York,7/17/2020,3240
+New York,7/17/2020,319
+New York,7/17/2020,10923
+New York,7/17/2020,288
+New York,7/17/2020,227
+New York,7/17/2020,94
+New York,7/17/2020,1386
+New York,7/17/2020,643
+New York,7/17/2020,13775
+New York,7/17/2020,630
+New York,7/17/2020,902
+New York,7/17/2020,62
+New York,7/17/2020,15
+New York,7/17/2020,77
+New York,7/17/2020,238
+New York,7/17/2020,279
+New York,7/17/2020,42382
+New York,7/17/2020,1469
+New York,7/17/2020,168
+New York,7/17/2020,198
+New York,7/17/2020,1898
+New York,7/17/2020,286
+New York,7/17/2020,250
+New York,7/17/2020,223
+New York,7/17/2020,35462
+New York,7/17/2020,103
+New York,7/17/2020,51
 Texas,7/17/2020,2003
 Texas,7/17/2020,181
 Texas,7/17/2020,1000
@@ -48336,6 +55458,64 @@ Georgia,7/18/2020,146
 Georgia,7/18/2020,139
 Georgia,7/18/2020,132
 Georgia,7/18/2020,372
+New York,7/18/2020,2315
+New York,7/18/2020,71
+New York,7/18/2020,877
+New York,7/18/2020,145
+New York,7/18/2020,129
+New York,7/18/2020,194
+New York,7/18/2020,153
+New York,7/18/2020,182
+New York,7/18/2020,111
+New York,7/18/2020,491
+New York,7/18/2020,68
+New York,7/18/2020,93
+New York,7/18/2020,4373
+New York,7/18/2020,8016
+New York,7/18/2020,59
+New York,7/18/2020,40
+New York,7/18/2020,266
+New York,7/18/2020,256
+New York,7/18/2020,271
+New York,7/18/2020,6
+New York,7/18/2020,204
+New York,7/18/2020,104
+New York,7/18/2020,32
+New York,7/18/2020,157
+New York,7/18/2020,382
+New York,7/18/2020,4384
+New York,7/18/2020,143
+New York,7/18/2020,42594
+New York,7/18/2020,225799
+New York,7/18/2020,1375
+New York,7/18/2020,1937
+New York,7/18/2020,3262
+New York,7/18/2020,324
+New York,7/18/2020,10936
+New York,7/18/2020,288
+New York,7/18/2020,229
+New York,7/18/2020,94
+New York,7/18/2020,1390
+New York,7/18/2020,650
+New York,7/18/2020,13784
+New York,7/18/2020,635
+New York,7/18/2020,910
+New York,7/18/2020,62
+New York,7/18/2020,16
+New York,7/18/2020,78
+New York,7/18/2020,242
+New York,7/18/2020,280
+New York,7/18/2020,42440
+New York,7/18/2020,1473
+New York,7/18/2020,169
+New York,7/18/2020,199
+New York,7/18/2020,1900
+New York,7/18/2020,286
+New York,7/18/2020,250
+New York,7/18/2020,225
+New York,7/18/2020,35502
+New York,7/18/2020,104
+New York,7/18/2020,51
 Texas,7/18/2020,2017
 Texas,7/18/2020,187
 Texas,7/18/2020,1000
@@ -48785,6 +55965,64 @@ Georgia,7/19/2020,146
 Georgia,7/19/2020,144
 Georgia,7/19/2020,133
 Georgia,7/19/2020,374
+New York,7/19/2020,2318
+New York,7/19/2020,71
+New York,7/19/2020,883
+New York,7/19/2020,145
+New York,7/19/2020,129
+New York,7/19/2020,194
+New York,7/19/2020,154
+New York,7/19/2020,182
+New York,7/19/2020,113
+New York,7/19/2020,492
+New York,7/19/2020,69
+New York,7/19/2020,93
+New York,7/19/2020,4376
+New York,7/19/2020,8035
+New York,7/19/2020,59
+New York,7/19/2020,40
+New York,7/19/2020,267
+New York,7/19/2020,257
+New York,7/19/2020,272
+New York,7/19/2020,6
+New York,7/19/2020,206
+New York,7/19/2020,105
+New York,7/19/2020,33
+New York,7/19/2020,158
+New York,7/19/2020,383
+New York,7/19/2020,4402
+New York,7/19/2020,143
+New York,7/19/2020,42622
+New York,7/19/2020,226104
+New York,7/19/2020,1382
+New York,7/19/2020,1940
+New York,7/19/2020,3278
+New York,7/19/2020,324
+New York,7/19/2020,10946
+New York,7/19/2020,288
+New York,7/19/2020,229
+New York,7/19/2020,98
+New York,7/19/2020,1391
+New York,7/19/2020,651
+New York,7/19/2020,13793
+New York,7/19/2020,637
+New York,7/19/2020,915
+New York,7/19/2020,62
+New York,7/19/2020,16
+New York,7/19/2020,80
+New York,7/19/2020,242
+New York,7/19/2020,281
+New York,7/19/2020,42466
+New York,7/19/2020,1473
+New York,7/19/2020,170
+New York,7/19/2020,208
+New York,7/19/2020,1901
+New York,7/19/2020,287
+New York,7/19/2020,250
+New York,7/19/2020,227
+New York,7/19/2020,35514
+New York,7/19/2020,104
+New York,7/19/2020,51
 Texas,7/19/2020,2017
 Texas,7/19/2020,189
 Texas,7/19/2020,1000
