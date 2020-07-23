@@ -1,14 +1,16 @@
 # Do you trust your data?  A comparison of 3 data sources for Covid-19 analysis.
 
-## Data comparison data from 3 U.S. states using 3 different datasets – 
+## Data comparison data from 3 U.S. states using 5 different datasets – 
+* Florida
 * Georgia
+* New York
 * Texas
 * Washington 
 
 ## Questions for analysis:
 * How do the 3 datasets compare?  Are there any consistencies in data?  Is there any bias in the data sources?
 * What % of population is tested?  How much does testing vary from state to state?
-* Was there any impact from the state shutdown and reopen timing on these three states?
+* Was there any impact from the state shutdown and reopening timing on these five states?
 
 ## References:
 * https://covidtracking.com/data/download
