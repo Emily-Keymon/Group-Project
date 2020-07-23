@@ -1,6 +1,6 @@
 # Do you trust your data?  A comparison of 3 data sources for Covid-19 analysis.
 
-## Data comparison data from 3 U.S. states using 5 different datasets – 
+## Data comparison data from 5 U.S. states using 3 different datasets – 
 * Florida
 * Georgia
 * New York
