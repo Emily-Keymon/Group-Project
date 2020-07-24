@@ -14,8 +14,8 @@
 
 ## Why did we pick those specific states?
 *  We picked Washington because it was the first state in the United States with a Covid-19 case.  The rest of the country watched the nightmare unfold in disbelief.  Where are they now?  Did the shutdown and reopening timing have an effect on their current number of positive cases?  As of 7/23/2020, Washington is currently down to #22 on the overall positive case counts for the U.S.
-* Florida is currently at #2 in the total positive cases counts. Florida's cases starting increasing to over 1,000 per day starting 6/6/2020.  The largest daily spike so far occured on 7/12/2020 at 15,135.  Did reopening timing have an impact?  Is this spike due to Florida being a summer destination spot?
-* With Texas coming in at #3.  
+* Florida is currently at #2 in the total positive cases counts. Florida's cases starting increasing to over 1,000 per day starting 6/6/2020.  The largest daily spike so far occured on 7/12/2020 at 15,135.  The seven day average is currently 11, 006.  Did reopening timing have an impact?  Is this spike due to Florida being a summer destination spot?
+* Texas is currently coming in at #3 on the list.  Texas started seeing daily cases over 1,000 starting 5/5/2020.  The largest daily spike so far occured on 7/17/2020 at 14,196.  The seven day average is currently 9,893.
 * New York got the worst out break 
 
 * New York and Texas are currently in the top 10 of positive cases in the country.  Florida is #2, Texas is #3 and New York is #5.
