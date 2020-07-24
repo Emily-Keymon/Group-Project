@@ -12,6 +12,12 @@
 * What % of population is tested?  How much does testing vary from state to state?
 * Was there any impact from the state shutdown and reopening timing on these five states?
 
+## Why did we pick those specific states?
+*  We picked Washington because it was the first state in the United States with a Covid-19 case.  The rest of the country watched the nightmare unfold in disbelief.  Where are they now?
+* 
+
+
+
 ## References:
 * https://covidtracking.com/data/download
 * https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset?select=us-counties.csv
