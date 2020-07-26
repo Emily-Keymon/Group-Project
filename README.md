@@ -1,4 +1,5 @@
-# Do you trust your data?  COVID-19 comparison analysis utilizing three data sources
+# DO YOU TRUST YOUR DATA?
+## COVID-19 comparison analysis utilizing three data sources
 
 ## Data comparison of the following five U.S. states:
 * Florida
