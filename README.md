@@ -8,9 +8,6 @@
 * Texas
 * Washington 
 
-## Hypothesis:
-* Comparing three Covid-19 data sets will show inconsistencies in data reporting.
-
 ## Questions for analysis:
 * How do the three data sets compare?  Are there any consistencies in data?  Is there any bias in the data sources?
 * What % of population is tested?  How much does testing vary from state to state?
