@@ -16,7 +16,7 @@
 * Was there any impact from the state shutdown and reopening timing on these five states?
 
 ## Why did we pick those specific states?
-#### All state data as of 7/22/20
+*All state data as of 7/22/20
 
 * We chose Connecticut, New Jersey and New York because the governors of these states took collective measures to contain COVID-19.  Their shutdown dates are within a day of each other and all three states are still shutdown.
 * We chose Florida, Georgia and Texas because these three states have shelter in place dates and reopening dates that are very close together as well.
