@@ -33,9 +33,9 @@
 
 
 ## Answers to our questions:
-*  A t-test analysis was performed.  This resulted in t-scores with p-values larger than .05.  Therefore, the difference found is not statistically significanlty different.
+*  A histogram was plotted for this question.  The data sets overlayed each other indicating the data sets are similar.  For further analysis, a t-test analysis was performed.  This resulted in t-scores with p-values larger than .05.  Therefore, the difference found is not statistically significanlty different.
 * The correlation coefficient between testing percentages and COVID-19 count was only 0.12, which indicates there is no relationship between the two variables. This is also demonstrated in the scatter plot where the data points are spread all over rather than being clustered in a linear fashion. The r-squared value of 0.0136 indicates that only 1.36% of the movements of daily COVID-19 count (dependent variable) are explained by the movements in the testing percentage (independent variable). Thus, there is no relationship between the two at all.
-*
+* The t-test produced a p-value that is significantly smaller than 0.05, which indicates that the differences between the average COVID-19 daily cases in the two state groups is statistically significant. This indicates that the reopening of bars, nightclubs, recreational venues, and lax restaurant dine-in policies significantly contributed to higher transmissions of COVID-19.
 
 
 ## References:
