@@ -11,9 +11,9 @@
 
 
 ## Questions for analysis:
-* How do the three data sets compare?  Are there any consistencies in data?  Is there any bias in the data sources?
-* What % of population is tested?  How much does testing vary from state to state?
-* Was there any impact from the state shutdown and reopening timing on these states?
+* How do the three data sets compare?  Do they reveal either consistencies or inconsistencies?
+* What % of population was tested and how much does testing vary from state to state? Does the testing percentages correlate to COVID-19 count?
+* Did the state shutdown and reopening timings of these six states impact the daily new COVID-19 cases? Did the reopening of specific businesses in certain states cause COVID-19 transmission to skyrocket?
 
 ## Why did we pick those specific states?
 *All state data as of 7/22/20
@@ -33,8 +33,8 @@
 
 
 ## Answers to our questions:
-*  
-*
+*  A t-test analysis was performed.  This resulted in t-scores with p-values larger than .05.  Therefore, the difference found is not statistically significanlty different.
+* The correlation coefficient between testing percentages and COVID-19 count was only 0.12, which indicates there is no relationship between the two variables. This is also demonstrated in the scatter plot where the data points are spread all over rather than being clustered in a linear fashion. The r-squared value of 0.0136 indicates that only 1.36% of the movements of daily COVID-19 count (dependent variable) are explained by the movements in the testing percentage (independent variable). Thus, there is no relationship between the two at all.
 *
 
 
