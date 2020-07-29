@@ -1,4 +1,136 @@
 state,date,positive cases
+Connecticut,2020-03-08,1
+Connecticut,2020-03-09,2
+Connecticut,2020-03-10,2
+Connecticut,2020-03-11,3
+Connecticut,2020-03-12,6
+Connecticut,2020-03-13,11
+Connecticut,2020-03-14,20
+Connecticut,2020-03-15,26
+Connecticut,2020-03-16,41
+Connecticut,2020-03-17,68
+Connecticut,2020-03-18,96
+Connecticut,2020-03-19,159
+Connecticut,2020-03-20,194
+Connecticut,2020-03-21,223
+Connecticut,2020-03-22,327
+Connecticut,2020-03-23,415
+Connecticut,2020-03-24,618
+Connecticut,2020-03-25,875
+Connecticut,2020-03-26,1012
+Connecticut,2020-03-27,1291
+Connecticut,2020-03-28,1524
+Connecticut,2020-03-29,1993
+Connecticut,2020-03-30,2571
+Connecticut,2020-03-31,3128
+Connecticut,2020-04-01,3557
+Connecticut,2020-04-02,3824
+Connecticut,2020-04-03,4915
+Connecticut,2020-04-04,5276
+Connecticut,2020-04-05,5675
+Connecticut,2020-04-06,6906
+Connecticut,2020-04-07,7781
+Connecticut,2020-04-08,8781
+Connecticut,2020-04-09,9784
+Connecticut,2020-04-10,10538
+Connecticut,2020-04-11,11510
+Connecticut,2020-04-12,12035
+Connecticut,2020-04-13,13381
+Connecticut,2020-04-14,13989
+Connecticut,2020-04-15,14755
+Connecticut,2020-04-16,15884
+Connecticut,2020-04-17,16809
+Connecticut,2020-04-18,17550
+Connecticut,2020-04-19,17962
+Connecticut,2020-04-20,19815
+Connecticut,2020-04-21,20360
+Connecticut,2020-04-22,22469
+Connecticut,2020-04-23,23100
+Connecticut,2020-04-24,23921
+Connecticut,2020-04-25,24582
+Connecticut,2020-04-26,25269
+Connecticut,2020-04-27,25997
+Connecticut,2020-04-28,26312
+Connecticut,2020-04-29,26767
+Connecticut,2020-04-30,27700
+Connecticut,2020-05-01,28764
+Connecticut,2020-05-02,29287
+Connecticut,2020-05-03,29287
+Connecticut,2020-05-04,29973
+Connecticut,2020-05-05,30621
+Connecticut,2020-05-06,30995
+Connecticut,2020-05-07,31784
+Connecticut,2020-05-08,32411
+Connecticut,2020-05-09,32984
+Connecticut,2020-05-10,33554
+Connecticut,2020-05-11,33765
+Connecticut,2020-05-12,34333
+Connecticut,2020-05-13,34855
+Connecticut,2020-05-14,35464
+Connecticut,2020-05-15,36085
+Connecticut,2020-05-16,36703
+Connecticut,2020-05-17,37419
+Connecticut,2020-05-18,38116
+Connecticut,2020-05-19,38430
+Connecticut,2020-05-20,39017
+Connecticut,2020-05-21,39208
+Connecticut,2020-05-22,39640
+Connecticut,2020-05-23,40022
+Connecticut,2020-05-24,40468
+Connecticut,2020-05-25,40873
+Connecticut,2020-05-26,41303
+Connecticut,2020-05-27,41288
+Connecticut,2020-05-28,41559
+Connecticut,2020-05-29,41762
+Connecticut,2020-05-30,42022
+Connecticut,2020-05-31,42201
+Connecticut,2020-06-01,42740
+Connecticut,2020-06-02,42979
+Connecticut,2020-06-03,43091
+Connecticut,2020-06-04,43239
+Connecticut,2020-06-05,43460
+Connecticut,2020-06-06,43818
+Connecticut,2020-06-07,43968
+Connecticut,2020-06-08,44092
+Connecticut,2020-06-09,44179
+Connecticut,2020-06-10,44347
+Connecticut,2020-06-11,44461
+Connecticut,2020-06-12,44689
+Connecticut,2020-06-13,44994
+Connecticut,2020-06-14,45088
+Connecticut,2020-06-15,45235
+Connecticut,2020-06-16,45349
+Connecticut,2020-06-17,45429
+Connecticut,2020-06-18,45440
+Connecticut,2020-06-19,45557
+Connecticut,2020-06-20,45715
+Connecticut,2020-06-21,45755
+Connecticut,2020-06-22,45782
+Connecticut,2020-06-23,45899
+Connecticut,2020-06-24,45913
+Connecticut,2020-06-25,45994
+Connecticut,2020-06-26,46059
+Connecticut,2020-06-27,46206
+Connecticut,2020-06-28,46303
+Connecticut,2020-06-29,46362
+Connecticut,2020-06-30,46514
+Connecticut,2020-07-01,46572
+Connecticut,2020-07-02,46646
+Connecticut,2020-07-03,46717
+Connecticut,2020-07-04,46717
+Connecticut,2020-07-05,46717
+Connecticut,2020-07-06,46976
+Connecticut,2020-07-07,47033
+Connecticut,2020-07-08,47108
+Connecticut,2020-07-09,47209
+Connecticut,2020-07-10,47287
+Connecticut,2020-07-11,47287
+Connecticut,2020-07-12,47287
+Connecticut,2020-07-13,47510
+Connecticut,2020-07-14,47530
+Connecticut,2020-07-15,47636
+Connecticut,2020-07-16,47750
+Connecticut,2020-07-17,47893
 Florida,2020-03-01,2
 Florida,2020-03-02,2
 Florida,2020-03-03,3
@@ -276,6 +408,142 @@ Georgia,2020-07-14,114579
 Georgia,2020-07-15,118147
 Georgia,2020-07-16,120848
 Georgia,2020-07-17,124267
+New Jersey,2020-03-04,1
+New Jersey,2020-03-05,2
+New Jersey,2020-03-06,4
+New Jersey,2020-03-07,4
+New Jersey,2020-03-08,6
+New Jersey,2020-03-09,11
+New Jersey,2020-03-10,15
+New Jersey,2020-03-11,23
+New Jersey,2020-03-12,29
+New Jersey,2020-03-13,50
+New Jersey,2020-03-14,75
+New Jersey,2020-03-15,98
+New Jersey,2020-03-16,176
+New Jersey,2020-03-17,268
+New Jersey,2020-03-18,427
+New Jersey,2020-03-19,735
+New Jersey,2020-03-20,896
+New Jersey,2020-03-21,1336
+New Jersey,2020-03-22,1914
+New Jersey,2020-03-23,2844
+New Jersey,2020-03-24,3675
+New Jersey,2020-03-25,4402
+New Jersey,2020-03-26,6876
+New Jersey,2020-03-27,8825
+New Jersey,2020-03-28,11124
+New Jersey,2020-03-29,13386
+New Jersey,2020-03-30,16636
+New Jersey,2020-03-31,18696
+New Jersey,2020-04-01,22255
+New Jersey,2020-04-02,25590
+New Jersey,2020-04-03,29895
+New Jersey,2020-04-04,34124
+New Jersey,2020-04-05,37505
+New Jersey,2020-04-06,41090
+New Jersey,2020-04-07,44416
+New Jersey,2020-04-08,47437
+New Jersey,2020-04-09,51027
+New Jersey,2020-04-10,54588
+New Jersey,2020-04-11,58151
+New Jersey,2020-04-12,61850
+New Jersey,2020-04-13,64584
+New Jersey,2020-04-14,68824
+New Jersey,2020-04-15,71030
+New Jersey,2020-04-16,75317
+New Jersey,2020-04-17,78467
+New Jersey,2020-04-18,81420
+New Jersey,2020-04-19,85301
+New Jersey,2020-04-20,88806
+New Jersey,2020-04-21,92387
+New Jersey,2020-04-22,95865
+New Jersey,2020-04-23,99989
+New Jersey,2020-04-24,102196
+New Jersey,2020-04-25,105523
+New Jersey,2020-04-26,109038
+New Jersey,2020-04-27,111188
+New Jersey,2020-04-28,113856
+New Jersey,2020-04-29,116264
+New Jersey,2020-04-30,118652
+New Jersey,2020-05-01,121190
+New Jersey,2020-05-02,123717
+New Jersey,2020-05-03,126744
+New Jersey,2020-05-04,128269
+New Jersey,2020-05-05,130593
+New Jersey,2020-05-06,131890
+New Jersey,2020-05-07,133635
+New Jersey,2020-05-08,135454
+New Jersey,2020-05-09,137085
+New Jersey,2020-05-10,138532
+New Jersey,2020-05-11,139945
+New Jersey,2020-05-12,140743
+New Jersey,2020-05-13,141560
+New Jersey,2020-05-14,142704
+New Jersey,2020-05-15,143905
+New Jersey,2020-05-16,145089
+New Jersey,2020-05-17,146334
+New Jersey,2020-05-18,148039
+New Jersey,2020-05-19,149013
+New Jersey,2020-05-20,150399
+New Jersey,2020-05-21,151472
+New Jersey,2020-05-22,152719
+New Jersey,2020-05-23,153104
+New Jersey,2020-05-24,154154
+New Jersey,2020-05-25,155092
+New Jersey,2020-05-26,155764
+New Jersey,2020-05-27,156628
+New Jersey,2020-05-28,157815
+New Jersey,2020-05-29,158844
+New Jersey,2020-05-30,159608
+New Jersey,2020-05-31,160445
+New Jersey,2020-06-01,160918
+New Jersey,2020-06-02,161545
+New Jersey,2020-06-03,162068
+New Jersey,2020-06-04,162530
+New Jersey,2020-06-05,163336
+New Jersey,2020-06-06,163893
+New Jersey,2020-06-07,164164
+New Jersey,2020-06-08,164497
+New Jersey,2020-06-09,164796
+New Jersey,2020-06-10,165346
+New Jersey,2020-06-11,165816
+New Jersey,2020-06-12,166164
+New Jersey,2020-06-13,166605
+New Jersey,2020-06-14,166881
+New Jersey,2020-06-15,167103
+New Jersey,2020-06-16,167426
+New Jersey,2020-06-17,167703
+New Jersey,2020-06-18,168107
+New Jersey,2020-06-19,168496
+New Jersey,2020-06-20,168834
+New Jersey,2020-06-21,169142
+New Jersey,2020-06-22,169415
+New Jersey,2020-06-23,169734
+New Jersey,2020-06-24,169892
+New Jersey,2020-06-25,172050
+New Jersey,2020-06-26,172438
+New Jersey,2020-06-27,172727
+New Jersey,2020-06-28,173036
+New Jersey,2020-06-29,173126
+New Jersey,2020-06-30,173521
+New Jersey,2020-07-01,173782
+New Jersey,2020-07-02,174212
+New Jersey,2020-07-03,174598
+New Jersey,2020-07-04,174889
+New Jersey,2020-07-05,175258
+New Jersey,2020-07-06,175467
+New Jersey,2020-07-07,175734
+New Jersey,2020-07-08,175986
+New Jersey,2020-07-09,176217
+New Jersey,2020-07-10,176575
+New Jersey,2020-07-11,176906
+New Jersey,2020-07-12,177245
+New Jersey,2020-07-13,177469
+New Jersey,2020-07-14,177862
+New Jersey,2020-07-15,178252
+New Jersey,2020-07-16,178475
+New Jersey,2020-07-17,178525
 New York,2020-03-01,1
 New York,2020-03-02,1
 New York,2020-03-03,2
@@ -554,142 +822,3 @@ Texas,2020-07-14,284638
 Texas,2020-07-15,296478
 Texas,2020-07-16,311516
 Texas,2020-07-17,321254
-Washington,2020-03-01,17
-Washington,2020-03-02,23
-Washington,2020-03-03,32
-Washington,2020-03-04,47
-Washington,2020-03-05,75
-Washington,2020-03-06,86
-Washington,2020-03-07,110
-Washington,2020-03-08,141
-Washington,2020-03-09,179
-Washington,2020-03-10,279
-Washington,2020-03-11,338
-Washington,2020-03-12,419
-Washington,2020-03-13,511
-Washington,2020-03-14,609
-Washington,2020-03-15,675
-Washington,2020-03-16,794
-Washington,2020-03-17,908
-Washington,2020-03-18,1026
-Washington,2020-03-19,1228
-Washington,2020-03-20,1404
-Washington,2020-03-21,1655
-Washington,2020-03-22,1844
-Washington,2020-03-23,2101
-Washington,2020-03-24,2469
-Washington,2020-03-25,2585
-Washington,2020-03-26,3208
-Washington,2020-03-27,3770
-Washington,2020-03-28,4311
-Washington,2020-03-29,4897
-Washington,2020-03-30,5180
-Washington,2020-03-31,5293
-Washington,2020-04-01,5589
-Washington,2020-04-02,6586
-Washington,2020-04-03,6967
-Washington,2020-04-04,7499
-Washington,2020-04-05,7985
-Washington,2020-04-06,8385
-Washington,2020-04-07,8683
-Washington,2020-04-08,9098
-Washington,2020-04-09,9609
-Washington,2020-04-10,9888
-Washington,2020-04-11,10227
-Washington,2020-04-12,10414
-Washington,2020-04-13,10547
-Washington,2020-04-14,10711
-Washington,2020-04-15,10806
-Washington,2020-04-16,11180
-Washington,2020-04-17,11479
-Washington,2020-04-18,11850
-Washington,2020-04-19,11864
-Washington,2020-04-20,12255
-Washington,2020-04-21,12410
-Washington,2020-04-22,12606
-Washington,2020-04-23,12981
-Washington,2020-04-24,13197
-Washington,2020-04-25,13565
-Washington,2020-04-26,13744
-Washington,2020-04-27,13958
-Washington,2020-04-28,14165
-Washington,2020-04-29,14490
-Washington,2020-04-30,14814
-Washington,2020-05-01,15134
-Washington,2020-05-02,15383
-Washington,2020-05-03,15943
-Washington,2020-05-04,16047
-Washington,2020-05-05,16234
-Washington,2020-05-06,16873
-Washington,2020-05-07,17187
-Washington,2020-05-08,17477
-Washington,2020-05-09,17629
-Washington,2020-05-10,17781
-Washington,2020-05-11,18172
-Washington,2020-05-12,18382
-Washington,2020-05-13,18492
-Washington,2020-05-14,18861
-Washington,2020-05-15,19131
-Washington,2020-05-16,19336
-Washington,2020-05-17,19514
-Washington,2020-05-18,19756
-Washington,2020-05-19,19988
-Washington,2020-05-20,20110
-Washington,2020-05-21,20280
-Washington,2020-05-22,20526
-Washington,2020-05-23,20740
-Washington,2020-05-24,20989
-Washington,2020-05-25,21265
-Washington,2020-05-26,21538
-Washington,2020-05-27,21825
-Washington,2020-05-28,22091
-Washington,2020-05-29,22377
-Washington,2020-05-30,22618
-Washington,2020-05-31,22814
-Washington,2020-06-01,23272
-Washington,2020-06-02,23608
-Washington,2020-06-03,23776
-Washington,2020-06-04,23999
-Washington,2020-06-05,24546
-Washington,2020-06-06,24767
-Washington,2020-06-07,25064
-Washington,2020-06-08,25593
-Washington,2020-06-09,25796
-Washington,2020-06-10,25940
-Washington,2020-06-11,26172
-Washington,2020-06-12,26576
-Washington,2020-06-13,26920
-Washington,2020-06-14,27135
-Washington,2020-06-15,27577
-Washington,2020-06-16,27949
-Washington,2020-06-17,28270
-Washington,2020-06-18,28663
-Washington,2020-06-19,29045
-Washington,2020-06-20,29466
-Washington,2020-06-21,29797
-Washington,2020-06-22,30443
-Washington,2020-06-23,30778
-Washington,2020-06-24,31400
-Washington,2020-06-25,31998
-Washington,2020-06-26,32489
-Washington,2020-06-27,33031
-Washington,2020-06-28,33341
-Washington,2020-06-29,34036
-Washington,2020-06-30,34541
-Washington,2020-07-01,35258
-Washington,2020-07-02,35921
-Washington,2020-07-03,36417
-Washington,2020-07-04,36799
-Washington,2020-07-05,37468
-Washington,2020-07-06,38517
-Washington,2020-07-07,39063
-Washington,2020-07-08,39661
-Washington,2020-07-09,40369
-Washington,2020-07-10,41090
-Washington,2020-07-11,41326
-Washington,2020-07-12,42181
-Washington,2020-07-13,43538
-Washington,2020-07-14,44257
-Washington,2020-07-15,45004
-Washington,2020-07-16,46268
-Washington,2020-07-17,47226
