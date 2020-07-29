@@ -19,7 +19,8 @@
 #### All state data as of 7/22/20
 
 * We chose Connecticut, New Jersey and New York because the governors of these states took collective measures to contain COVID-19.  Their shutdown dates are within a day of each other and all three states are still shutdown.
-* We chose Florida, Georgia and Texas because these three states have shelter in place dates and reopening dates that are very close.
+* We chose Florida, Georgia and Texas because these three states have shelter in place dates and reopening dates that are very close together as well.
+
 
 ### State stats:
 * Connecticut was #26 in total positive case counts.  Connecticut's largest spike occurred on 4/22/20 at 2,109 cases per day.  The 7-day average is currently 84.
