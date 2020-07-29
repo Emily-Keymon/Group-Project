@@ -1,0 +1,782 @@
+State,Date,Daily_Count
+Connecticut,2020-03-08,0
+Connecticut,2020-03-09,0
+Connecticut,2020-03-10,1
+Connecticut,2020-03-11,1
+Connecticut,2020-03-12,3
+Connecticut,2020-03-13,0
+Connecticut,2020-03-14,5
+Connecticut,2020-03-15,9
+Connecticut,2020-03-16,6
+Connecticut,2020-03-17,15
+Connecticut,2020-03-18,27
+Connecticut,2020-03-19,28
+Connecticut,2020-03-20,98
+Connecticut,2020-03-21,0
+Connecticut,2020-03-22,29
+Connecticut,2020-03-23,192
+Connecticut,2020-03-24,203
+Connecticut,2020-03-25,257
+Connecticut,2020-03-26,137
+Connecticut,2020-03-27,279
+Connecticut,2020-03-28,0
+Connecticut,2020-03-29,702
+Connecticut,2020-03-30,578
+Connecticut,2020-03-31,557
+Connecticut,2020-04-01,429
+Connecticut,2020-04-02,267
+Connecticut,2020-04-03,1090
+Connecticut,2020-04-04,362
+Connecticut,2020-04-05,399
+Connecticut,2020-04-06,1231
+Connecticut,2020-04-07,875
+Connecticut,2020-04-08,0
+Connecticut,2020-04-09,2003
+Connecticut,2020-04-10,754
+Connecticut,2020-04-11,972
+Connecticut,2020-04-12,525
+Connecticut,2020-04-13,1346
+Connecticut,2020-04-14,608
+Connecticut,2020-04-15,766
+Connecticut,2020-04-16,1129
+Connecticut,2020-04-17,925
+Connecticut,2020-04-18,0
+Connecticut,2020-04-19,741
+Connecticut,2020-04-20,2265
+Connecticut,2020-04-21,545
+Connecticut,2020-04-22,2109
+Connecticut,2020-04-23,631
+Connecticut,2020-04-24,821
+Connecticut,2020-04-25,661
+Connecticut,2020-04-26,687
+Connecticut,2020-04-27,0
+Connecticut,2020-04-28,1043
+Connecticut,2020-04-29,455
+Connecticut,2020-04-30,933
+Connecticut,2020-05-01,1064
+Connecticut,2020-05-02,0
+Connecticut,2020-05-03,523
+Connecticut,2020-05-04,0
+Connecticut,2020-05-05,1334
+Connecticut,2020-05-06,374
+Connecticut,2020-05-07,789
+Connecticut,2020-05-08,627
+Connecticut,2020-05-09,573
+Connecticut,2020-05-10,570
+Connecticut,2020-05-11,211
+Connecticut,2020-05-12,568
+Connecticut,2020-05-13,522
+Connecticut,2020-05-14,609
+Connecticut,2020-05-15,621
+Connecticut,2020-05-16,618
+Connecticut,2020-05-17,716
+Connecticut,2020-05-18,697
+Connecticut,2020-05-19,314
+Connecticut,2020-05-20,587
+Connecticut,2020-05-21,191
+Connecticut,2020-05-22,432
+Connecticut,2020-05-23,382
+Connecticut,2020-05-24,446
+Connecticut,2020-05-25,405
+Connecticut,2020-05-26,430
+Connecticut,2020-05-27,-15
+Connecticut,2020-05-28,271
+Connecticut,2020-05-29,203
+Connecticut,2020-05-30,260
+Connecticut,2020-05-31,179
+Connecticut,2020-06-01,539
+Connecticut,2020-06-02,239
+Connecticut,2020-06-03,112
+Connecticut,2020-06-04,148
+Connecticut,2020-06-05,221
+Connecticut,2020-06-06,358
+Connecticut,2020-06-07,150
+Connecticut,2020-06-08,124
+Connecticut,2020-06-09,87
+Connecticut,2020-06-10,168
+Connecticut,2020-06-11,114
+Connecticut,2020-06-12,228
+Connecticut,2020-06-13,305
+Connecticut,2020-06-14,94
+Connecticut,2020-06-15,147
+Connecticut,2020-06-16,114
+Connecticut,2020-06-17,80
+Connecticut,2020-06-18,11
+Connecticut,2020-06-19,117
+Connecticut,2020-06-20,158
+Connecticut,2020-06-21,40
+Connecticut,2020-06-22,27
+Connecticut,2020-06-23,117
+Connecticut,2020-06-24,14
+Connecticut,2020-06-25,81
+Connecticut,2020-06-26,65
+Connecticut,2020-06-27,147
+Connecticut,2020-06-28,97
+Connecticut,2020-06-29,59
+Connecticut,2020-06-30,152
+Connecticut,2020-07-01,58
+Connecticut,2020-07-02,74
+Connecticut,2020-07-03,71
+Connecticut,2020-07-04,0
+Connecticut,2020-07-05,0
+Connecticut,2020-07-06,259
+Connecticut,2020-07-07,57
+Connecticut,2020-07-08,75
+Connecticut,2020-07-09,101
+Connecticut,2020-07-10,78
+Connecticut,2020-07-11,0
+Connecticut,2020-07-12,0
+Connecticut,2020-07-13,223
+Connecticut,2020-07-14,20
+Connecticut,2020-07-15,106
+Connecticut,2020-07-16,114
+Connecticut,2020-07-17,143
+Florida,2020-03-04,0
+Florida,2020-03-05,7
+Florida,2020-03-06,0
+Florida,2020-03-07,5
+Florida,2020-03-08,3
+Florida,2020-03-09,1
+Florida,2020-03-10,1
+Florida,2020-03-11,9
+Florida,2020-03-12,4
+Florida,2020-03-13,18
+Florida,2020-03-14,27
+Florida,2020-03-15,39
+Florida,2020-03-16,25
+Florida,2020-03-17,45
+Florida,2020-03-18,128
+Florida,2020-03-19,76
+Florida,2020-03-20,130
+Florida,2020-03-21,138
+Florida,2020-03-22,172
+Florida,2020-03-23,341
+Florida,2020-03-24,241
+Florida,2020-03-25,270
+Florida,2020-03-26,673
+Florida,2020-03-27,410
+Florida,2020-03-28,998
+Florida,2020-03-29,483
+Florida,2020-03-30,1227
+Florida,2020-03-31,865
+Florida,2020-04-01,617
+Florida,2020-04-02,1055
+Florida,2020-04-03,1575
+Florida,2020-04-04,1526
+Florida,2020-04-05,1040
+Florida,2020-04-06,1173
+Florida,2020-04-07,1423
+Florida,2020-04-08,708
+Florida,2020-04-09,909
+Florida,2020-04-10,1167
+Florida,2020-04-11,963
+Florida,2020-04-12,861
+Florida,2020-04-13,1246
+Florida,2020-04-14,766
+Florida,2020-04-15,1144
+Florida,2020-04-16,386
+Florida,2020-04-17,1222
+Florida,2020-04-18,1150
+Florida,2020-04-19,727
+Florida,2020-04-20,664
+Florida,2020-04-21,835
+Florida,2020-04-22,814
+Florida,2020-04-23,523
+Florida,2020-04-24,1342
+Florida,2020-04-25,665
+Florida,2020-04-26,689
+Florida,2020-04-27,610
+Florida,2020-04-28,708
+Florida,2020-04-29,347
+Florida,2020-04-30,497
+Florida,2020-05-01,1038
+Florida,2020-05-02,735
+Florida,2020-05-03,615
+Florida,2020-05-04,819
+Florida,2020-05-05,542
+Florida,2020-05-06,563
+Florida,2020-05-07,826
+Florida,2020-05-08,371
+Florida,2020-05-09,802
+Florida,2020-05-10,595
+Florida,2020-05-11,386
+Florida,2020-05-12,941
+Florida,2020-05-13,479
+Florida,2020-05-14,808
+Florida,2020-05-15,0
+Florida,2020-05-16,1601
+Florida,2020-05-17,777
+Florida,2020-05-18,854
+Florida,2020-05-19,502
+Florida,2020-05-20,527
+Florida,2020-05-21,1204
+Florida,2020-05-22,776
+Florida,2020-05-23,676
+Florida,2020-05-24,740
+Florida,2020-05-25,879
+Florida,2020-05-26,509
+Florida,2020-05-27,379
+Florida,2020-05-28,651
+Florida,2020-05-29,1212
+Florida,2020-05-30,927
+Florida,2020-05-31,739
+Florida,2020-06-01,667
+Florida,2020-06-02,617
+Florida,2020-06-03,1317
+Florida,2020-06-04,1419
+Florida,2020-06-05,1305
+Florida,2020-06-06,1270
+Florida,2020-06-07,1180
+Florida,2020-06-08,966
+Florida,2020-06-09,1096
+Florida,2020-06-10,1371
+Florida,2020-06-11,1698
+Florida,2020-06-12,1902
+Florida,2020-06-13,2581
+Florida,2020-06-14,2016
+Florida,2020-06-15,1758
+Florida,2020-06-16,2783
+Florida,2020-06-17,2610
+Florida,2020-06-18,3207
+Florida,2020-06-19,3822
+Florida,2020-06-20,4049
+Florida,2020-06-21,3494
+Florida,2020-06-22,2926
+Florida,2020-06-23,3286
+Florida,2020-06-24,5511
+Florida,2020-06-25,5004
+Florida,2020-06-26,8942
+Florida,2020-06-27,9585
+Florida,2020-06-28,8530
+Florida,2020-06-29,5266
+Florida,2020-06-30,6093
+Florida,2020-07-01,6563
+Florida,2020-07-02,10109
+Florida,2020-07-03,9488
+Florida,2020-07-04,11458
+Florida,2020-07-05,10059
+Florida,2020-07-06,6336
+Florida,2020-07-07,7347
+Florida,2020-07-08,9989
+Florida,2020-07-09,8935
+Florida,2020-07-10,11433
+Florida,2020-07-11,10360
+Florida,2020-07-12,15300
+Florida,2020-07-13,12624
+Florida,2020-07-14,9194
+Florida,2020-07-15,10181
+Florida,2020-07-16,13965
+Florida,2020-07-17,11466
+Georgia,2020-03-18,0
+Georgia,2020-03-19,90
+Georgia,2020-03-20,133
+Georgia,2020-03-21,87
+Georgia,2020-03-22,93
+Georgia,2020-03-23,172
+Georgia,2020-03-24,254
+Georgia,2020-03-25,221
+Georgia,2020-03-26,278
+Georgia,2020-03-27,476
+Georgia,2020-03-28,365
+Georgia,2020-03-29,285
+Georgia,2020-03-30,158
+Georgia,2020-03-31,1120
+Georgia,2020-04-01,709
+Georgia,2020-04-02,710
+Georgia,2020-04-03,483
+Georgia,2020-04-04,329
+Georgia,2020-04-05,487
+Georgia,2020-04-06,667
+Georgia,2020-04-07,1504
+Georgia,2020-04-08,1083
+Georgia,2020-04-09,665
+Georgia,2020-04-10,917
+Georgia,2020-04-11,676
+Georgia,2020-04-12,293
+Georgia,2020-04-13,863
+Georgia,2020-04-14,908
+Georgia,2020-04-15,764
+Georgia,2020-04-16,682
+Georgia,2020-04-17,1525
+Georgia,2020-04-18,475
+Georgia,2020-04-19,632
+Georgia,2020-04-20,646
+Georgia,2020-04-21,934
+Georgia,2020-04-22,859
+Georgia,2020-04-23,772
+Georgia,2020-04-24,635
+Georgia,2020-04-25,548
+Georgia,2020-04-26,706
+Georgia,2020-04-27,512
+Georgia,2020-04-28,702
+Georgia,2020-04-29,957
+Georgia,2020-04-30,583
+Georgia,2020-05-01,1115
+Georgia,2020-05-02,1036
+Georgia,2020-05-03,296
+Georgia,2020-05-04,766
+Georgia,2020-05-05,343
+Georgia,2020-05-06,985
+Georgia,2020-05-07,743
+Georgia,2020-05-08,667
+Georgia,2020-05-09,426
+Georgia,2020-05-10,909
+Georgia,2020-05-11,486
+Georgia,2020-05-12,708
+Georgia,2020-05-13,697
+Georgia,2020-05-14,526
+Georgia,2020-05-15,823
+Georgia,2020-05-16,466
+Georgia,2020-05-17,554
+Georgia,2020-05-18,380
+Georgia,2020-05-19,640
+Georgia,2020-05-20,926
+Georgia,2020-05-21,758
+Georgia,2020-05-22,813
+Georgia,2020-05-23,914
+Georgia,2020-05-24,706
+Georgia,2020-05-25,506
+Georgia,2020-05-26,386
+Georgia,2020-05-27,691
+Georgia,2020-05-28,649
+Georgia,2020-05-29,600
+Georgia,2020-05-30,616
+Georgia,2020-05-31,700
+Georgia,2020-06-01,632
+Georgia,2020-06-02,589
+Georgia,2020-06-03,687
+Georgia,2020-06-04,953
+Georgia,2020-06-05,774
+Georgia,2020-06-06,688
+Georgia,2020-06-07,589
+Georgia,2020-06-08,599
+Georgia,2020-06-09,752
+Georgia,2020-06-10,731
+Georgia,2020-06-11,993
+Georgia,2020-06-12,810
+Georgia,2020-06-13,1018
+Georgia,2020-06-14,880
+Georgia,2020-06-15,733
+Georgia,2020-06-16,664
+Georgia,2020-06-17,952
+Georgia,2020-06-18,882
+Georgia,2020-06-19,1097
+Georgia,2020-06-20,1800
+Georgia,2020-06-21,892
+Georgia,2020-06-22,1227
+Georgia,2020-06-23,1750
+Georgia,2020-06-24,1703
+Georgia,2020-06-25,1714
+Georgia,2020-06-26,1900
+Georgia,2020-06-27,1990
+Georgia,2020-06-28,2225
+Georgia,2020-06-29,2207
+Georgia,2020-06-30,1874
+Georgia,2020-07-01,2946
+Georgia,2020-07-02,3472
+Georgia,2020-07-03,2784
+Georgia,2020-07-04,2826
+Georgia,2020-07-05,2197
+Georgia,2020-07-06,1548
+Georgia,2020-07-07,3406
+Georgia,2020-07-08,3420
+Georgia,2020-07-09,2837
+Georgia,2020-07-10,4484
+Georgia,2020-07-11,3190
+Georgia,2020-07-12,2525
+Georgia,2020-07-13,3643
+Georgia,2020-07-14,3394
+Georgia,2020-07-15,3871
+Georgia,2020-07-16,3441
+Georgia,2020-07-17,3908
+New Jersey,2020-03-08,0
+New Jersey,2020-03-09,5
+New Jersey,2020-03-10,4
+New Jersey,2020-03-11,9
+New Jersey,2020-03-12,6
+New Jersey,2020-03-13,20
+New Jersey,2020-03-14,0
+New Jersey,2020-03-15,48
+New Jersey,2020-03-16,80
+New Jersey,2020-03-17,89
+New Jersey,2020-03-18,160
+New Jersey,2020-03-19,315
+New Jersey,2020-03-20,148
+New Jersey,2020-03-21,437
+New Jersey,2020-03-22,587
+New Jersey,2020-03-23,930
+New Jersey,2020-03-24,831
+New Jersey,2020-03-25,727
+New Jersey,2020-03-26,2474
+New Jersey,2020-03-27,1949
+New Jersey,2020-03-28,2299
+New Jersey,2020-03-29,2262
+New Jersey,2020-03-30,3250
+New Jersey,2020-03-31,2060
+New Jersey,2020-04-01,3559
+New Jersey,2020-04-02,3335
+New Jersey,2020-04-03,4305
+New Jersey,2020-04-04,4229
+New Jersey,2020-04-05,3381
+New Jersey,2020-04-06,3585
+New Jersey,2020-04-07,3326
+New Jersey,2020-04-08,3021
+New Jersey,2020-04-09,3590
+New Jersey,2020-04-10,3561
+New Jersey,2020-04-11,3563
+New Jersey,2020-04-12,3699
+New Jersey,2020-04-13,2734
+New Jersey,2020-04-14,4240
+New Jersey,2020-04-15,2206
+New Jersey,2020-04-16,4287
+New Jersey,2020-04-17,3150
+New Jersey,2020-04-18,2953
+New Jersey,2020-04-19,3881
+New Jersey,2020-04-20,3505
+New Jersey,2020-04-21,3581
+New Jersey,2020-04-22,3478
+New Jersey,2020-04-23,4124
+New Jersey,2020-04-24,2207
+New Jersey,2020-04-25,3327
+New Jersey,2020-04-26,3515
+New Jersey,2020-04-27,2150
+New Jersey,2020-04-28,2668
+New Jersey,2020-04-29,2408
+New Jersey,2020-04-30,2388
+New Jersey,2020-05-01,2538
+New Jersey,2020-05-02,2527
+New Jersey,2020-05-03,3027
+New Jersey,2020-05-04,1525
+New Jersey,2020-05-05,2324
+New Jersey,2020-05-06,1297
+New Jersey,2020-05-07,1745
+New Jersey,2020-05-08,1819
+New Jersey,2020-05-09,1631
+New Jersey,2020-05-10,1447
+New Jersey,2020-05-11,1413
+New Jersey,2020-05-12,798
+New Jersey,2020-05-13,817
+New Jersey,2020-05-14,1144
+New Jersey,2020-05-15,1201
+New Jersey,2020-05-16,1184
+New Jersey,2020-05-17,1245
+New Jersey,2020-05-18,1705
+New Jersey,2020-05-19,974
+New Jersey,2020-05-20,1386
+New Jersey,2020-05-21,1073
+New Jersey,2020-05-22,1247
+New Jersey,2020-05-23,385
+New Jersey,2020-05-24,1050
+New Jersey,2020-05-25,938
+New Jersey,2020-05-26,672
+New Jersey,2020-05-27,864
+New Jersey,2020-05-28,1187
+New Jersey,2020-05-29,1029
+New Jersey,2020-05-30,764
+New Jersey,2020-05-31,837
+New Jersey,2020-06-01,473
+New Jersey,2020-06-02,627
+New Jersey,2020-06-03,523
+New Jersey,2020-06-04,462
+New Jersey,2020-06-05,806
+New Jersey,2020-06-06,557
+New Jersey,2020-06-07,271
+New Jersey,2020-06-08,333
+New Jersey,2020-06-09,299
+New Jersey,2020-06-10,550
+New Jersey,2020-06-11,470
+New Jersey,2020-06-12,348
+New Jersey,2020-06-13,441
+New Jersey,2020-06-14,276
+New Jersey,2020-06-15,222
+New Jersey,2020-06-16,323
+New Jersey,2020-06-17,277
+New Jersey,2020-06-18,404
+New Jersey,2020-06-19,389
+New Jersey,2020-06-20,338
+New Jersey,2020-06-21,308
+New Jersey,2020-06-22,273
+New Jersey,2020-06-23,319
+New Jersey,2020-06-24,158
+New Jersey,2020-06-25,304
+New Jersey,2020-06-26,388
+New Jersey,2020-06-27,289
+New Jersey,2020-06-28,309
+New Jersey,2020-06-29,90
+New Jersey,2020-06-30,395
+New Jersey,2020-07-01,261
+New Jersey,2020-07-02,428
+New Jersey,2020-07-03,386
+New Jersey,2020-07-04,291
+New Jersey,2020-07-05,369
+New Jersey,2020-07-06,209
+New Jersey,2020-07-07,267
+New Jersey,2020-07-08,161
+New Jersey,2020-07-09,201
+New Jersey,2020-07-10,388
+New Jersey,2020-07-11,331
+New Jersey,2020-07-12,339
+New Jersey,2020-07-13,224
+New Jersey,2020-07-14,393
+New Jersey,2020-07-15,363
+New Jersey,2020-07-16,223
+New Jersey,2020-07-17,50
+New York,2020-03-04,0
+New York,2020-03-05,16
+New York,2020-03-06,11
+New York,2020-03-07,43
+New York,2020-03-08,29
+New York,2020-03-09,37
+New York,2020-03-10,31
+New York,2020-03-11,43
+New York,2020-03-12,0
+New York,2020-03-13,205
+New York,2020-03-14,103
+New York,2020-03-15,205
+New York,2020-03-16,221
+New York,2020-03-17,750
+New York,2020-03-18,682
+New York,2020-03-19,1770
+New York,2020-03-20,2950
+New York,2020-03-21,3254
+New York,2020-03-22,4812
+New York,2020-03-23,5707
+New York,2020-03-24,4790
+New York,2020-03-25,5146
+New York,2020-03-26,6447
+New York,2020-03-27,7377
+New York,2020-03-28,7683
+New York,2020-03-29,7195
+New York,2020-03-30,6984
+New York,2020-03-31,9298
+New York,2020-04-01,7917
+New York,2020-04-02,8669
+New York,2020-04-03,10482
+New York,2020-04-04,10841
+New York,2020-04-05,8327
+New York,2020-04-06,8658
+New York,2020-04-07,8174
+New York,2020-04-08,10453
+New York,2020-04-09,10621
+New York,2020-04-10,10575
+New York,2020-04-11,9946
+New York,2020-04-12,8236
+New York,2020-04-13,6337
+New York,2020-04-14,7177
+New York,2020-04-15,11571
+New York,2020-04-16,8505
+New York,2020-04-17,7358
+New York,2020-04-18,7090
+New York,2020-04-19,6054
+New York,2020-04-20,4726
+New York,2020-04-21,4178
+New York,2020-04-22,5526
+New York,2020-04-23,6244
+New York,2020-04-24,8130
+New York,2020-04-25,10553
+New York,2020-04-26,5902
+New York,2020-04-27,3951
+New York,2020-04-28,3110
+New York,2020-04-29,4585
+New York,2020-04-30,4681
+New York,2020-05-01,3942
+New York,2020-05-02,4663
+New York,2020-05-03,3438
+New York,2020-05-04,2538
+New York,2020-05-05,2239
+New York,2020-05-06,2786
+New York,2020-05-07,3671
+New York,2020-05-08,2758
+New York,2020-05-09,2715
+New York,2020-05-10,2273
+New York,2020-05-11,1660
+New York,2020-05-12,1430
+New York,2020-05-13,2176
+New York,2020-05-14,2390
+New York,2020-05-15,2762
+New York,2020-05-16,2419
+New York,2020-05-17,1889
+New York,2020-05-18,1250
+New York,2020-05-19,1474
+New York,2020-05-20,1525
+New York,2020-05-21,2088
+New York,2020-05-22,1696
+New York,2020-05-23,1772
+New York,2020-05-24,1589
+New York,2020-05-25,1249
+New York,2020-05-26,1072
+New York,2020-05-27,1129
+New York,2020-05-28,1768
+New York,2020-05-29,1551
+New York,2020-05-30,1376
+New York,2020-05-31,1110
+New York,2020-06-01,941
+New York,2020-06-02,1329
+New York,2020-06-03,1045
+New York,2020-06-04,1048
+New York,2020-06-05,1075
+New York,2020-06-06,1108
+New York,2020-06-07,781
+New York,2020-06-08,702
+New York,2020-06-09,683
+New York,2020-06-10,674
+New York,2020-06-11,736
+New York,2020-06-12,822
+New York,2020-06-13,916
+New York,2020-06-14,694
+New York,2020-06-15,620
+New York,2020-06-16,631
+New York,2020-06-17,567
+New York,2020-06-18,618
+New York,2020-06-19,796
+New York,2020-06-20,716
+New York,2020-06-21,664
+New York,2020-06-22,552
+New York,2020-06-23,597
+New York,2020-06-24,581
+New York,2020-06-25,749
+New York,2020-06-26,805
+New York,2020-06-27,703
+New York,2020-06-28,616
+New York,2020-06-29,391
+New York,2020-06-30,524
+New York,2020-07-01,625
+New York,2020-07-02,875
+New York,2020-07-03,918
+New York,2020-07-04,726
+New York,2020-07-05,533
+New York,2020-07-06,518
+New York,2020-07-07,588
+New York,2020-07-08,692
+New York,2020-07-09,584
+New York,2020-07-10,786
+New York,2020-07-11,730
+New York,2020-07-12,677
+New York,2020-07-13,557
+New York,2020-07-14,912
+New York,2020-07-15,831
+New York,2020-07-16,769
+New York,2020-07-17,776
+Texas,2020-03-17,0
+Texas,2020-03-18,19
+Texas,2020-03-19,60
+Texas,2020-03-20,51
+Texas,2020-03-21,110
+Texas,2020-03-22,30
+Texas,2020-03-23,18
+Texas,2020-03-24,58
+Texas,2020-03-25,564
+Texas,2020-03-26,422
+Texas,2020-03-27,335
+Texas,2020-03-28,321
+Texas,2020-03-29,500
+Texas,2020-03-30,325
+Texas,2020-03-31,389
+Texas,2020-04-01,731
+Texas,2020-04-02,672
+Texas,2020-04-03,661
+Texas,2020-04-04,780
+Texas,2020-04-05,702
+Texas,2020-04-06,464
+Texas,2020-04-07,986
+Texas,2020-04-08,1091
+Texas,2020-04-09,877
+Texas,2020-04-10,1441
+Texas,2020-04-11,890
+Texas,2020-04-12,923
+Texas,2020-04-13,422
+Texas,2020-04-14,718
+Texas,2020-04-15,868
+Texas,2020-04-16,963
+Texas,2020-04-17,916
+Texas,2020-04-18,889
+Texas,2020-04-19,663
+Texas,2020-04-20,535
+Texas,2020-04-21,738
+Texas,2020-04-22,873
+Texas,2020-04-23,875
+Texas,2020-04-24,862
+Texas,2020-04-25,967
+Texas,2020-04-26,858
+Texas,2020-04-27,666
+Texas,2020-04-28,874
+Texas,2020-04-29,883
+Texas,2020-04-30,1033
+Texas,2020-05-01,1142
+Texas,2020-05-02,1293
+Texas,2020-05-03,1026
+Texas,2020-05-04,784
+Texas,2020-05-05,1037
+Texas,2020-05-06,1053
+Texas,2020-05-07,968
+Texas,2020-05-08,1219
+Texas,2020-05-09,1251
+Texas,2020-05-10,1009
+Texas,2020-05-11,1000
+Texas,2020-05-12,1179
+Texas,2020-05-13,1355
+Texas,2020-05-14,1448
+Texas,2020-05-15,1347
+Texas,2020-05-16,1801
+Texas,2020-05-17,785
+Texas,2020-05-18,909
+Texas,2020-05-19,1219
+Texas,2020-05-20,1411
+Texas,2020-05-21,945
+Texas,2020-05-22,1181
+Texas,2020-05-23,1060
+Texas,2020-05-24,839
+Texas,2020-05-25,623
+Texas,2020-05-26,589
+Texas,2020-05-27,1361
+Texas,2020-05-28,1855
+Texas,2020-05-29,1230
+Texas,2020-05-30,1332
+Texas,2020-05-31,1949
+Texas,2020-06-01,593
+Texas,2020-06-02,1688
+Texas,2020-06-03,1703
+Texas,2020-06-04,1649
+Texas,2020-06-05,1693
+Texas,2020-06-06,1940
+Texas,2020-06-07,1425
+Texas,2020-06-08,638
+Texas,2020-06-09,1637
+Texas,2020-06-10,2504
+Texas,2020-06-11,1826
+Texas,2020-06-12,2097
+Texas,2020-06-13,2331
+Texas,2020-06-14,1843
+Texas,2020-06-15,1254
+Texas,2020-06-16,4098
+Texas,2020-06-17,3129
+Texas,2020-06-18,3516
+Texas,2020-06-19,3454
+Texas,2020-06-20,4430
+Texas,2020-06-21,3866
+Texas,2020-06-22,3280
+Texas,2020-06-23,5489
+Texas,2020-06-24,5551
+Texas,2020-06-25,5996
+Texas,2020-06-26,5707
+Texas,2020-06-27,5747
+Texas,2020-06-28,5357
+Texas,2020-06-29,4283
+Texas,2020-06-30,6975
+Texas,2020-07-01,8076
+Texas,2020-07-02,7915
+Texas,2020-07-03,7555
+Texas,2020-07-04,8258
+Texas,2020-07-05,3449
+Texas,2020-07-06,5318
+Texas,2020-07-07,10028
+Texas,2020-07-08,9979
+Texas,2020-07-09,9782
+Texas,2020-07-10,9765
+Texas,2020-07-11,10351
+Texas,2020-07-12,8196
+Texas,2020-07-13,5655
+Texas,2020-07-14,10745
+Texas,2020-07-15,7307
+Texas,2020-07-16,10291
+Texas,2020-07-17,14916

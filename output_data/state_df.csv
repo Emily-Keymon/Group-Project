@@ -1,7 +1,7 @@
 ,State,Governor,Statewide Shelter in Place Date,Phase One Reopening Date,Number Days Closed,Total cases (3/1/20 to 7/21/20),Population
-0,Florida,Ron DeSantis (R),4/2/20,5/4/20,32,379619,20598139
-1,Georgia,Brian Kemp (R),4/3/20,4/24/20,21,145575,10297484
-2,New York,Andrew Cuomo (D),3/22/20,Still closed,125,408886,19618453
-3,Texas,Greg Abbott (R),4/2/20,5/1/20,29,332434,27885195
-4,New Jersey,Phil Murphy (D),3/21/20,Still closed,30,180295,8881845
-5,Connecticut,Ned Lamont (D),3/23/20,Still closed,28,49077,3581504
+0,Connecticut,Ned Lamont (D),3/23/20,Still closed,124,49077,3581504
+1,Florida,Ron DeSantis (R),4/2/20,5/4/20,32,379619,20598139
+2,Georgia,Brian Kemp (R),4/3/20,4/24/20,21,145575,10297484
+3,New Jersey,Phil Murphy (D),3/21/20,Still closed,126,180295,8881845
+4,New York,Andrew Cuomo (D),3/22/20,Still closed,125,408886,19618453
+5,Texas,Greg Abbott (R),4/2/20,5/1/20,29,332434,27885195
