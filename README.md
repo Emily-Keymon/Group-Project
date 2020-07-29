@@ -13,7 +13,7 @@
 ## Questions for analysis:
 * How do the three data sets compare?  Are there any consistencies in data?  Is there any bias in the data sources?
 * What % of population is tested?  How much does testing vary from state to state?
-* Was there any impact from the state shutdown and reopening timing on these five states?
+* Was there any impact from the state shutdown and reopening timing on these states?
 
 ## Why did we pick those specific states?
 *All state data as of 7/22/20
