@@ -12,8 +12,13 @@
 
 ## Questions for analysis:
 * How do the three data sets compare?  Do they reveal either consistencies or inconsistencies?
-* What % of population was tested and how much does testing vary from state to state? Does the testing percentages correlate to COVID-19 count?
+* What % of population was tested and how much does testing vary from state to state? Do the testing percentages correlate to COVID-19 count?
 * Did the state shutdown and reopening timings of these six states impact the daily new COVID-19 cases? Did the reopening of specific businesses in certain states cause COVID-19 transmission to skyrocket?
+
+## Answers to our questions:
+*  The three data sets selected for this analysis proved to be staistically significantly similar.  The histogram showed the data sets overlayed each other indicating the data sets are similar.  For further analysis, a t-test was performed.  This resulted in t-scores with p-values larger than .05.  Therefore, the difference found is not statistically significanlty different.
+* The correlation coefficient between testing percentages and COVID-19 count was only 0.12, which indicates there is no relationship between the two variables. This is also demonstrated in the scatter plot where the data points are spread all over rather than being clustered in a linear fashion. The r-squared value of 0.0136 indicates that only 1.36% of the movements of daily COVID-19 count (dependent variable) are explained by the movements in the testing percentage (independent variable). Thus, there is no relationship between the two at all.
+* The t-test produced a p-value that is significantly smaller than 0.05, which indicates that the differences between the average COVID-19 daily cases in the two state groups is statistically significant. This indicates that the reopening of bars, nightclubs, recreational venues, and lax restaurant dine-in policies significantly contributed to higher transmissions of COVID-19.
 
 ## Why did we pick those specific states?
 *All state data as of 7/22/20
@@ -30,12 +35,6 @@
 * New York was #4 on the list.  The largest daily spike occurred on 4/10/20 at 8,593 cases per day.  The current 7-day average is 200 new cases per day.  
 * Texas was #3 on the list.  Texas started seeing daily cases over 1,000 starting 5/5/20.  The largest daily spike so far occurred on 7/17/20 at 14,916 cases per day.  The 7-day average is currently 9,893.
 
-
-
-## Answers to our questions:
-*  The three data sets selected for this analysis proved to be staistically significantly similar.  The histogram showed the data sets overlayed each other indicating the data sets are similar.  For further analysis, a t-test analysis was performed.  This resulted in t-scores with p-values larger than .05.  Therefore, the difference found is not statistically significanlty different.
-* The correlation coefficient between testing percentages and COVID-19 count was only 0.12, which indicates there is no relationship between the two variables. This is also demonstrated in the scatter plot where the data points are spread all over rather than being clustered in a linear fashion. The r-squared value of 0.0136 indicates that only 1.36% of the movements of daily COVID-19 count (dependent variable) are explained by the movements in the testing percentage (independent variable). Thus, there is no relationship between the two at all.
-* The t-test produced a p-value that is significantly smaller than 0.05, which indicates that the differences between the average COVID-19 daily cases in the two state groups is statistically significant. This indicates that the reopening of bars, nightclubs, recreational venues, and lax restaurant dine-in policies significantly contributed to higher transmissions of COVID-19.
 
 
 ## References:
